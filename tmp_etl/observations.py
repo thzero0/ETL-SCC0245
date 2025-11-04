@@ -33,7 +33,6 @@ def normalize_string_column(df, colname):
           .withColumn(colname, remove_accents(col(colname)))
           .withColumn(colname, initcap(lower(col(colname))))
           .withColumn(colname, regexp_replace(col(colname), r"\s+", " ")) # Tira vários espaços
-          .withColumn(colname, split(col(colname), ',').getItem(0))  # Casos em que as pessoas armazenaram "<Cidade> , <Bairro>, <Rua> ...." vamos filtrar apenas a cidade mesmo
     )
 
 def generate_local_dim(csv_path: str):
@@ -324,7 +323,7 @@ def generate_fact_observation(rates_path: str, session_path: str):
 
 
     # Junta com dim_local
-    df = df.join(dim_local, (df["Latitude"] == dim_local["latitude"]) & (df["Longitude"] == dim_local["longitude"]) & (df["Elevation"] == dim_local["elevation_m"]), "left").select(df['*'], dim_local['sk_local'])
+    df = df.join(dim_local, (df["Latitude"] == dim_local["latitude"]) & (df["Longitude"] == dim_local["longitude"]) & (df["Elevation"] == dim_local["elevation_m"]) & (df["City"] == dim_local["raw_city"]), "left").select(df['*'], dim_local['sk_local'])
 
     # Junta com dim_shower
     df = df.join(dim_shower, df["Shower"] == dim_shower["IAU_code"], "left").select(df['*'], dim_shower['sk_shower'])
@@ -359,10 +358,10 @@ def generate_fact_observation(rates_path: str, session_path: str):
     return fact_observations_path
 
 
-#generate_local_dim(session_path)
-#generate_date_dim(rates_path)
-#generate_time_dim(rates_path)
-#generate_user_dim(session_path)
-#generate_shower_dim(rates_path, meteor_shower_path)
-#generate_junk_dim(rates_path)
+generate_local_dim(session_path)
+generate_date_dim(rates_path)
+generate_time_dim(rates_path)
+generate_user_dim(session_path)
+generate_shower_dim(rates_path, meteor_shower_path)
+generate_junk_dim(rates_path)
 generate_fact_observation(rates_path, session_path)
