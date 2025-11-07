@@ -6,11 +6,8 @@ from pyspark.sql.types import StringType
 from pyspark.sql.window import Window
 import unidecode
 
-
-
-session_path = "../data/Session-IMO-VMDB-Year-2022.csv"
-rates_path = "../data/Rate-IMO-VMDB-Year-2022.csv"
-meteor_shower_path = "../data/IMO_Working_Meteor_Shower_List.csv"
+from utils import compute_locations, normalize_text, normalize_string_column, getDistanceFromLatLonInKm
+from utils import session_path, rates_path, locations_path, meteor_shower_path
 
 dim_local_path = "../data/output/observations/dim_local.parquet"
 dim_date_path = "../data/output/observations/dim_date.parquet"
@@ -20,80 +17,85 @@ dim_shower_path = "../data/output/observations/dim_shower.parquet"
 dim_junk_path = "../data/output/observations/dim_junk.parquet"
 fact_observations_path = "../data/output/observations/fact_observations.parquet"
 
-# UDF para remover acentos
-@udf(returnType=StringType())
-def remove_accents(text):
-    if text is None:
-        return None
-    return unidecode.unidecode(text)
+def generate_local_dim(session_path: str, locations_path: str):
 
-def normalize_string_column(df, colname):
-    return (
-        df.withColumn(f"raw_{colname}", col(colname))  # mantém o valor original
-          .withColumn(colname, remove_accents(col(colname)))
-          .withColumn(colname, initcap(lower(col(colname))))
-          .withColumn(colname, regexp_replace(col(colname), r"\s+", " ")) # Tira vários espaços
-    )
+    compute_locations(locations_path, session_path)
+    spark = SparkSession.builder.appName("GenerateLocalDim").getOrCreate()
+    df = spark.read.option("delimiter", ";").csv(session_path, header=True, inferSchema=True)
+    df_locations = spark.read.option("delimiter", ",").csv(locations_path, header=True, inferSchema=True)
 
-def generate_local_dim(csv_path: str):
-    spark = SparkSession.builder.getOrCreate()
-    df = spark.read.option("delimiter", ";").csv(csv_path, header=True)
-
-    # Normaliza as colunas de cidade e país, mas mantém o dado bruto também para eventuais auditorias
-    df = normalize_string_column(df, "City")
-    df = normalize_string_column(df, "Country")
-
-    # FIltra apenas as cidades “válidas” com regex (apenas letras, espaços e hífen)
-    df = df.withColumn(
-        "city",
-        when(col("City").rlike(r"^[A-Za-zÀ-ÿ\s\-]+$"), col("City"))
-        .otherwise(lit("Unknown"))
-    )
-
-    # Filtra apenas os países que são "válidos" (apenas letras, espaços e hífen)
-    df = df.withColumn(
-        "country",
-        when(col("Country").rlike(r"^[A-Za-zÀ-ÿ\s\-]+$"), col("Country"))
-        .otherwise(lit("Unknown"))
-    )
-
-    df = df.withColumn("latitude", col("latitude").cast("double")) \
-       .withColumn("longitude", col("longitude").cast("double"))
+    location_columns = df_locations.columns
     
-    df = df.withColumn("elevation_km", col("elevation")/1000)
+    df_locations_renamed = df_locations
+    for c in location_columns:
+        df_locations_renamed = df_locations_renamed.withColumnRenamed(c, f"loc_{c}")
+    
+    df_cross = df.crossJoin(df_locations_renamed).filter(
+        (sf.abs(sf.col("Latitude") - sf.col("loc_Latitude")) < 0.1) &
+        (sf.abs(sf.col("Longitude") - sf.col("loc_Longitude")) < 0.1)
+    )
+    
+    dLat = sf.radians(sf.col("Latitude") - sf.col("loc_Latitude"))
+    dLon = sf.radians(sf.col("Longitude") - sf.col("loc_Longitude"))
+
+    tmp = (
+        sf.pow(sf.sin(dLat / 2), 2) +
+        sf.cos(sf.radians(sf.col("loc_Latitude"))) * sf.cos(sf.radians(sf.col("Latitude"))) *
+        sf.pow(sf.sin(dLon / 2), 2)
+    )
+    
+    df_cross = df_cross.withColumn(
+        "distance",
+        (6371 * 2 * sf.asin(sf.sqrt(tmp)))
+    )
+
+    window = Window.partitionBy(col("Session ID")).orderBy("distance")
+    df_nearest = (df_cross.withColumn("rank", sf.row_number().over(window))
+                  .filter(sf.col("rank") == 1)
+                  .drop("rank"))
+    
+
+    df_temp = df_nearest.withColumn("Latitude", col("Latitude").cast("double")) \
+                        .withColumn("Longitude", col("Longitude").cast("double"))
 
 
-    df = df.select(
-        col("City").alias("city"),
-        col("Country").alias("country"),
+    df_temp = df_temp.withColumn("elevation_km", col("Elevation")/1000)
+
+    df_dim_source = df_temp.select(
+        col("loc_City").alias("city"),
+        col("loc_Country").alias("country"),
+        col('loc_Village_or_hamlet').alias("village_or_hamlet"), 
+        col("loc_County").alias("county"),
+        col("loc_State").alias("state"),
+        col("loc_CountryCode").alias("country_code"),
         col("Latitude").alias("latitude"),
         col("Longitude").alias("longitude"),
         col("Elevation").alias("elevation_m"),
         col("elevation_km"),
-        col("raw_City").alias("raw_city"),
-        col("raw_Country").alias("raw_country")
     ).dropDuplicates()
 
 
-    df = df.orderBy(["country", "city"])
+    df_dim_source = df_dim_source.orderBy(["country", "city"])
 
-    window = Window.orderBy(lit(1))
-    df = df.withColumn("sk_local", row_number().over(window))
+    window_sk = Window.orderBy(lit(1))
+    df_with_sk = df_dim_source.withColumn("sk_local", row_number().over(window_sk))
 
-    df = df.select(
+    df_final_dim = df_with_sk.select(
         "sk_local",
         "country",
         "city",
+        "village_or_hamlet",
+        "county",
+        "state",
+        "country_code",
         "latitude",
         "longitude",
         "elevation_m",
         "elevation_km",
-        "raw_city",
-        "raw_country"
     )
 
-    df = df.orderBy('sk_local')
-    df.write.parquet(dim_local_path, mode="overwrite")
+    df_final_dim = df_final_dim.orderBy('sk_local')
+    df_final_dim.write.parquet(dim_local_path, mode="overwrite")
     return dim_local_path
 
 
@@ -358,10 +360,10 @@ def generate_fact_observation(rates_path: str, session_path: str):
     return fact_observations_path
 
 
-generate_local_dim(session_path)
-generate_date_dim(rates_path)
-generate_time_dim(rates_path)
-generate_user_dim(session_path)
-generate_shower_dim(rates_path, meteor_shower_path)
-generate_junk_dim(rates_path)
-generate_fact_observation(rates_path, session_path)
+generate_local_dim(session_path, locations_path)
+#generate_date_dim(rates_path)
+#generate_time_dim(rates_path)
+#generate_user_dim(session_path)
+#generate_shower_dim(rates_path, meteor_shower_path)
+#generate_junk_dim(rates_path)
+#generate_fact_observation(rates_path, session_path)
