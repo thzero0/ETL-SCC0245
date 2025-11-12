@@ -6,14 +6,14 @@ from pyspark.sql.types import StringType
 from pyspark.sql.window import Window
 import unidecode
 
-from utils import compute_locations, normalize_text, normalize_string_column, getDistanceFromLatLonInKm
-from utils import session_path, rates_path, locations_path, meteor_shower_path
+from utils import compute_locations, normalize_text, normalize_string_column, haversine_distance, threshold
+from utils import session_path, rates_path, locations_path, meteor_shower_path, magnitude_path
 
-dim_local_path = "../data/output/observations/dim_local.parquet"
-dim_date_path = "../data/output/observations/dim_date.parquet"
-dim_time_path = "../data/output/observations/dim_time.parquet"
-dim_user_path = "../data/output/observations/dim_user.parquet"
-dim_shower_path = "../data/output/observations/dim_shower.parquet"
+dim_local_path = "../data/output/common/dim_local.parquet"
+dim_date_path = "../data/output/common/dim_date.parquet"
+dim_time_path = "../data/output/common/dim_time.parquet"
+dim_user_path = "../data/output/common/dim_user.parquet"
+dim_shower_path = "../data/output/common/dim_shower.parquet"
 dim_junk_path = "../data/output/observations/dim_junk.parquet"
 fact_observations_path = "../data/output/observations/fact_observations.parquet"
 
@@ -30,10 +30,8 @@ def generate_local_dim(session_path: str, locations_path: str):
     for c in location_columns:
         df_locations_renamed = df_locations_renamed.withColumnRenamed(c, f"loc_{c}")
     
-    df_cross = df.crossJoin(df_locations_renamed).filter(
-        (sf.abs(sf.col("Latitude") - sf.col("loc_Latitude")) < 0.1) &
-        (sf.abs(sf.col("Longitude") - sf.col("loc_Longitude")) < 0.1)
-    )
+    # trocar esse threshold por uma função de distância haversine
+    df_cross = df.crossJoin(df_locations_renamed).filter(haversine_distance(df["Latitude"], df["Longitude"], df_locations_renamed["loc_Latitude"], df_locations_renamed["loc_Longitude"]) <= threshold)
     
     dLat = sf.radians(sf.col("Latitude") - sf.col("loc_Latitude"))
     dLon = sf.radians(sf.col("Longitude") - sf.col("loc_Longitude"))
@@ -94,15 +92,31 @@ def generate_local_dim(session_path: str, locations_path: str):
         "elevation_km",
     )
 
+
+    null_row = spark.createDataFrame([(-1,)], ["sk_local"]) \
+        .withColumn("country", lit("Unknown")) \
+        .withColumn("city", lit("Unknown")) \
+        .withColumn("village_or_hamlet", lit("Unknown")) \
+        .withColumn("county", lit("Unknown")) \
+        .withColumn("state", lit("Unknown")) \
+        .withColumn("country_code", lit("N/A")) \
+        .withColumn("latitude", lit(-999).cast("double")) \
+        .withColumn("longitude", lit(-999).cast("double")) \
+        .withColumn("elevation_m", lit(-999999).cast("double")) \
+        .withColumn("elevation_km", lit(-999999).cast("double"))
+    
+    df_final_dim = df_final_dim.unionByName(null_row)
+
     df_final_dim = df_final_dim.orderBy('sk_local')
     df_final_dim.write.parquet(dim_local_path, mode="overwrite")
     return dim_local_path
 
 
 
-def generate_date_dim(rates_path: str):
+def generate_date_dim(rates_path: str, magnitude_path: str):
     spark = SparkSession.builder.getOrCreate()
     df_rates = spark.read.option("delimiter", ";").csv(rates_path, header=True)
+    df_magnitude = spark.read.option("delimiter", ";").csv(magnitude_path, header=True)
 
     rates_start_dates =  df_rates.select(
         sf.concat_ws("", 
@@ -140,34 +154,116 @@ def generate_date_dim(rates_path: str):
         sf.when( ( (sf.year(col('End Date')) % 400 == 0) | ((sf.year(col('End Date')) % 4 == 0) & (sf.year(col('End Date')) % 100 != 0))), 1).otherwise(0).alias('is_leap_year')
     )
 
-    df = rates_start_dates.union(rates_end_dates).dropDuplicates()
+    magnitude_start_dates =  df_magnitude.select(
+        sf.concat_ws("", 
+                     sf.year(col('Start Date')).cast('string'), 
+                     sf.lpad(sf.month(col('Start Date')).cast('string'), 2, '0'), 
+                     sf.lpad(sf.day(col('Start Date')).cast('string'), 2, '0')).cast('int').alias('pk_date'),
+        sf.year(col('Start Date')).alias('year'),
+        sf.monthname(col('Start Date')).alias('month_name'),
+        sf.month(col('Start Date')).alias('month'),
+        sf.day(col('Start Date')).alias('day'),
+        sf.weekday(col('Start Date')).alias('week_day'),
+        sf.weekofyear(col('Start Date')).alias('week_of_year'),
+        sf.dayofyear(col('Start Date')).alias('day_of_year'),
+        sf.when(sf.month(col('Start Date')) <= 6, 1).otherwise(2).alias('semester'),
+        sf.quarter(col('Start Date')).alias('trimester'),
+        sf.ceil(sf.month(col('Start Date')) / 2).alias('bimester'),
+        sf.when( ( (sf.year(col('Start Date')) % 400 == 0) | ((sf.year(col('Start Date')) % 4 == 0) & (sf.year(col('Start Date')) % 100 != 0))), 1).otherwise(0).alias('is_leap_year')
+    )
+
+    magnitude_end_dates = df_magnitude.select(
+        sf.concat_ws("", 
+                     sf.year(col('End Date')).cast('string'), 
+                     sf.lpad(sf.month(col('End Date')).cast('string'), 2, '0'), 
+                     sf.lpad(sf.day(col('End Date')).cast('string'), 2, '0')).cast('int').alias('pk_date'),
+        sf.year(col('End Date')).alias('year'),
+        sf.monthname(col('End Date')).alias('month_name'),
+        sf.month(col('End Date')).alias('month'),
+        sf.day(col('End Date')).alias('day'),
+        sf.weekday(col('End Date')).alias('week_day'),
+        sf.weekofyear(col('End Date')).alias('week_of_year'),
+        sf.dayofyear(col('End Date')).alias('day_of_year'),
+        sf.when(sf.month(col('End Date')) <= 6, 1).otherwise(2).alias('semester'),
+        sf.quarter(col('End Date')).alias('trimester'),
+        sf.ceil(sf.month(col('End Date')) / 2).alias('bimester'),
+        sf.when( ( (sf.year(col('End Date')) % 400 == 0) | ((sf.year(col('End Date')) % 4 == 0) & (sf.year(col('End Date')) % 100 != 0))), 1).otherwise(0).alias('is_leap_year')
+    )
+
+    start_dates = rates_start_dates.union(magnitude_start_dates).dropDuplicates()
+    end_dates = rates_end_dates.union(magnitude_end_dates).dropDuplicates()
+
+    df = start_dates.union(end_dates).dropDuplicates()
+
+    null_row = spark.createDataFrame([(-1,)], ["pk_date"]) \
+        .withColumn("year", lit(-1)) \
+        .withColumn("month_name", lit("Unknown")) \
+        .withColumn("month", lit(-1)) \
+        .withColumn("day", lit(-1)) \
+        .withColumn("week_day", lit(-1)) \
+        .withColumn("week_of_year", lit(-1)) \
+        .withColumn("day_of_year", lit(-1)) \
+        .withColumn("semester", lit(-1)) \
+        .withColumn("trimester", lit(-1)) \
+        .withColumn("bimester", lit(-1)) \
+        .withColumn("is_leap_year", lit(-1))
+    
+    df = df.unionByName(null_row)
 
     df = df.orderBy("pk_date")
 
     df.write.parquet(dim_date_path, mode="overwrite")
-    #df.show()
+
     return dim_date_path
 
 
-def generate_time_dim(rates_path: str):
+def generate_time_dim(rates_path: str, magnitude_path: str):
     spark = SparkSession.builder.getOrCreate()
     df = spark.read.option("delimiter", ";").csv(rates_path, header=True)
+    df2 = spark.read.option("delimiter", ";").csv(magnitude_path, header=True)
 
-    df = df.withColumn("label", lit("HH:MM:SS"))
     df =  df.select(
-        sf.concat_ws("", 
-                     sf.lpad(sf.hour(col('Start Date')).cast('string'), 2, '0'), 
-                     sf.lpad(sf.minute(col('Start Date')).cast('string'), 2, '0'), 
-                     sf.lpad(sf.second(col('Start Date')).cast('string'), 2, '0')).cast('int').alias('pk_time'),
         sf.hour(col('Start Date')).alias('hour'),
         sf.minute(col('Start Date')).alias('minute'),
         sf.second(col('Start Date')).alias('second'),
-        "label"
+        sf.concat(sf.lpad(sf.hour(col("Start Date")).cast("string"), 2, '0'), lit(':'), 
+            sf.lpad(sf.minute(col("Start Date")).cast("string"), 2, '0'), lit(':'), 
+            sf.lpad(sf.second(col("Start Date")).cast("string"), 2, '0')).alias("label"),
     )
 
-    
+    df2 =  df2.select(
+        sf.hour(col('Start Date')).alias('hour'),
+        sf.minute(col('Start Date')).alias('minute'),
+        sf.second(col('Start Date')).alias('second'),
+        sf.concat(sf.lpad(sf.hour(col("Start Date")).cast("string"), 2, '0'), lit(':'), 
+            sf.lpad(sf.minute(col("Start Date")).cast("string"), 2, '0'), lit(':'), 
+            sf.lpad(sf.second(col("Start Date")).cast("string"), 2, '0')).alias("label"),
+    )
 
-    df = df.dropDuplicates().orderBy("pk_time")
+    # create values for weather time (00:00:00, 01:00:00, ..., 23:00:00)
+    weather_times = spark.createDataFrame([(i,) for i in range(24)], ["hour"]) \
+        .withColumn("minute", lit(0)) \
+        .withColumn("second", lit(0)) \
+        .withColumn("label", sf.concat(sf.lpad(col("hour").cast("string"), 2, '0'), lit(":00:00")))
+
+    df = df.union(df2).union(weather_times)
+
+    df = df.orderBy("hour", "minute", "second").dropDuplicates()
+
+    window = Window.orderBy("hour", "minute", "second")
+    df = df.withColumn("sk_time", row_number().over(window))
+
+    null_row = spark.createDataFrame([(-1,)], ["sk_time"]) \
+        .withColumn("hour", lit(-1)) \
+        .withColumn("minute", lit(-1)) \
+        .withColumn("second", lit(-1)) \
+        .withColumn("label", lit("Unknown"))
+
+    df = df.select("sk_time", "hour", "minute", "second", "label")
+
+    df = df.unionByName(null_row)
+
+    df = df.orderBy("sk_time")
 
     df.write.parquet(dim_time_path, mode="overwrite")
     #df.show()
@@ -206,9 +302,12 @@ def generate_user_dim(session_path: str):
         "user_id",
         "first_name",
         "last_name",
-    ).orderBy("sk_user")
+    )
 
+    null_row = spark.createDataFrame([(-1, -1, "Unknown", "Unknown")], ["sk_user", "user_id", "first_name", "last_name"])
+    users = users.unionByName(null_row)
 
+    users = users.orderBy("sk_user")
 
     users.write.parquet(dim_user_path, mode="overwrite")
     #df.show()
@@ -237,7 +336,15 @@ def generate_shower_dim(rates_path: str, meteor_shower_path: str):
     window = Window.orderBy(lit(1))
     df = df.withColumn("sk_shower", row_number().over(window))
 
-    df = df.select("sk_shower", "IAU_code", "name").orderBy("sk_shower")
+    df = df.select("sk_shower", "IAU_code", "name")
+
+    sporadic_row = spark.createDataFrame([(0, "SPO", "Sporadic Meteors")], ["sk_shower", "IAU_code", "name"])
+    df = df.unionByName(sporadic_row)
+
+    null_row = spark.createDataFrame([(-1, "N/A", "Unknown")], ["sk_shower", "IAU_code", "name"])
+    df = df.unionByName(null_row)
+
+    df = df.orderBy("sk_shower")
 
     df.write.parquet(dim_shower_path, mode="overwrite")
     #df.show()
@@ -253,6 +360,9 @@ def generate_junk_dim(rates_path: str):
     df = df.withColumn("sk_junk", row_number().over(window))
 
     df = df.select("sk_junk", "Method").orderBy("sk_junk")
+
+    null_row = spark.createDataFrame([(-1, "Unknown")], ["sk_junk", "Method"])
+    df = df.unionByName(null_row)
 
     df.write.parquet(dim_junk_path, mode="overwrite")
     #df.show()
@@ -282,20 +392,6 @@ def generate_fact_observation(rates_path: str, session_path: str):
                      sf.lpad(sf.day(col('End Date')).cast('string'), 2, '0')).cast('int')
     )
 
-    df = df.withColumn("pk_time_start",
-        sf.concat_ws("", 
-                     sf.hour(col('Start Date')).cast('string'),
-                     sf.lpad(sf.minute(col('Start Date')).cast('string'), 2, '0'),
-                     sf.lpad(sf.second(col('Start Date')).cast('string'), 2, '0')).cast('int')
-    )
-
-    df = df.withColumn("pk_time_end",
-        sf.concat_ws("", 
-                     sf.hour(col('End Date')).cast('string'),
-                     sf.lpad(sf.minute(col('End Date')).cast('string'), 2, '0'),
-                     sf.lpad(sf.second(col('End Date')).cast('string'), 2, '0')).cast('int')
-    )
-
 
     # separa nomes de observador e submitter
     df = df.withColumn("observer_first_name", split(col("Actual Observer Name"), " ").getItem(0))
@@ -313,25 +409,44 @@ def generate_fact_observation(rates_path: str, session_path: str):
     dim_local = spark.read.parquet(dim_local_path)
     dim_user = spark.read.parquet(dim_user_path)
     dim_user_aux = spark.read.parquet(dim_user_path)
+    dim_time = spark.read.parquet(dim_time_path)
+    dim_time_aux = spark.read.parquet(dim_time_path)
     dim_shower = spark.read.parquet(dim_shower_path)
     dim_junk = spark.read.parquet(dim_junk_path)
 
     
     # Join com observador via nome
     df = df.join(dim_user, col("Observer ID") == dim_user['user_id'],"left").select(df['*'], dim_user['sk_user'].alias("observer_id"))
+    df = df.withColumn("observer_id", sf.coalesce(col("observer_id"), lit(-1))) # caso não encontre, atribui chave -1 (Desconhecido)
 
     # Join com submitter via nome
     df = df.join(dim_user_aux, col("Submitter ID") == dim_user_aux['user_id'], "left").select(df['*'], dim_user_aux['sk_user'].alias("submitter_id"))
-
+    df = df.withColumn("submitter_id", sf.coalesce(col("submitter_id"), lit(-1))) 
 
     # Junta com dim_local
-    df = df.join(dim_local, (df["Latitude"] == dim_local["latitude"]) & (df["Longitude"] == dim_local["longitude"]) & (df["Elevation"] == dim_local["elevation_m"]) & (df["City"] == dim_local["raw_city"]), "left").select(df['*'], dim_local['sk_local'])
+    df = df.join(dim_local, (df["Latitude"] == dim_local["latitude"]) & (df["Longitude"] == dim_local["longitude"]) & (df['Elevation'] == dim_local['elevation_m']), "left").select(df['*'], dim_local['sk_local'])
+    df = df.withColumn("sk_local", sf.coalesce(col("sk_local"), lit(-1))) 
+
+    # Junta com dim_time para Start Date
+    df = df.join(dim_time, (sf.hour(df["Start Date"]) == dim_time["hour"]) & 
+                             (sf.minute(df["Start Date"]) == dim_time["minute"]) & 
+                             (sf.second(df["Start Date"]) == dim_time["second"]), "left").select(df['*'], dim_time['sk_time'].alias("pk_time_start"))
+    df = df.withColumn("pk_time_start", sf.coalesce(col("pk_time_start"), lit(-1)))
+
+    # Junta com dim_time para End Date
+    df = df.join(dim_time_aux, (sf.hour(df["End Date"]) == dim_time_aux["hour"]) & 
+                             (sf.minute(df["End Date"]) == dim_time_aux["minute"]) & 
+                             (sf.second(df["End Date"]) == dim_time_aux["second"]), "left").select(df['*'], dim_time_aux['sk_time'].alias("pk_time_end"))
+    df = df.withColumn("pk_time_end", sf.coalesce(col("pk_time_end"), lit(-1)))
+
 
     # Junta com dim_shower
     df = df.join(dim_shower, df["Shower"] == dim_shower["IAU_code"], "left").select(df['*'], dim_shower['sk_shower'])
+    df = df.withColumn("sk_shower", sf.coalesce(col("sk_shower"), lit(-1))) 
 
     # Junta com junk
     df = df.join(dim_junk, df["Method"] == dim_junk["Method"], "left").select(df['*'], dim_junk['sk_junk'])
+    df = df.withColumn("sk_junk", sf.coalesce(col("sk_junk"), lit(-1))) 
 
     # selecionar apenas as chaves e métricas
     df = df.select(
@@ -353,7 +468,7 @@ def generate_fact_observation(rates_path: str, session_path: str):
         col("Number").alias("meteors_counted"),
     ).dropDuplicates()
 
-    df.orderBy("id_observation")
+    df = df.orderBy("id_observation")
 
     df.write.parquet(fact_observations_path, mode="overwrite")
     #df.show()
@@ -361,9 +476,9 @@ def generate_fact_observation(rates_path: str, session_path: str):
 
 
 generate_local_dim(session_path, locations_path)
-#generate_date_dim(rates_path)
-#generate_time_dim(rates_path)
-#generate_user_dim(session_path)
-#generate_shower_dim(rates_path, meteor_shower_path)
-#generate_junk_dim(rates_path)
-#generate_fact_observation(rates_path, session_path)
+generate_date_dim(rates_path, magnitude_path)
+generate_time_dim(rates_path, magnitude_path)
+generate_user_dim(session_path)
+generate_shower_dim(rates_path, meteor_shower_path)
+generate_junk_dim(rates_path)
+generate_fact_observation(rates_path, session_path)

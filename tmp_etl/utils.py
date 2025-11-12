@@ -17,12 +17,13 @@ weather_code_path = "../data/weather_description.csv"
 rates_path = "../data/Rate-IMO-VMDB-Year-2022.csv"
 locations_path = "../data/locations.csv"
 meteor_shower_path = "../data/IMO_Working_Meteor_Shower_List.csv"
+magnitude_path = "../data/2022-Magnitude.csv"
 
 geolocator = Nominatim(user_agent="Obtain_Locations_ETL")
 
 # Threshold da distancia mínima entre dois locais, se a distancia for menor que essa, pega uma localização já existente
 # Distância em Km
-threshold = 10
+threshold = 1
 
 
 
@@ -45,6 +46,14 @@ def getDistanceFromLatLonInKm(lat1: float, lon1: float, lat2: float, lon2: float
     distance = R * tmp2 
 
     return distance
+
+def haversine_distance(lat1, lon1, lat2, lon2):
+    R = 6371.0
+    dlat = sf.radians(lat2 - lat1)
+    dlon = sf.radians(lon2 - lon1)
+    a = sf.pow(sf.sin(dlat / 2), 2) + sf.cos(sf.radians(lat1)) * sf.cos(sf.radians(lat2)) * sf.pow(sf.sin(dlon / 2), 2)
+    c = 2 * sf.atan2(sf.sqrt(a), sf.sqrt(1 - a))
+    return R * c
 
 def compute_locations(path_locations: str, path_session: str):
 
