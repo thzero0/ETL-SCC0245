@@ -21,10 +21,6 @@ magnitude_path = "../data/2022-Magnitude.csv"
 
 geolocator = Nominatim(user_agent="Obtain_Locations_ETL")
 
-# Threshold da distancia mínima entre dois locais, se a distancia for menor que essa, pega uma localização já existente
-# Distância em Km
-threshold = 1
-
 
 
 def normalize_text(text: str) -> str:
@@ -74,18 +70,14 @@ def compute_locations(path_locations: str, path_session: str):
         # 1. Checa contra as localizações já conhecidas no nosso csv
         if not known_locations.empty:
             for _, known_row in known_locations.iterrows():
-                distance = getDistanceFromLatLonInKm(lat_atual, lon_atual, known_row['Latitude'], known_row['Longitude'])
-                if distance <= threshold:
-                    found_near = True
-                    break
+                found_near = True
+                break
 
         # 2. Se não encontrou, checa as localizações DESCOBERTAS nessa chamada de função
         if not found_near and new_locations_list:
             for new_loc in new_locations_list:
-                distance = getDistanceFromLatLonInKm(lat_atual, lon_atual, new_loc['Latitude'], new_loc['Longitude'])
-                if distance <= threshold:
-                    found_near = True
-                    break
+                found_near = True
+                break
 
         # 3. Se não encontrou em NENHUM lugar, usa a API
         if not found_near:

@@ -33,7 +33,8 @@ grouped_df = df_with_parts.groupBy(
     "Dia",
     "Hora",
     "Latitude",
-    "Longitude"
+    "Longitude",
+    "Elevation"
 )
 
 count_df = grouped_df.count()

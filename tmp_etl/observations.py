@@ -6,7 +6,7 @@ from pyspark.sql.types import StringType
 from pyspark.sql.window import Window
 import unidecode
 
-from utils import compute_locations, normalize_text, normalize_string_column, haversine_distance, threshold
+from utils import compute_locations, normalize_text, normalize_string_column, haversine_distance
 from utils import session_path, rates_path, locations_path, meteor_shower_path, magnitude_path
 
 dim_local_path = "../data/output/common/dim_local.parquet"
@@ -30,36 +30,16 @@ def generate_local_dim(session_path: str, locations_path: str):
     for c in location_columns:
         df_locations_renamed = df_locations_renamed.withColumnRenamed(c, f"loc_{c}")
     
-    # trocar esse threshold por uma função de distância haversine
-    df_cross = df.crossJoin(df_locations_renamed).filter(haversine_distance(df["Latitude"], df["Longitude"], df_locations_renamed["loc_Latitude"], df_locations_renamed["loc_Longitude"]) <= threshold)
-    
-    dLat = sf.radians(sf.col("Latitude") - sf.col("loc_Latitude"))
-    dLon = sf.radians(sf.col("Longitude") - sf.col("loc_Longitude"))
+    df = df.join(df_locations_renamed, (df["Latitude"] == df_locations_renamed["loc_Latitude"]) & 
+                          (df["Longitude"] == df_locations_renamed["loc_Longitude"]) , "left")
 
-    tmp = (
-        sf.pow(sf.sin(dLat / 2), 2) +
-        sf.cos(sf.radians(sf.col("loc_Latitude"))) * sf.cos(sf.radians(sf.col("Latitude"))) *
-        sf.pow(sf.sin(dLon / 2), 2)
-    )
-    
-    df_cross = df_cross.withColumn(
-        "distance",
-        (6371 * 2 * sf.asin(sf.sqrt(tmp)))
-    )
-
-    window = Window.partitionBy(col("Session ID")).orderBy("distance")
-    df_nearest = (df_cross.withColumn("rank", sf.row_number().over(window))
-                  .filter(sf.col("rank") == 1)
-                  .drop("rank"))
-    
-
-    df_temp = df_nearest.withColumn("Latitude", col("Latitude").cast("double")) \
+    df = df.withColumn("Latitude", col("Latitude").cast("double")) \
                         .withColumn("Longitude", col("Longitude").cast("double"))
 
 
-    df_temp = df_temp.withColumn("elevation_km", col("Elevation")/1000)
+    df = df.withColumn("elevation_km", col("Elevation")/1000)
 
-    df_dim_source = df_temp.select(
+    df_dim_source = df.select(
         col("loc_City").alias("city"),
         col("loc_Country").alias("country"),
         col('loc_Village_or_hamlet').alias("village_or_hamlet"), 

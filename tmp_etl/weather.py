@@ -6,7 +6,7 @@ from pyspark.sql.types import StringType
 from pyspark.sql.window import Window
 import unidecode
 
-from utils import compute_locations, normalize_text, normalize_string_column, haversine_distance, threshold
+from utils import compute_locations, normalize_text, normalize_string_column, haversine_distance
 from utils import weather_path, session_path, weather_code_path
 
 dim_local_path = "../data/output/common/dim_local.parquet"
