@@ -1,202 +1,571 @@
 Latitude,Longitude,City,Village_or_Hamlet,County,State,Country,CountryCode
-54.2794444444,26.7438888889,Lebedzeuski Sel'Ski Savet,Palyany,Maladzyechna District,Minsk Region,Belarus,BY
-52.4565337898,12.9708741108,Potsdam,Marquardt,Unknown,Brandenburg,Germany,DE
-32.862445,-116.860013,El Cajon,Blossom Valley,San Diego County,California,United States,US
-32.7475,-116.6677777778,Unknown,Unknown,San Diego County,California,United States,US
-52.1889040881,13.3315001318,Am Mellensee,Gadsdorf,Teltow-Flaming,Brandenburg,Germany,DE
-42.0043391008,-121.8891105104,Unknown,Worden,Klamath County,Oregon,United States,US
-52.85034,11.16467,Salzwedel,Unknown,Altmarkkreis Salzwedel,Saxony-Anhalt,Germany,DE
-53.0325,20.7166666667,Unknown,Czernice Borowe,Przasnysz County,Masovian Voivodeship,Poland,PL
-30.5652777778,34.8852777778,Ramat Negev Regional Council,Unknown,Unknown,South District,Israel,IL
-46.37148,24.47551,Unknown,Bernadea,Mures,Unknown,Romania,RO
-52.2086111111,14.1222222222,Unknown,Lindenberg,Oder-Spree,Brandenburg,Germany,DE
-53.4443994225,13.1200657576,Unknown,Hohenzieritz,Mecklenburgische Seenplatte,Mecklenburg-Vorpommern,Germany,DE
-34.8440565806,33.5780788349,Kiti,Unknown,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
-46.4203239792,15.3729065745,Zrece,Padeski Vrh,Unknown,Unknown,Slovenia,SI
-46.3634827226,15.6051089097,Slovenska Bistrica,Cresnjevec,Unknown,Unknown,Slovenia,SI
-30.2766,-103.569,Unknown,Unknown,Brewster County,Texas,United States,US
-28.6483655155,-17.760751211,Brena Baja,San Antonio,Unknown,Unknown,Spain,ES
-60.3251677554,10.6486093726,Unknown,Roa,Innlandet,Unknown,Norway,NO
-40.5166666667,116.65,Huairou District,Duanshuling,Unknown,Beijing,China,CN
-36.2625,140.1016666667,Sakuragawa,Unknown,Unknown,Unknown,Japan,JP
-42.858379,132.688318,Unknown,Unknown,Nakhodkinskii Gorodskoi Okrug,Primorsky Krai,Russia,RU
-44.1313888889,19.8144444444,Kosjeric Municipality,Radanovci,Zlatibor Administrative District,Unknown,Serbia,RS
-48.8545315681,20.2048653668,Unknown,Telgart,District Of Brezno,Region Of Banska Bystrica,Slovakia,SK
--37.7784,145.4231,Melbourne,Unknown,Unknown,Victoria,Australia,AU
--35.1741468447,150.3698139753,Unknown,Unknown,Unknown,New South Wales,Australia,AU
-51.2833333333,12.3666666667,Markkleeberg,Unknown,Landkreis Leipzig,Saxony,Germany,DE
-38.10025,-78.61604,Unknown,Waverly,Albemarle County,Virginia,United States,US
-39.65973,-86.05006,Indianapolis,Unknown,Marion County,Indiana,United States,US
-51.12,13.61,Radebeul,Unknown,Meissen,Saxony,Germany,DE
--34.8006382064,148.333336445,Unknown,Jugiong,Unknown,New South Wales,Australia,AU
--33.9530333258,151.0372246489,Sydney,Unknown,Unknown,New South Wales,Australia,AU
+36.5222222222,6.1194722222,Terrai Bainen,Beinen,Terrai Bainen District,Mila,Algeria,DZ
+42.5088888889,1.5636111111,Unknown,Engolasters,Unknown,Unknown,Andorra,AD
+42.6308333333,1.4841666667,Unknown,Unknown,Unknown,Unknown,Andorra,AD
+-33.1779698785,-63.2810803131,Unknown,Santa Eufemia,Pedania La Carlota,Cordoba,Argentina,AR
+-33.1958475015,-63.2889753953,Unknown,Santa Eufemia,Pedania La Carlota,Cordoba,Argentina,AR
+-31.7465082506,-60.5227740126,Parana,Unknown,Distrito Sauce,Unknown,Argentina,AR
+-36.0437329075,146.9107678978,Albury,Unknown,Unknown,New South Wales,Australia,AU
+-30.9284032754,150.8481650066,Attunga,Unknown,Unknown,New South Wales,Australia,AU
 -35.5703853579,148.0885226028,Batlow,Kunama,Unknown,New South Wales,Australia,AU
+-29.8631276775,150.5649832695,Bingara,Unknown,Unknown,New South Wales,Australia,AU
+-30.0864609938,145.8976156736,Bourke,Unknown,Bourke Shire Council,New South Wales,Australia,AU
+-30.45799,145.93603,Bourke,Unknown,Bourke Shire Council,New South Wales,Australia,AU
+-33.5131964736,148.6344675897,Canowindra,Unknown,Unknown,New South Wales,Australia,AU
+-36.2520972222,149.0792972222,Cooma,Unknown,Unknown,New South Wales,Australia,AU
+-29.7831433892,151.1199948468,Inverell,Unknown,Unknown,New South Wales,Australia,AU
+-36.4331384419,148.6239135651,Jindabyne,Unknown,Unknown,New South Wales,Australia,AU
+-36.1654720689,148.1574207631,Khancoban,Jagumba,Unknown,New South Wales,Australia,AU
+-34.7050252702,150.0265216827,Marulan,Unknown,Unknown,New South Wales,Australia,AU
+-34.7502512004,149.9752137469,Marulan,Unknown,Unknown,New South Wales,Australia,AU
+-32.3954826458,142.3723194861,Menindee,Unknown,Central Darling Shire Council,New South Wales,Australia,AU
+-30.4224,149.8514,Narrabri,Unknown,Unknown,New South Wales,Australia,AU
+-33.9530333258,151.0372246489,Sydney,Unknown,Unknown,New South Wales,Australia,AU
+-33.74364,151.06776,Sydney,Unknown,Unknown,New South Wales,Australia,AU
+-33.9530972222,151.0371972222,Sydney,Unknown,Unknown,New South Wales,Australia,AU
+-34.1021055556,150.9935444444,Sydney,Unknown,Unknown,New South Wales,Australia,AU
+-33.9530133019,151.0372353777,Sydney,Unknown,Unknown,New South Wales,Australia,AU
+-34.7460638901,150.0574529171,Tallong,Unknown,Unknown,New South Wales,Australia,AU
+-35.3732225072,148.2571829811,Tumut,Jones Bridge,Unknown,New South Wales,Australia,AU
+-35.1741468447,150.3698139753,Unknown,Unknown,Unknown,New South Wales,Australia,AU
+-34.8006382064,148.333336445,Unknown,Jugiong,Unknown,New South Wales,Australia,AU
 -35.6246976247,147.7868200933,Unknown,Carabost,Unknown,New South Wales,Australia,AU
 -36.0388777778,148.7060083333,Unknown,Unknown,Unknown,New South Wales,Australia,AU
 -34.828224297,149.0423775872,Unknown,Jerrawa,Unknown,New South Wales,Australia,AU
-50.5246013326,10.4137914702,Unknown,Untermassfeld,Landkreis Schmalkalden-Meiningen,Thuringia,Germany,DE
-53.2016666667,10.9758333333,Amt Neuhaus,Pommau,Luneburg,Lower Saxony,Germany,DE
-53.4783333333,10.7302777778,Unknown,Greven,Ludwigslust-Parchim,Mecklenburg-Vorpommern,Germany,DE
-53.7144444444,10.8719444444,Unknown,Dechow,Nordwestmecklenburg,Mecklenburg-Vorpommern,Germany,DE
-52.9119444444,11.8686111111,Unknown,Ruhstadt,Prignitz,Brandenburg,Germany,DE
--36.2317661787,147.1703732462,Tallangatta,Unknown,Unknown,Victoria,Australia,AU
-49.536901344,11.4441583713,Unknown,Aspertshofen,Nurnberger Land,Bavaria,Germany,DE
-28.3019892015,-16.5097773066,La Orotava,Unknown,Unknown,Unknown,Spain,ES
--29.7831433892,151.1199948468,Inverell,Unknown,Unknown,New South Wales,Australia,AU
+-29.35904,153.27683,Unknown,Woombah,Unknown,New South Wales,Australia,AU
+-34.8830858499,149.3541747933,Unknown,Lerida,Unknown,New South Wales,Australia,AU
+-33.8988816534,147.9213993772,Unknown,Bimbi,Unknown,New South Wales,Australia,AU
+-33.1003459769,149.7292253268,Unknown,Sofala,Unknown,New South Wales,Australia,AU
+-32.6248314961,149.3203474664,Unknown,Yarrabin,Unknown,New South Wales,Australia,AU
+-32.3662028441,151.2519052143,Unknown,Unknown,Unknown,New South Wales,Australia,AU
+-31.9232485762,151.237187742,Unknown,Moonan Flat,Unknown,New South Wales,Australia,AU
+-29.5335543343,145.8270414654,Unknown,North Bourke,Bourke Shire Council,New South Wales,Australia,AU
+-30.5355263779,145.1134931774,Unknown,Louth,Bourke Shire Council,New South Wales,Australia,AU
+-33.6831221146,142.8418339362,Unknown,Arumpo,Balranald Shire Council,New South Wales,Australia,AU
+-35.9809929157,148.7711263247,Unknown,Adaminaby,Unknown,New South Wales,Australia,AU
+-36.1266,148.6186,Unknown,Eucumbene,Unknown,New South Wales,Australia,AU
+-34.8282972222,149.0423,Unknown,Jerrawa,Unknown,New South Wales,Australia,AU
+-35.9469,148.0827,Unknown,Tooma,Unknown,New South Wales,Australia,AU
+-35.6263,148.2934,Unknown,Talbingo,Unknown,New South Wales,Australia,AU
+-34.7795999153,150.8218984591,Unknown,Gerroa,Unknown,New South Wales,Australia,AU
+-34.7777345547,150.8225743757,Unknown,Gerroa,Unknown,New South Wales,Australia,AU
+-31.3524972222,149.8310972222,Unknown,Tambar Springs,Unknown,New South Wales,Australia,AU
+-29.1645,149.7274,Unknown,Garah,Unknown,New South Wales,Australia,AU
+-34.9375090152,149.3789333848,Unknown,Collector,Unknown,New South Wales,Australia,AU
+-36.1691953708,149.093202869,Unknown,Unknown,Unknown,New South Wales,Australia,AU
+-34.7189,150.2129,Unknown,Wingello,Unknown,New South Wales,Australia,AU
+-36.0342,148.373,Unknown,Jagumba,Unknown,New South Wales,Australia,AU
+-36.3593,148.2513,Unknown,Geehi,Unknown,New South Wales,Australia,AU
+-36.43154,148.32891,Unknown,Charlotte Pass,Unknown,New South Wales,Australia,AU
+-34.5646997207,149.4444405084,Unknown,Grabben Gullen,Unknown,New South Wales,Australia,AU
+-34.3809295265,150.4889763678,Unknown,Colo Vale,Unknown,New South Wales,Australia,AU
+-34.1862425852,150.5832547158,Unknown,Thirlmere,Unknown,New South Wales,Australia,AU
+-34.7798406804,150.8220593916,Unknown,Gerroa,Unknown,New South Wales,Australia,AU
+-34.8023782933,148.32667652,Unknown,Jugiong,Unknown,New South Wales,Australia,AU
+-35.7491666667,149.2744444444,Unknown,Unknown,Unknown,New South Wales,Australia,AU
+-35.9460629166,146.8832975648,Unknown,Jindera,Unknown,New South Wales,Australia,AU
+-36.0157251965,148.3794113661,Unknown,Cabramurra,Unknown,New South Wales,Australia,AU
+-36.0774611269,149.158941378,Unknown,Chakola,Unknown,New South Wales,Australia,AU
+-36.3244444444,148.4744444444,Unknown,Unknown,Unknown,New South Wales,Australia,AU
+-34.7227363892,149.8308034303,Unknown,Towrang,Unknown,New South Wales,Australia,AU
+-33.3879713619,149.8929001252,Unknown,Sunny Corner,Unknown,New South Wales,Australia,AU
+-33.4234603773,150.2010377144,Unknown,Unknown,Unknown,New South Wales,Australia,AU
+-34.9003326703,149.2478754436,Unknown,Bellmount Forest,Unknown,New South Wales,Australia,AU
+-35.980038998,148.0203691794,Unknown,Tooma,Unknown,New South Wales,Australia,AU
+-34.2366208619,150.6693162239,Unknown,Wilton,Unknown,New South Wales,Australia,AU
+-34.1346937132,150.5075911216,Unknown,Oakdale,Unknown,New South Wales,Australia,AU
+-35.8112606372,147.6418333414,Unknown,Lankeys Creek,Unknown,New South Wales,Australia,AU
+-31.5560064049,143.4033992072,Wilcannia,Unknown,Central Darling Shire Council,New South Wales,Australia,AU
+-34.184667,150.968548,Wollongong City Council,Unknown,Unknown,New South Wales,Australia,AU
+-34.1846,150.968548,Wollongong City Council,Unknown,Unknown,New South Wales,Australia,AU
+-34.1841416667,150.9690027778,Wollongong City Council,Unknown,Unknown,New South Wales,Australia,AU
 -26.7995865126,150.579897006,Chinchilla,Unknown,Unknown,Queensland,Australia,AU
-54.25,12.85,Unknown,Velgast,Vorpommern-Rugen,Mecklenburg-Vorpommern,Germany,DE
-52.1830555556,-6.3933333333,Unknown,Unknown,County Wexford,Unknown,Ireland,IE
--22.4105555556,-45.5352777778,Unknown,Piranguinho,Unknown,Minas Gerais,Brazil,BR
--26.4135396083,146.8852050776,Unknown,Unknown,Unknown,Queensland,Australia,AU
-52.414983244,6.9661606127,Lattrop-Breklenkamp,Lattrop,Unknown,Overijssel,Netherlands,NL
-54.4738888889,-1.1836111111,Stokesley,Unknown,North Yorkshire,England,United Kingdom,GB
-52.175,-6.8402777778,New Ross Municipal District,Unknown,County Wexford,Unknown,Ireland,IE
-42.3868929823,-121.8115421618,Unknown,Unknown,Klamath County,Oregon,United States,US
-52.14,-7.0561111111,Unknown,Unknown,County Waterford,Unknown,Ireland,IE
-51.9755555556,-7.6916666667,Unknown,Unknown,County Waterford,Unknown,Ireland,IE
--23.4034141444,144.2206477717,Longreach,Unknown,Unknown,Queensland,Australia,AU
-45.97808,14.11652,Logatec,Medvedje Brdo,Unknown,Unknown,Slovenia,SI
--31.7465082506,-60.5227740126,Parana,Unknown,Distrito Sauce,Unknown,Argentina,AR
--26.0902777778,28.3161111111,Unknown,Unknown,City Of Ekurhuleni Metropolitan Municipality,Gauteng,South Africa,ZA
--21.0761182411,141.0172188261,Unknown,Unknown,Unknown,Queensland,Australia,AU
 -20.8068717424,139.996734253,Cloncurry,Unknown,Unknown,Queensland,Australia,AU
+-18.2141890265,142.2522046022,Croydon,Unknown,Unknown,Queensland,Australia,AU
+-17.8112,146.02983,El Arish,Unknown,Unknown,Queensland,Australia,AU
+-18.62015,143.81954,Forsayth,Unknown,Unknown,Queensland,Australia,AU
+-17.4455,140.83746,Karumba,Unknown,Unknown,Queensland,Australia,AU
+-23.4034141444,144.2206477717,Longreach,Unknown,Unknown,Queensland,Australia,AU
+-18.13945,144.6603,Mount Surprise,Unknown,Unknown,Queensland,Australia,AU
+-17.69872,141.07816,Normanton,Unknown,Unknown,Queensland,Australia,AU
+-26.9068752393,153.1377069113,Sunshine Coast Regional,Unknown,Unknown,Queensland,Australia,AU
+-26.9061672519,153.1376210806,Sunshine Coast Regional,Unknown,Unknown,Queensland,Australia,AU
+-26.4135396083,146.8852050776,Unknown,Unknown,Unknown,Queensland,Australia,AU
+-21.0761182411,141.0172188261,Unknown,Unknown,Unknown,Queensland,Australia,AU
 -19.7885,138.79712,Unknown,Unknown,Unknown,Queensland,Australia,AU
 -18.70099,138.48763,Unknown,Unknown,Unknown,Queensland,Australia,AU
-48.3054268362,-1.9433495448,Unknown,Longaulnay,Ille-Et-Vilaine,Brittany,France,FR
-51.9094444444,-7.8952777778,Unknown,Unknown,County Cork,Unknown,Ireland,IE
--23.3087222222,28.4985,Unknown,Unknown,Capricorn District Municipality,Limpopo,South Africa,ZA
+-19.9293616025,138.1159764846,Unknown,Camooweal,Unknown,Queensland,Australia,AU
+-20.68885,139.66752,Unknown,Unknown,Unknown,Queensland,Australia,AU
+-28.0946790381,152.8344227595,Unknown,Kooralbyn,Unknown,Queensland,Australia,AU
+-17.57611,145.45094,Unknown,Tumoulin,Unknown,Queensland,Australia,AU
+-16.45448,144.83783,Unknown,Unknown,Unknown,Queensland,Australia,AU
+-17.52007,145.56796,Unknown,Unknown,Unknown,Queensland,Australia,AU
+-18.09016,145.85349,Unknown,Unknown,Unknown,Queensland,Australia,AU
+-23.14827,150.70766,Unknown,Unknown,Unknown,Queensland,Australia,AU
+-23.5094,150.54932,Unknown,Unknown,Unknown,Queensland,Australia,AU
+-24.90818,151.80497,Unknown,Unknown,Bundaberg Region,Queensland,Australia,AU
+-17.54248,145.39737,Unknown,Kaban,Unknown,Queensland,Australia,AU
+-28.0946908689,152.8343852086,Unknown,Kooralbyn,Unknown,Queensland,Australia,AU
+-28.0946293486,152.8343825264,Unknown,Kooralbyn,Unknown,Queensland,Australia,AU
+-28.0946577426,152.8343396111,Unknown,Kooralbyn,Unknown,Queensland,Australia,AU
+-28.2979,152.86293,Unknown,Unknown,Unknown,Queensland,Australia,AU
+-28.29534,152.86347,Unknown,Unknown,Unknown,Queensland,Australia,AU
+-26.4779,149.9485972222,Unknown,Unknown,Unknown,Queensland,Australia,AU
+-25.0259,147.8992,Unknown,Unknown,Unknown,Queensland,Australia,AU
+-25.6091,148.7673,Unknown,Unknown,Unknown,Queensland,Australia,AU
+-25.5091583333,153.1283583333,Unknown,Eurong,Unknown,Queensland,Australia,AU
+-29.6477316928,138.0632884914,Marree,Unknown,Pastoral Unincorporated Area,South Australia,Australia,AU
+-35.8963391911,139.4403682211,Unknown,Unknown,Coorong District Council,South Australia,Australia,AU
+-35.9241711964,137.5616933026,Unknown,Unknown,Kangaroo Island Council,South Australia,Australia,AU
+-33.4594316176,138.4325202567,Unknown,Gulnare,Unknown,South Australia,Australia,AU
+-30.4528635314,137.1607479232,Unknown,Andamooka,Pastoral Unincorporated Area,South Australia,Australia,AU
+-30.3214027064,136.9287803257,Unknown,Unknown,Pastoral Unincorporated Area,South Australia,Australia,AU
+-30.3139167812,139.3326686088,Unknown,Arkaroola Village,Pastoral Unincorporated Area,South Australia,Australia,AU
+-32.5755113956,139.5726941969,Unknown,Yunta,Pastoral Unincorporated Area,South Australia,Australia,AU
 -17.2083,137.78471,Unknown,Unknown,Unknown,Unknown,Australia,AU
-45.81289,14.69565,Ribnica,Bukovec Pri Poljanah,Unknown,Unknown,Slovenia,SI
 -16.0698424196,136.3086382064,Unknown,Borroloola,Unknown,Unknown,Australia,AU
--38.6299,177.8833111111,Unknown,Unknown,Gisborne District,Gisborne,New Zealand,NZ
--27.6575,-48.5436111111,Florianopolis,Unknown,Unknown,Santa Catarina,Brazil,BR
-48.0908520812,6.9441547171,Unknown,Xonrupt-Longemer,Vosges,Grand Est,France,FR
 -16.301904,135.70725,Unknown,Unknown,Unknown,Unknown,Australia,AU
 -15.71742,135.64177,Unknown,Unknown,Unknown,Unknown,Australia,AU
 -15.42,135.7144444444,Unknown,Unknown,Unknown,Unknown,Australia,AU
 -15.41144,135.9376,Unknown,Unknown,Unknown,Unknown,Australia,AU
 -15.56184,135.41657,Unknown,Unknown,Unknown,Unknown,Australia,AU
-51.9452777778,-10.1761111111,Unknown,Unknown,County Kerry,Unknown,Ireland,IE
-51.5297222222,6.3036111111,Geldern,Unknown,Kreis Kleve,North Rhine-Westphalia,Germany,DE
 -13.543869639,131.3753827245,Unknown,Unknown,Unknown,Unknown,Australia,AU
 -14.9196614714,133.0583526594,Unknown,Mataranka,Unknown,Unknown,Australia,AU
 -19.43778,134.21196,Unknown,Unknown,Barkly Region,Unknown,Australia,AU
--19.9293616025,138.1159764846,Unknown,Camooweal,Unknown,Queensland,Australia,AU
-44.412239,33.991304,Simeizskii Poselkovyi Sovet,Unknown,Ialtins'Kii Raion,Autonomous Republic Of Crimea,Ukraine,UA
--20.68885,139.66752,Unknown,Unknown,Unknown,Queensland,Australia,AU
--17.69872,141.07816,Normanton,Unknown,Unknown,Queensland,Australia,AU
-45.434,-75.104,Clarence-Rockland,Unknown,Prescott And Russell Counties,Ontario,Canada,CA
-44.5588888889,-77.1158333333,Stone Mills,Unknown,Lennox And Addington County,Ontario,Canada,CA
--33.1779698785,-63.2810803131,Unknown,Santa Eufemia,Pedania La Carlota,Cordoba,Argentina,AR
-45.43,-76.64,Horton,Unknown,Renfrew County,Ontario,Canada,CA
-45.3833333333,-76.4833333333,Mcnab/Braeside,Unknown,Renfrew County,Ontario,Canada,CA
--17.4455,140.83746,Karumba,Unknown,Unknown,Queensland,Australia,AU
--18.2141890265,142.2522046022,Croydon,Unknown,Unknown,Queensland,Australia,AU
--18.62015,143.81954,Forsayth,Unknown,Unknown,Queensland,Australia,AU
-32.2819444444,-110.768333333,Unknown,Unknown,Pima County,Arizona,United States,US
-46.233121511,-119.1479496804,Pasco,Unknown,Franklin County,Washington,United States,US
-32.20181,-111.12567,Unknown,Unknown,Pima County,Arizona,United States,US
--28.0946790381,152.8344227595,Unknown,Kooralbyn,Unknown,Queensland,Australia,AU
--18.13945,144.6603,Mount Surprise,Unknown,Unknown,Queensland,Australia,AU
-41.80854,12.68317,Frascati,Unknown,Roma Capitale,Lazio,Italy,IT
-53.8361111111,11.2075,Unknown,Upahl,Nordwestmecklenburg,Mecklenburg-Vorpommern,Germany,DE
-52.1,14.07,Unknown,Kossenblatt,Oder-Spree,Brandenburg,Germany,DE
-50.1161523475,14.4417969914,Capital City Of Prague,Unknown,Unknown,Prague,Czechia,CZ
-37.8780555556,-78.6922222222,Unknown,Unknown,Albemarle County,Virginia,United States,US
-44.0235140536,-71.4919939333,Lincoln,Unknown,Grafton County,New Hampshire,United States,US
-30.5974,34.7623,Mizpe Ramon,Unknown,Unknown,South District,Israel,IL
-37.6567,-98.3221,Unknown,Penalosa,Kingman County,Kansas,United States,US
-36.2818675648,-118.0064718,Unknown,Olancha,Inyo County,California,United States,US
-27.9848433943,-15.5698957764,Vega De San Mateo,Cueva Grande,Unknown,Unknown,Spain,ES
-30.8231417933,-101.1957519433,Unknown,Unknown,Crockett County,Texas,United States,US
-48.5964,6.08433,Unknown,Bainville-Sur-Madon,Meurthe-Et-Moselle,Grand Est,France,FR
-37.3372320426,-2.20235214,Unknown,Cantoria,Valle Del Almanzora,Andalusia,Spain,ES
-34.1458333333,-94.1033333333,Unknown,Unknown,Sevier County,Arkansas,United States,US
-43.11,-123.8563888889,Unknown,Unknown,Coos County,Oregon,United States,US
--17.57611,145.45094,Unknown,Tumoulin,Unknown,Queensland,Australia,AU
-28.8257058036,-17.8185475368,Unknown,Barlovento,Unknown,Unknown,Spain,ES
-42.1494044228,-122.6349798354,Ashland,Unknown,Jackson County,Oregon,United States,US
-33.24245,-114.17815,Unknown,Unknown,Yuma County,Arizona,United States,US
-33.6873,-94.3734,Unknown,Unknown,Little River County,Arkansas,United States,US
-41.9956944444,-121.7118055556,Unknown,Unknown,Siskiyou County,California,United States,US
-44.63,-78.86,Kawartha Lakes,Unknown,Unknown,Ontario,Canada,CA
-34.0370277778,-111.3697277778,Unknown,Unknown,Gila County,Arizona,United States,US
-38.3561096288,-90.8735505555,Unknown,Unknown,Franklin County,Missouri,United States,US
-49.4202777778,8.7475,Heidelberg,Unknown,Unknown,Baden-Wurttemberg,Germany,DE
-47.71704,37.55742,Novotroitske,Unknown,Unknown,Donetsk Oblast,Ukraine,UA
-28.7659153222,-17.9001446669,Garafia,Unknown,Unknown,Unknown,Spain,ES
--16.45448,144.83783,Unknown,Unknown,Unknown,Queensland,Australia,AU
-49.8832078627,4.217555031,Unknown,Any-Martin-Rieux,Aisne,Hauts-De-France,France,FR
+-35.1407448576,150.7215748219,Unknown,Jervis Bay Village,Unknown,Unknown,Australia,AU
+-38.4360079229,142.5881591615,Allansford,Unknown,Unknown,Victoria,Australia,AU
+-37.7784,145.4231,Melbourne,Unknown,Unknown,Victoria,Australia,AU
+-37.7784020495,145.4232563895,Melbourne,Unknown,Unknown,Victoria,Australia,AU
+-36.5728675103,146.7414859973,Myrtleford,Unknown,Unknown,Victoria,Australia,AU
+-36.2317661787,147.1703732462,Tallangatta,Unknown,Unknown,Victoria,Australia,AU
+-37.4724,149.5908,Unknown,Genoa,Unknown,Victoria,Australia,AU
+-37.7114,149.1794,Unknown,Unknown,Unknown,Victoria,Australia,AU
+-36.9945,147.1717,Unknown,Unknown,Mount Hotham Alpine Resort,Victoria,Australia,AU
+-37.709778482,146.6638226519,Unknown,Unknown,Unknown,Victoria,Australia,AU
+-37.61518,146.44824,Unknown,Unknown,Unknown,Victoria,Australia,AU
+-38.1040266534,142.3220091454,Unknown,Hawkesdale,Unknown,Victoria,Australia,AU
+-37.6945472222,147.3003083333,Unknown,Unknown,Unknown,Victoria,Australia,AU
+-36.1031531186,147.2238330633,Unknown,Unknown,Unknown,Victoria,Australia,AU
+-36.7760910865,146.7642234087,Unknown,Unknown,Unknown,Victoria,Australia,AU
+-36.4714346902,146.5947455414,Unknown,Unknown,Unknown,Victoria,Australia,AU
+-36.359069583,147.0222365505,Unknown,Unknown,Unknown,Victoria,Australia,AU
+-36.4075744447,147.2312960912,Unknown,Unknown,Unknown,Victoria,Australia,AU
+-36.8742884953,147.2918352388,Unknown,Falls Creek,Falls Creek Alpine Resort,Victoria,Australia,AU
+-37.1777188807,147.70379076,Unknown,Swifts Creek,Unknown,Victoria,Australia,AU
+-27.7371870032,114.1822041191,Kalbarri,Unknown,Unknown,Western Australia,Australia,AU
+-27.21172,114.61238,Unknown,Unknown,Unknown,Western Australia,Australia,AU
+-22.37982,114.10461,Unknown,Unknown,Unknown,Western Australia,Australia,AU
+-25.98395,114.29955,Unknown,Unknown,Unknown,Western Australia,Australia,AU
+47.2511111111,16.1361111111,Unknown,Kemeten,Bezirk Oberwart,Burgenland,Austria,AT
+47.6994444444,16.9697222222,Unknown,Wallern Im Burgenland,Bezirk Neusiedl Am See,Burgenland,Austria,AT
+47.7102777778,16.9630555556,Unknown,Wallern Im Burgenland,Bezirk Neusiedl Am See,Burgenland,Austria,AT
+47.7041666667,16.9661111111,Unknown,Wallern Im Burgenland,Bezirk Neusiedl Am See,Burgenland,Austria,AT
+47.7341666667,16.8116666667,Unknown,Apetlon,Bezirk Neusiedl Am See,Burgenland,Austria,AT
+47.71,16.9830555556,Unknown,Wallern Im Burgenland,Bezirk Neusiedl Am See,Burgenland,Austria,AT
+46.7841666667,14.1947222222,Frauenstein,Unknown,Bezirk St. Veit An Der Glan,Carinthia,Austria,AT
+46.7761111111,14.2566666667,Unknown,Liebenfels,Bezirk St. Veit An Der Glan,Carinthia,Austria,AT
+46.7763888889,14.2580555556,Unknown,Liebenfels,Bezirk St. Veit An Der Glan,Carinthia,Austria,AT
+46.785,14.2438888889,Unknown,Liebenfels,Bezirk St. Veit An Der Glan,Carinthia,Austria,AT
+46.6958333333,13.9247222222,Unknown,Steindorf Am Ossiacher See,Unknown,Carinthia,Austria,AT
+47.8322222222,16.0441666667,Hohe Wand,Maiersdorf,Bezirk Wiener Neustadt,Lower Austria,Austria,AT
+48.5805555556,16.2161111111,Hollabrunn,Altenmarkt Im Thale,Bezirk Hollabrunn,Lower Austria,Austria,AT
+48.5805555556,16.2163888889,Hollabrunn,Altenmarkt Im Thale,Bezirk Hollabrunn,Lower Austria,Austria,AT
+48.5083333333,16.5530555556,Unknown,Atzelsdorf,Bezirk Mistelbach,Lower Austria,Austria,AT
+48.4855555556,15.1486111111,Unknown,Grafenschlag,Bezirk Zwettl,Lower Austria,Austria,AT
+48.4522222222,16.3336111111,Unknown,Niederhollabrunn,Bezirk Korneuburg,Lower Austria,Austria,AT
+48.4766666666,15.1575,Unknown,Grafenschlag,Bezirk Zwettl,Lower Austria,Austria,AT
+47.6625,13.4330555556,Unknown,Strobl,Bezirk Salzburg-Umgebung,Salzburg,Austria,AT
+47.0269444444,16.0336111111,Furstenfeld,Sochau,Bezirk Hartberg-Furstenfeld,Styria,Austria,AT
+47.0141666667,15.9391666667,Unknown,Altenmarkt Bei Riegersburg,Bezirk Sudoststeiermark,Styria,Austria,AT
+46.8480555556,15.8913888889,Unknown,Waldsberg,Bezirk Sudoststeiermark,Styria,Austria,AT
+47.1504,10.3445,Unknown,Pettneu Am Arlberg,Bezirk Landeck,Tyrol,Austria,AT
+47.3816666667,10.9019444444,Unknown,Biberwier,Bezirk Reutte,Tyrol,Austria,AT
+53.167839,28.498038,Daraganauski Sel'Ski Savet,Daraganava,Asipovichy District,Mahilyow Region,Belarus,BY
+54.2794444444,26.7438888889,Lebedzeuski Sel'Ski Savet,Palyany,Maladzyechna District,Minsk Region,Belarus,BY
+54.2793064497,26.7438843393,Lebedzeuski Sel'Ski Savet,Palyany,Maladzyechna District,Minsk Region,Belarus,BY
+54.2793248584,26.7438784351,Lebedzeuski Sel'Ski Savet,Palyany,Maladzyechna District,Minsk Region,Belarus,BY
+54.2794137183,26.7437012787,Lebedzeuski Sel'Ski Savet,Palyany,Maladzyechna District,Minsk Region,Belarus,BY
+50.7291356749,3.6146822924,Unknown,Saint-Sauveur,Oudenaarde,East Flanders,Belgium,BE
 50.7177777778,3.6438888889,Unknown,Ellezelles,Ath,Hainaut,Belgium,BE
--17.52007,145.56796,Unknown,Unknown,Unknown,Queensland,Australia,AU
-35.2758333333,-112.8691666667,Unknown,Unknown,Yavapai County,Arizona,United States,US
--17.8112,146.02983,El Arish,Unknown,Unknown,Queensland,Australia,AU
--18.09016,145.85349,Unknown,Unknown,Unknown,Queensland,Australia,AU
--23.14827,150.70766,Unknown,Unknown,Unknown,Queensland,Australia,AU
--23.5094,150.54932,Unknown,Unknown,Unknown,Queensland,Australia,AU
-32.9900451259,-116.5768468137,Unknown,Harrison Park,San Diego County,California,United States,US
--24.90818,151.80497,Unknown,Unknown,Bundaberg Region,Queensland,Australia,AU
-49.7821477167,17.0375797404,Unknown,Hlivice,Olomouc Region,Central Moravia,Czechia,CZ
--29.35904,153.27683,Unknown,Woombah,Unknown,New South Wales,Australia,AU
-45.5840162846,14.4142661914,Ilirska Bistrica,Sviscaki,Unknown,Unknown,Slovenia,SI
-46.2916104638,14.5329352723,Unknown,Ambroz Pod Krvavcem,Unknown,Unknown,Slovenia,SI
-53.1930555556,13.0375,Wesenberg,Strasen,Mecklenburgische Seenplatte,Mecklenburg-Vorpommern,Germany,DE
-50.8008333333,12.6988888889,Hohenstein-Ernstthal,Unknown,Zwickau,Saxony,Germany,DE
-52.2994228987,5.6064925557,Ermelo,Unknown,Unknown,Gelderland,Netherlands,NL
-35.1055379138,24.5613859583,Unknown,Agios Pavlos,Rethymno Regional Unit,Region Of Crete,Greece,GR
-23.1339782248,115.1431181067,Huizhou,Unknown,Huidong County,Guangdong,China,CN
-42.3964479767,-122.1963444061,Unknown,Unknown,Klamath County,Oregon,United States,US
--34.184667,150.968548,Wollongong City Council,Unknown,Unknown,New South Wales,Australia,AU
-46.8080555556,16.01,Unknown,Unknown,Unknown,Unknown,Slovenia,SI
-53.5,10.4833333333,Schwarzenbek,Unknown,Kreis Herzogtum Lauenburg,Schleswig-Holstein,Germany,DE
-52.2538888889,7.0688888889,Bad Bentheim,Unknown,Landkreis Grafschaft Bentheim,Lower Saxony,Germany,DE
-50.9491666667,9.4969444444,Unknown,Wallenstein,Schwalm-Eder-Kreis,Hesse,Germany,DE
-50.1583333333,11.3897222222,Kulmbach,Kirchleus,Landkreis Kulmbach,Bavaria,Germany,DE
-50.8166666667,14.7166666667,Jablonne V Podjestedi,Hermanice V Podjestedi,Liberec Region,Northeast,Czechia,CZ
-50.7616298028,5.9424456925,Unknown,Vijlen,Unknown,Limburg,Netherlands,NL
-35.3361111111,140.3944444444,Ichinomiya,Unknown,Chosei,Unknown,Japan,JP
-35.6044444444,140.5236111111,Yokoshibahikari,Unknown,Sanmu,Unknown,Japan,JP
-49.3997222222,21.4680555556,Unknown,Vysny Mirosov,District Of Svidnik,Region Of Presov,Slovakia,SK
-49.93389,13.27556,Unknown,Drazen,Plzen Region,Southwest,Czechia,CZ
-30.30575,35.13343,Arava Tichona Regional Council,Beer Menuha,Unknown,South District,Israel,IL
-30.0506159611,35.0319844742,Hevel Eilot Regional Council,Neot Smadar,Unknown,South District,Israel,IL
-48.0197222222,8.8533333333,Tuttlingen,Nendingen,Landkreis Tuttlingen,Baden-Wurttemberg,Germany,DE
-51.38602,7.3915,Wetter (Ruhr),Unknown,Ennepe-Ruhr-Kreis,North Rhine-Westphalia,Germany,DE
-45.7265991152,14.0064922035,Unknown,Dolenja Vas,Unknown,Unknown,Slovenia,SI
-45.5360801961,13.9449043396,Koper / Capodistria,Podgorje,Unknown,Unknown,Slovenia,SI
-42.2363191536,14.4020474892,Lanciano,Unknown,Chieti,Abruzzo,Italy,IT
-52.7519444444,12.2725,Rhinow,Unknown,Havelland,Brandenburg,Germany,DE
-48.2371456,-1.8479823,Unknown,Langan,Ille-Et-Vilaine,Brittany,France,FR
-42.728651082,1.6890356268,Unknown,Albies,Ariege,Occitania,France,FR
-52.1236,8.7018,Herford,Unknown,Kreis Herford,North Rhine-Westphalia,Germany,DE
-49.1758333333,18.3413888889,Puchov,Unknown,District Of Puchov,Region Of Trencin,Slovakia,SK
-52.2,6.12,Unknown,Bussloo,Unknown,Gelderland,Netherlands,NL
-53.085329,-113.634777,Unknown,Unknown,County Of Wetaskiwin,Alberta,Canada,CA
-48.0333761212,2.7975793255,Unknown,Paucourt,Loiret,Centre-Val De Loire,France,FR
-48.0,31.0,Unknown,Kuripchyne,Unknown,Mykolaiv Oblast,Ukraine,UA
-48.233066986,31.4157460678,Pomichna,Unknown,Unknown,Kirovohrad Oblast,Ukraine,UA
-35.92111,51.1102,Adaran Rd,Chrn,Karaj County,Alborz Province,Iran,IR
 50.3091234502,5.8396599117,Unknown,Arbrefontaine,Verviers,Liege,Belgium,BE
-50.39181,30.5347,Kyiv,Unknown,Unknown,Unknown,Ukraine,UA
-48.1554722222,0.0334166667,Unknown,Mezieres-Sous-Lavardin,Sarthe,Pays De La Loire,France,FR
-53.6908333333,12.1633333333,Unknown,Zehna,Landkreis Rostock,Mecklenburg-Vorpommern,Germany,DE
-48.5688888889,21.7219444444,Unknown,Kozuchov,District Of Trebisov,Region Of Kosice,Slovakia,SK
-42.4246666667,-8.85675,Sanxenxo,A Igrexa,O Salnes,Galicia,Spain,ES
+49.7099444444,5.2692222222,Florenville,Chassepierre,Virton,Luxembourg,Belgium,BE
+49.71,5.2658333333,Florenville,Chassepierre,Virton,Luxembourg,Belgium,BE
+49.70325,5.27425,Florenville,Chassepierre,Virton,Luxembourg,Belgium,BE
+49.7019497814,5.2751445938,Florenville,Chassepierre,Virton,Luxembourg,Belgium,BE
+49.7021163177,5.2754450012,Florenville,Chassepierre,Virton,Luxembourg,Belgium,BE
+49.7016722197,5.2750158477,Florenville,Chassepierre,Virton,Luxembourg,Belgium,BE
+49.7066880609,5.2692464161,Florenville,Chassepierre,Virton,Luxembourg,Belgium,BE
+49.7030555556,5.2741666667,Florenville,Chassepierre,Virton,Luxembourg,Belgium,BE
+50.1461811224,5.7182197194,Houffalize,Unknown,Bastogne,Luxembourg,Belgium,BE
+50.1454660784,5.7032690864,Houffalize,Unknown,Bastogne,Luxembourg,Belgium,BE
+50.1666666667,5.7166666667,Houffalize,Unknown,Bastogne,Luxembourg,Belgium,BE
+50.1918003288,5.2536407946,Marche-En-Famenne,Unknown,Marche-En-Famenne,Luxembourg,Belgium,BE
+50.00752,5.15976,Unknown,Libin,Neufchateau,Luxembourg,Belgium,BE
+50.0213888889,5.1230555556,Unknown,Daverdisse,Neufchateau,Luxembourg,Belgium,BE
+50.021063556,5.1167511887,Unknown,Daverdisse,Neufchateau,Luxembourg,Belgium,BE
+50.0211679809,5.1165126329,Unknown,Daverdisse,Neufchateau,Luxembourg,Belgium,BE
+50.0211111111,5.1175,Unknown,Daverdisse,Neufchateau,Luxembourg,Belgium,BE
+50.0183333333,5.1175,Unknown,Daverdisse,Neufchateau,Luxembourg,Belgium,BE
+50.0104033791,5.1115544574,Unknown,Daverdisse,Neufchateau,Luxembourg,Belgium,BE
+49.8152777778,5.3988888889,Unknown,Warmifontaine,Neufchateau,Luxembourg,Belgium,BE
+50.0044894984,4.4579798009,Couvin,Bruly-De-Pesche,Philippeville,Namur,Belgium,BE
+50.0044765441,4.458513883,Couvin,Bruly-De-Pesche,Philippeville,Namur,Belgium,BE
+50.0044420655,4.4584656033,Couvin,Bruly-De-Pesche,Philippeville,Namur,Belgium,BE
+50.0044696484,4.4569903883,Couvin,Bruly-De-Pesche,Philippeville,Namur,Belgium,BE
+50.0044817159,4.4578540596,Couvin,Bruly-De-Pesche,Philippeville,Namur,Belgium,BE
+50.004504127,4.4582885775,Couvin,Bruly-De-Pesche,Philippeville,Namur,Belgium,BE
+50.0045317099,4.4582799932,Couvin,Bruly-De-Pesche,Philippeville,Namur,Belgium,BE
+50.0045368817,4.4583259062,Couvin,Bruly-De-Pesche,Philippeville,Namur,Belgium,BE
+50.5697222222,4.9525,Unknown,Cortil-Wodon,Namur,Namur,Belgium,BE
+50.361985,5.106235,Unknown,Emptinne,Dinant,Namur,Belgium,BE
+50.3616666667,5.1063888889,Unknown,Emptinne,Dinant,Namur,Belgium,BE
+50.8228365772,4.3659770245,Ixelles - Elsene,Unknown,Brussels-Capital,Unknown,Belgium,BE
+50.9877369573,3.3209908599,Tielt,Unknown,Tielt,West Flanders,Belgium,BE
+50.9876250273,3.3209747231,Tielt,Unknown,Tielt,West Flanders,Belgium,BE
+43.6683333333,18.2530555556,Unknown,Milisici,Unknown,Federation Of Bosnia And Herzegovina,Bosnia And Herzegovina,BA
+43.6675,18.253055556,Unknown,Milisici,Unknown,Federation Of Bosnia And Herzegovina,Bosnia And Herzegovina,BA
+45.2,16.9952777778,Unknown,Sivolinac,Town Of Gradiska,Republika Srpska,Bosnia And Herzegovina,BA
+42.9794444444,17.9794444444,Unknown,Okolista,Unknown,Republika Srpska,Bosnia And Herzegovina,BA
+45.19935445,16.9948043896,Unknown,Sivolinac,Town Of Gradiska,Republika Srpska,Bosnia And Herzegovina,BA
+-5.5206,-47.47191,Imperatriz,Unknown,Unknown,Maranhao,Brazil,BR
+-22.4105555556,-45.5352777778,Unknown,Piranguinho,Unknown,Minas Gerais,Brazil,BR
+-22.4008333333,-45.535,Unknown,Piranguinho,Unknown,Minas Gerais,Brazil,BR
+-22.4104644654,-45.5351835695,Unknown,Piranguinho,Unknown,Minas Gerais,Brazil,BR
+-22.40291,-45.53396,Unknown,Piranguinho,Unknown,Minas Gerais,Brazil,BR
+-29.1344969241,-49.6172277101,Balneario Gaivota,Rua Nova,Unknown,Santa Catarina,Brazil,BR
+-27.6575,-48.5436111111,Florianopolis,Unknown,Unknown,Santa Catarina,Brazil,BR
+-27.6602777778,-48.5436111111,Florianopolis,Unknown,Unknown,Santa Catarina,Brazil,BR
+-22.3147222222,-49.0705555556,Bauru,Unknown,Unknown,Sao Paulo,Brazil,BR
+41.8227650334,23.4927340318,Bansko,Unknown,Unknown,Blagoevgrad,Bulgaria,BG
+41.787608278,23.3820124437,Unknown,Unknown,Unknown,Blagoevgrad,Bulgaria,BG
+41.7082435386,23.4913658998,Unknown,Unknown,Unknown,Blagoevgrad,Bulgaria,BG
+41.7386798465,23.3761544992,Unknown,Unknown,Unknown,Blagoevgrad,Bulgaria,BG
+41.57625,25.16617,Ardino,Unknown,Unknown,Kardzhali,Bulgaria,BG
+41.57625,25.1661666667,Ardino,Unknown,Unknown,Kardzhali,Bulgaria,BG
+41.576364,25.165999,Ardino,Unknown,Unknown,Kardzhali,Bulgaria,BG
+41.58339,25.13368,Ardino,Unknown,Unknown,Kardzhali,Bulgaria,BG
+41.58,25.17,Ardino,Unknown,Unknown,Kardzhali,Bulgaria,BG
+41.576475,25.165902,Ardino,Unknown,Unknown,Kardzhali,Bulgaria,BG
+41.574466,25.179999,Unknown,Chubrika,Unknown,Kardzhali,Bulgaria,BG
+41.59,25.11,Unknown,Rodopsko,Unknown,Kardzhali,Bulgaria,BG
+41.574067,25.18021,Unknown,Chubrika,Unknown,Kardzhali,Bulgaria,BG
+41.5741,25.1802,Unknown,Chubrika,Unknown,Kardzhali,Bulgaria,BG
+41.57407,25.18021,Unknown,Chubrika,Unknown,Kardzhali,Bulgaria,BG
+41.5740497222,25.1800980556,Unknown,Chubrika,Unknown,Kardzhali,Bulgaria,BG
+41.57,25.18,Unknown,Chubrika,Unknown,Kardzhali,Bulgaria,BG
+41.574241,25.180259,Unknown,Chubrika,Unknown,Kardzhali,Bulgaria,BG
+41.5741,25.18021,Unknown,Chubrika,Unknown,Kardzhali,Bulgaria,BG
+41.5740551715,25.1801265313,Unknown,Chubrika,Unknown,Kardzhali,Bulgaria,BG
+41.5740431322,25.1802445485,Unknown,Chubrika,Unknown,Kardzhali,Bulgaria,BG
+42.7327075083,22.7644198546,Unknown,Krivonos,Unknown,Pernik,Bulgaria,BG
+41.9666667,25.2666666667,Unknown,Bukovo,Unknown,Plovdiv,Bulgaria,BG
+41.97,25.27,Unknown,Bukovo,Unknown,Plovdiv,Bulgaria,BG
+41.6180852925,24.6697855987,Smolyan,Unknown,Unknown,Smolyan,Bulgaria,BG
+42.1748918417,23.3293939504,Unknown,Govedartsi,Unknown,Sofia,Bulgaria,BG
+42.193955521,23.5802633203,Unknown,Beli Iskar,Unknown,Sofia,Bulgaria,BG
+42.72174,23.26199,Sofia,Unknown,Liulin,Sofia-City,Bulgaria,BG
+42.562517978,23.2775803145,Unknown,Bistritsa,Unknown,Sofia-City,Bulgaria,BG
+42.56252,23.27758,Unknown,Bistritsa,Unknown,Sofia-City,Bulgaria,BG
+53.085329,-113.634777,Unknown,Unknown,County Of Wetaskiwin,Alberta,Canada,CA
+53.54,-112.78,Unknown,Unknown,Beaver County,Alberta,Canada,CA
+53.3888471028,-112.9513729488,Unknown,Unknown,Strathcona County,Alberta,Canada,CA
+53.38885,-112.95137,Unknown,Unknown,Strathcona County,Alberta,Canada,CA
+53.9682812,-113.6392259,Unknown,Unknown,Sturgeon County,Alberta,Canada,CA
+53.4344792584,-112.8526998014,Unknown,Unknown,Strathcona County,Alberta,Canada,CA
+53.4250895946,-112.9568661129,Unknown,Unknown,Strathcona County,Alberta,Canada,CA
+53.22047,-112.294281,Unknown,Unknown,Beaver County,Alberta,Canada,CA
+53.577857,-112.754554,Unknown,Unknown,Lamont County,Alberta,Canada,CA
+50.0153812678,-97.086342328,Unknown,Unknown,Unknown,Manitoba,Canada,CA
+49.3058333333,-54.9569444444,Campbellton,Campbellton,Unknown,Newfoundland And Labrador,Canada,CA
+49.3056648,-54.9570698,Campbellton,Campbellton,Unknown,Newfoundland And Labrador,Canada,CA
+47.3441666667,-53.1933333333,Holyrood,Unknown,Unknown,Newfoundland And Labrador,Canada,CA
+47.6065721526,-52.7113402595,St. John'S,Unknown,Unknown,Newfoundland And Labrador,Canada,CA
+44.9747188464,-64.8757324453,Unknown,South Greenwood,Municipality Of The County Of Kings,Nova Scotia,Canada,CA
+45.0297222222,-77.2627777778,Addington Highlands,Unknown,Lennox And Addington County,Ontario,Canada,CA
+45.6166666667,-76.9416666667,Admaston/Bromley,Unknown,Renfrew County,Ontario,Canada,CA
+45.434,-75.104,Clarence-Rockland,Unknown,Prescott And Russell Counties,Ontario,Canada,CA
+44.879,-76.11,Drummond-North Elmsley,Port Elmsley,Lanark County,Ontario,Canada,CA
+45.43,-76.64,Horton,Unknown,Renfrew County,Ontario,Canada,CA
+44.63,-78.86,Kawartha Lakes,Unknown,Unknown,Ontario,Canada,CA
+45.6622222222,-77.5716666667,"Killaloe, Hagarty And Richards",Unknown,Renfrew County,Ontario,Canada,CA
+45.3833333333,-76.4833333333,Mcnab/Braeside,Unknown,Renfrew County,Ontario,Canada,CA
+45.397,-76.491,Mcnab/Braeside,Unknown,Renfrew County,Ontario,Canada,CA
+44.9177777778,-76.9397222222,North Frontenac,Plevna,Frontenac County,Ontario,Canada,CA
+44.8933333333,-77.2083333333,North Frontenac,Unknown,Frontenac County,Ontario,Canada,CA
+45.2528,-75.0518,North Stormont,Unknown,"Stormont, Dundas And Glengarry Counties",Ontario,Canada,CA
+45.477,-75.552,Ottawa,Unknown,Unknown,Ontario,Canada,CA
+44.5588888889,-77.1158333333,Stone Mills,Unknown,Lennox And Addington County,Ontario,Canada,CA
+44.559,-77.116,Stone Mills,Unknown,Lennox And Addington County,Ontario,Canada,CA
+45.793,-76.859,Unknown,Whitewater Region,Renfrew County,Ontario,Canada,CA
+44.0747222222,-80.84,West Grey,Unknown,Grey County,Ontario,Canada,CA
+43.4225,-81.4144444444,West Perth,Unknown,Perth County,Ontario,Canada,CA
+45.9795,-77.1145,Chichester,Unknown,Pontiac,Quebec,Canada,CA
+47.5919972222,-79.4869972222,Unknown,Notre-Dame-Du-Nord,Temiscamingue,Quebec,Canada,CA
+47.069,-70.4039,Unknown,L'Islet,L'Islet (Mrc),Quebec,Canada,CA
+39.77309,115.50838,Fangshan District,Dongcun,Unknown,Beijing,China,CN
+40.5166666667,116.65,Huairou District,Duanshuling,Unknown,Beijing,China,CN
+40.8988988889,116.6109391667,Huairou District,Unknown,Unknown,Beijing,China,CN
+39.936,98.885,Jinta,Unknown,Jinta County,Gansu,China,CN
+35.9447222222,104.1641666667,Xiaguanying,Shang Bao Zi Cun,Yuzhong County,Gansu,China,CN
+23.1339782248,115.1431181067,Huizhou,Unknown,Huidong County,Guangdong,China,CN
+23.38974,116.69208,Jinping District,Unknown,Unknown,Guangdong,China,CN
+45.765142,126.650162,Harbin,Unknown,Unknown,Heilongjiang,China,CN
+45.57,126.65,Pingfang District,Unknown,Unknown,Heilongjiang,China,CN
+30.4565490739,114.3874643922,Jiangxia District,Unknown,Unknown,Hubei,China,CN
+30.4564813098,114.3873115062,Jiangxia District,Unknown,Unknown,Hubei,China,CN
+31.2556145858,113.6801648121,Nancheng Subdistrict,Unknown,Anlu City,Hubei,China,CN
+38.6175882725,105.1078861382,Bayan Hot,Unknown,Unknown,Inner Mongolia,China,CN
+41.6143821292,113.1448158731,Ulanqab City,Bayriin,Qahar Right Rear Banner,Inner Mongolia,China,CN
+32.7244444444,118.4086111111,Huai'An,Feng Shan,Unknown,Jiangsu,China,CN
+32.1383333333,118.9677777778,Qixia District,Unknown,Unknown,Jiangsu,China,CN
+34.325445,107.582351,Caijiapo,Unknown,Qishan County,Shaanxi,China,CN
+34.3420580579,107.5839580493,Caijiapo,Lou Di Cun,Qishan County,Shaanxi,China,CN
+36.1479953548,110.3403668849,Yan'An,Unknown,Yichuan County,Shaanxi,China,CN
+36.3888888889,118.2333333333,Linqu County,Unknown,Unknown,Shandong,China,CN
+31.3981,121.2499,Jiading District,Unknown,Unknown,Shanghai,China,CN
+31.5163400506,121.9527328012,Chenjia,Unknown,Unknown,Unknown,China,CN
+31.5163032376,121.9529408534,Chenjia,Unknown,Unknown,Unknown,China,CN
+30.8314828667,121.6071677206,Fengxian District,Unknown,Unknown,Unknown,China,CN
+26.95,100.24,Yulong Nakhi Autonomous County,Gouluo,Unknown,Yunnan,China,CN
+9.9804103018,-83.8344182943,Unknown,Santa Rosa,Oreamuno,Unknown,Costa Rica,CR
+44.0698016749,15.7053797646,Grad Benkovac,Popovici,Zadar County,Unknown,Croatia,HR
 42.9794444444,17.1941666667,Unknown,Stankovic,Dubrovnik-Neretva County,Unknown,Croatia,HR
-45.6896571884,23.5349124287,Unknown,Sugag,Alba,Unknown,Romania,RO
-53.06156,8.81592,Bremen,Unknown,Unknown,Bremen,Germany,DE
-49.8927777778,0.8619444444,Unknown,Saint-Aubin-Sur-Mer,Seine-Maritime,Normandy,France,FR
+42.97577,17.17786,Unknown,Orebic,Dubrovnik-Neretva County,Unknown,Croatia,HR
+42.9865,17.19333,Unknown,Stankovic,Dubrovnik-Neretva County,Unknown,Croatia,HR
+43.12369,17.30341,Unknown,Opcina Gradac,Split-Dalmatia County,Unknown,Croatia,HR
+43.1294444444,17.2975,Unknown,Opcina Gradac,Split-Dalmatia County,Unknown,Croatia,HR
+43.1236888889,17.3034083333,Unknown,Opcina Gradac,Split-Dalmatia County,Unknown,Croatia,HR
+42.979625,17.1943555556,Unknown,Stankovic,Dubrovnik-Neretva County,Unknown,Croatia,HR
+42.9794416667,17.1941666667,Unknown,Stankovic,Dubrovnik-Neretva County,Unknown,Croatia,HR
+42.979433148,17.1942516454,Unknown,Stankovic,Dubrovnik-Neretva County,Unknown,Croatia,HR
+42.9740299137,17.1798800479,Unknown,Orebic,Dubrovnik-Neretva County,Unknown,Croatia,HR
+42.9782541868,17.1916461711,Unknown,Orebic,Dubrovnik-Neretva County,Unknown,Croatia,HR
+42.9796937128,17.1944439078,Unknown,Stankovic,Dubrovnik-Neretva County,Unknown,Croatia,HR
+45.1023793053,14.6400775984,Unknown,Opcina Vrbnik,Primorje-Gorski Kotar County,Unknown,Croatia,HR
+45.2911694444,13.74845,Unknown,Tican,Istria County,Unknown,Croatia,HR
+45.2911694444,13.7347222222,Unknown,Bencani,Istria County,Unknown,Croatia,HR
+45.286891,14.895379,Unknown,Tuk Vojni,Primorje-Gorski Kotar County,Unknown,Croatia,HR
+42.9794939793,17.1943673321,Unknown,Stankovic,Dubrovnik-Neretva County,Unknown,Croatia,HR
+42.9796838013,17.1945148536,Unknown,Stankovic,Dubrovnik-Neretva County,Unknown,Croatia,HR
+42.9796333023,17.1945389934,Unknown,Stankovic,Dubrovnik-Neretva County,Unknown,Croatia,HR
+42.9795862073,17.1944075652,Unknown,Stankovic,Dubrovnik-Neretva County,Unknown,Croatia,HR
+42.9795940565,17.1945886143,Unknown,Stankovic,Dubrovnik-Neretva County,Unknown,Croatia,HR
+42.9796343049,17.1945363112,Unknown,Stankovic,Dubrovnik-Neretva County,Unknown,Croatia,HR
+42.9796077925,17.1945993431,Unknown,Stankovic,Dubrovnik-Neretva County,Unknown,Croatia,HR
+45.03126,14.67187,Unknown,Opcina Vrbnik,Primorje-Gorski Kotar County,Unknown,Croatia,HR
+45.04528,14.4701,Unknown,Pinezici,Primorje-Gorski Kotar County,Unknown,Croatia,HR
+45.2914366965,13.7481871346,Unknown,Tican,Istria County,Unknown,Croatia,HR
+45.2914329226,13.748141537,Unknown,Tican,Istria County,Unknown,Croatia,HR
+42.9796324166,17.1945770214,Unknown,Stankovic,Dubrovnik-Neretva County,Unknown,Croatia,HR
+42.9793723167,17.1941795774,Unknown,Stankovic,Dubrovnik-Neretva County,Unknown,Croatia,HR
+42.9795685466,17.1945443579,Unknown,Stankovic,Dubrovnik-Neretva County,Unknown,Croatia,HR
+45.43,14.57,Unknown,Soboli,Primorje-Gorski Kotar County,Unknown,Croatia,HR
+42.9794180248,17.1940524958,Unknown,Stankovic,Dubrovnik-Neretva County,Unknown,Croatia,HR
+45.286836,14.895489,Unknown,Tuk Vojni,Primorje-Gorski Kotar County,Unknown,Croatia,HR
+45.2869403,14.895055,Unknown,Tuk Vojni,Primorje-Gorski Kotar County,Unknown,Croatia,HR
+42.9796607745,17.194584591,Unknown,Stankovic,Dubrovnik-Neretva County,Unknown,Croatia,HR
+34.9043156548,33.484372216,Agia Anna,Ayia Anna,Sumplegma Koinoteton Tremithou Potamou,Cyprus,Cyprus,CY
+34.9042900558,33.4843518902,Agia Anna,Ayia Anna,Sumplegma Koinoteton Tremithou Potamou,Cyprus,Cyprus,CY
+34.9043263378,33.4842685746,Agia Anna,Ayia Anna,Sumplegma Koinoteton Tremithou Potamou,Cyprus,Cyprus,CY
+34.904650009,33.4844285424,Agia Anna,Ayia Anna,Sumplegma Koinoteton Tremithou Potamou,Cyprus,Cyprus,CY
+34.9043706474,33.484782594,Agia Anna,Ayia Anna,Sumplegma Koinoteton Tremithou Potamou,Cyprus,Cyprus,CY
+34.9045262681,33.4844001853,Agia Anna,Ayia Anna,Sumplegma Koinoteton Tremithou Potamou,Cyprus,Cyprus,CY
+34.90357,33.48626,Agia Anna,Ayia Anna,Sumplegma Koinoteton Tremithou Potamou,Cyprus,Cyprus,CY
+34.9046,33.48446,Agia Anna,Ayia Anna,Sumplegma Koinoteton Tremithou Potamou,Cyprus,Cyprus,CY
+34.90458,33.48436,Agia Anna,Ayia Anna,Sumplegma Koinoteton Tremithou Potamou,Cyprus,Cyprus,CY
+34.904508349,33.4843393704,Agia Anna,Ayia Anna,Sumplegma Koinoteton Tremithou Potamou,Cyprus,Cyprus,CY
+34.904603813,33.4844083854,Agia Anna,Ayia Anna,Sumplegma Koinoteton Tremithou Potamou,Cyprus,Cyprus,CY
+34.9046,33.48441,Agia Anna,Ayia Anna,Sumplegma Koinoteton Tremithou Potamou,Cyprus,Cyprus,CY
+34.90453,33.4844,Agia Anna,Ayia Anna,Sumplegma Koinoteton Tremithou Potamou,Cyprus,Cyprus,CY
+34.904588568,33.4844522415,Agia Anna,Ayia Anna,Sumplegma Koinoteton Tremithou Potamou,Cyprus,Cyprus,CY
+34.9045973308,33.4844404184,Agia Anna,Ayia Anna,Sumplegma Koinoteton Tremithou Potamou,Cyprus,Cyprus,CY
+34.9044058426,33.4843695338,Agia Anna,Ayia Anna,Sumplegma Koinoteton Tremithou Potamou,Cyprus,Cyprus,CY
+34.9047119934,33.4844034633,Agia Anna,Ayia Anna,Sumplegma Koinoteton Tremithou Potamou,Cyprus,Cyprus,CY
+34.9047081097,33.4843679115,Agia Anna,Ayia Anna,Sumplegma Koinoteton Tremithou Potamou,Cyprus,Cyprus,CY
+34.9046729147,33.4843786404,Agia Anna,Ayia Anna,Sumplegma Koinoteton Tremithou Potamou,Cyprus,Cyprus,CY
+34.9046685153,33.4843679115,Agia Anna,Ayia Anna,Sumplegma Koinoteton Tremithou Potamou,Cyprus,Cyprus,CY
+34.9045818033,33.4843590554,Agia Anna,Ayia Anna,Sumplegma Koinoteton Tremithou Potamou,Cyprus,Cyprus,CY
+34.9046049128,33.4844566651,Agia Anna,Ayia Anna,Sumplegma Koinoteton Tremithou Potamou,Cyprus,Cyprus,CY
+34.77114,33.39404,Agios Theodoros Larnakas,Unknown,Sumplegma Koinoteton Basilikou-Pentaskhoinou,Cyprus,Cyprus,CY
+34.7710565769,33.3941376321,Agios Theodoros Larnakas,Unknown,Sumplegma Koinoteton Basilikou-Pentaskhoinou,Cyprus,Cyprus,CY
+34.7856232912,33.4055906646,Agios Theodoros Larnakas,Unknown,Sumplegma Koinoteton Basilikou-Pentaskhoinou,Cyprus,Cyprus,CY
+34.7856673488,33.4057086818,Agios Theodoros Larnakas,Unknown,Sumplegma Koinoteton Basilikou-Pentaskhoinou,Cyprus,Cyprus,CY
+34.785442,33.405415,Agios Theodoros Larnakas,Unknown,Sumplegma Koinoteton Basilikou-Pentaskhoinou,Cyprus,Cyprus,CY
+34.8440565806,33.5780788349,Kiti,Unknown,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.8438760702,33.5780681061,Kiti,Unknown,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.8440398778,33.5780580761,Kiti,Unknown,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.84,33.58,Kiti,Unknown,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.843868,33.578137,Kiti,Unknown,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.843921,33.578078,Kiti,Unknown,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.8438566445,33.578105657,Kiti,Unknown,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.8440059504,33.578041284,Kiti,Unknown,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.84403487,33.5780600595,Kiti,Unknown,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.84403,33.57806,Kiti,Unknown,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.8481845481,33.5488044914,Larnaca,Unknown,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.848183649,33.5488038092,Larnaca,Unknown,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.86291861,33.6360254456,Larnaca,Unknown,Demos Larnakas,Cyprus,Cyprus,CY
+34.8521305929,33.6255401106,Larnaca,Unknown,Demos Larnakas,Cyprus,Cyprus,CY
+34.848114197,33.5488119439,Larnaca,Unknown,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.8481141094,33.5487776693,Larnaca,Unknown,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.8481185119,33.5487749871,Larnaca,Unknown,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.8481214801,33.5487819431,Larnaca,Unknown,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.8481185119,33.5487803516,Larnaca,Unknown,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.8481185118,33.5487810593,Larnaca,Unknown,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.8042010856,33.2626866797,Ora,Unknown,Sumplegma Koinoteton Oreines Larnakas,Cyprus,Cyprus,CY
+35.1554697175,33.3414734066,Strovolos,Unknown,Strovolos Municipality,Cyprus,Cyprus,CY
+35.148056,33.352974,Strovolos,Unknown,Strovolos Municipality,Cyprus,Cyprus,CY
+34.8202120186,33.5863715848,Unknown,Pervolia,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.8204052907,33.5864450521,Unknown,Pervolia,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.8202005092,33.586353857,Unknown,Pervolia,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.8202,33.58635,Unknown,Pervolia,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+35.0840730561,33.2434731965,Unknown,Anaguia,Tamasos Community Cluster,Cyprus,Cyprus,CY
+34.8481622531,33.549539589,Unknown,Tersefanou,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.8480815228,33.5495146826,Unknown,Tersefanou,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.8571693791,33.5313835439,Unknown,Tersefanou,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.8571754322,33.5313835439,Unknown,Tersefanou,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+34.8571490645,33.5313889083,Unknown,Tersefanou,Demos Dromolaxias - Meneou,Cyprus,Cyprus,CY
+50.5447100489,14.9359926971,Unknown,Dolni Bukovina,Unknown,Central Bohemia,Czechia,CZ
+50.5447759459,14.935593048,Unknown,Dolni Bukovina,Unknown,Central Bohemia,Czechia,CZ
+50.5397007726,14.9060250612,Unknown,Dolni Bukovina,Unknown,Central Bohemia,Czechia,CZ
+49.819654588,15.0591636058,Unknown,Vlkova,Unknown,Central Bohemia,Czechia,CZ
+49.7543,17.31123,Sternberk,Unknown,Olomouc Region,Central Moravia,Czechia,CZ
+49.7839,17.33844,Sternberk,Dalov,Olomouc Region,Central Moravia,Czechia,CZ
+49.7543012698,17.3112261444,Sternberk,Unknown,Olomouc Region,Central Moravia,Czechia,CZ
+49.754438558,17.3112666984,Sternberk,Unknown,Olomouc Region,Central Moravia,Czechia,CZ
+49.77091,17.12144,Unicov,Unknown,Olomouc Region,Central Moravia,Czechia,CZ
+49.7821477167,17.0375797404,Unknown,Hlivice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7822222222,17.0377777778,Unknown,Hlivice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7822282907,17.0375381662,Unknown,Hlivice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7821781979,17.0375183987,Unknown,Hlivice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7822291155,17.0375502466,Unknown,Hlivice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7822009323,17.0375336968,Unknown,Hlivice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7822343112,17.0375373489,Unknown,Hlivice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7822223178,17.0375305337,Unknown,Hlivice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7821823545,17.0375556005,Unknown,Hlivice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7821892821,17.0375952888,Unknown,Hlivice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7821771589,17.0375636472,Unknown,Hlivice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7822176851,17.0375534548,Unknown,Hlivice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7822215281,17.0375963701,Unknown,Hlivice,Olomouc Region,Central Moravia,Czechia,CZ
+49.78323,17.03811,Unknown,Hlivice,Olomouc Region,Central Moravia,Czechia,CZ
+49.782206601,17.0375931515,Unknown,Hlivice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7822117966,17.0375824226,Unknown,Hlivice,Olomouc Region,Central Moravia,Czechia,CZ
+49.741931142,17.4037318826,Unknown,Hranicne Petrovice,Olomouc Region,Central Moravia,Czechia,CZ
+49.74085,17.40494,Unknown,Hranicne Petrovice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7419103421,17.4035106004,Unknown,Hranicne Petrovice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7419484753,17.4036312998,Unknown,Hranicne Petrovice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7419588752,17.4037546814,Unknown,Hranicne Petrovice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7422222222,17.4038888889,Unknown,Hranicne Petrovice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7419444444,17.4036111111,Unknown,Hranicne Petrovice,Olomouc Region,Central Moravia,Czechia,CZ
+49.741931142,17.4035347403,Unknown,Hranicne Petrovice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7422518066,17.4046129883,Unknown,Hranicne Petrovice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7419120754,17.4033724666,Unknown,Hranicne Petrovice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7821996734,17.0376333846,Unknown,Hlivice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7408333333,17.4047222222,Unknown,Hranicne Petrovice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7420542081,17.4038230777,Unknown,Hranicne Petrovice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7419103421,17.4033684433,Unknown,Hranicne Petrovice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7419034087,17.4033738077,Unknown,Hranicne Petrovice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7418878088,17.4034448863,Unknown,Hranicne Petrovice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7420992745,17.4038700164,Unknown,Hranicne Petrovice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7444018958,17.3188097299,Unknown,Lipina,Olomouc Region,Central Moravia,Czechia,CZ
+49.7822169923,17.0375663294,Unknown,Hlivice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7415228995,17.3249235739,Unknown,Lipina,Olomouc Region,Central Moravia,Czechia,CZ
+49.7422154069,17.4046317638,Unknown,Hranicne Petrovice,Olomouc Region,Central Moravia,Czechia,CZ
+49.7419398086,17.4036259354,Unknown,Hranicne Petrovice,Olomouc Region,Central Moravia,Czechia,CZ
+50.8166666667,14.7166666667,Jablonne V Podjestedi,Hermanice V Podjestedi,Liberec Region,Northeast,Czechia,CZ
+50.15356,15.95251,Unknown,Belecko,Pardubice Region,Northeast,Czechia,CZ
+50.2294447748,16.4910346468,Unknown,Ricky V Orlickych Horach,Hradec Kralove Region,Northeast,Czechia,CZ
+50.158703775,15.9441455079,Unknown,Belecko,Pardubice Region,Northeast,Czechia,CZ
+50.614463019,14.9952098759,Unknown,Kobyly,Liberec Region,Northeast,Czechia,CZ
+50.1810582542,16.5376338788,Unknown,Bartosovice V Orlickych Horach,Hradec Kralove Region,Northeast,Czechia,CZ
+50.22944,16.49103,Unknown,Ricky V Orlickych Horach,Hradec Kralove Region,Northeast,Czechia,CZ
+50.158780029,15.9441535545,Unknown,Belecko,Pardubice Region,Northeast,Czechia,CZ
+50.22957348,16.4912545879,Unknown,Ricky V Orlickych Horach,Hradec Kralove Region,Northeast,Czechia,CZ
+50.2800061496,15.9131131531,Unknown,Ujezd,Hradec Kralove Region,Northeast,Czechia,CZ
+50.0758041144,16.2608691224,Unknown,Chleny,Hradec Kralove Region,Northeast,Czechia,CZ
+50.6148307517,14.9947240985,Unknown,Kobyly,Liberec Region,Northeast,Czechia,CZ
+50.078476436,16.2608407079,Unknown,Chleny,Hradec Kralove Region,Northeast,Czechia,CZ
+50.0788942137,16.2607725628,Unknown,Chleny,Hradec Kralove Region,Northeast,Czechia,CZ
+50.3530668536,15.7244766535,Unknown,Bohanka,Hradec Kralove Region,Northeast,Czechia,CZ
+50.2767193153,15.9109405638,Unknown,Ujezd,Hradec Kralove Region,Northeast,Czechia,CZ
+50.1161523475,14.4417969914,Capital City Of Prague,Unknown,Unknown,Prague,Czechia,CZ
+50.07554,14.4378,Capital City Of Prague,Unknown,Unknown,Prague,Czechia,CZ
+49.34895,16.05781,Velke Mezirici,Dolni Radslavice,Vysocina Region,Southeast,Czechia,CZ
+49.93389,13.27556,Unknown,Drazen,Plzen Region,Southwest,Czechia,CZ
+49.9338888889,13.2755555556,Unknown,Drazen,Plzen Region,Southwest,Czechia,CZ
+48.63044,14.68723,Unknown,Pohorska Ves,South Bohemian Region,Southwest,Czechia,CZ
+49.2031447,16.5835942444,Brno,Unknown,South Moravian Region,Unknown,Czechia,CZ
+49.75168,13.60273,Rokycany,Unknown,Plzen Region,Unknown,Czechia,CZ
+49.480569,15.347,Unknown,Zachotin,Vysocina Region,Unknown,Czechia,CZ
+49.46233,15.34789,Unknown,Zachotin,Vysocina Region,Unknown,Czechia,CZ
+49.6587018485,13.4687845752,Unknown,Nezbavetice,Plzen Region,Unknown,Czechia,CZ
+54.9822222222,12.3830555556,Unknown,Stege,Unknown,Region Zealand,Denmark,DK
+55.04,12.2791666667,Unknown,Unknown,Unknown,Region Zealand,Denmark,DK
+55.2958333333,8.6555555556,Unknown,Unknown,Unknown,Unknown,Denmark,DK
+55.5480555556,8.1355555556,Unknown,Hvidbjerg,Unknown,Unknown,Denmark,DK
+55.7344501808,9.4135231854,Vejle,Skovdallund,Unknown,Unknown,Denmark,DK
+30.3067098333,30.3069686111,Unknown,Unknown,Unknown,The Lake,Egypt,EG
+57.8548702676,27.2280751383,Unknown,Lasva,Voru County,Unknown,Estonia,EE
+57.9806880492,26.4983259226,Unknown,Vidrike,Valga County,Unknown,Estonia,EE
+57.9810549545,26.4987228896,Unknown,Vidrike,Valga County,Unknown,Estonia,EE
+-51.9,-58.5,Unknown,Unknown,Unknown,Unknown,Falkland Islands,FK
+-51.3508333333,-60.6805555556,Unknown,Unknown,Unknown,Unknown,Falkland Islands,FK
+-51.7247222222,-61.2911111111,Unknown,Unknown,Unknown,Unknown,Falkland Islands,FK
+68.4341666667,22.7727777778,Enontekio,Unknown,Unknown,Lapland,Finland,FI
+60.7333333333,26.2127777778,Orimattila,Suurikyla,Unknown,Paijat-Hame,Finland,FI
+60.2146666667,24.9895,Helsinki,Unknown,Unknown,Uusimaa,Finland,FI
+60.16986,24.93838,Helsinki,Unknown,Unknown,Uusimaa,Finland,FI
+44.482943,5.605521,Unknown,Valdrome,Drome,Auvergne-Rhone-Alpes,France,FR
+45.1625805556,5.40145,Unknown,Cognin-Les-Gorges,Isere,Auvergne-Rhone-Alpes,France,FR
+45.7325,2.9727777778,Unknown,Laschamps,Puy-De-Dome,Auvergne-Rhone-Alpes,France,FR
+44.9008333333,3.6844444444,Unknown,Alleyras,Haute-Loire,Auvergne-Rhone-Alpes,France,FR
+45.788583686,6.5313462409,Unknown,Crest-Voland,Savoy,Auvergne-Rhone-Alpes,France,FR
+44.482372,5.604285,Unknown,Valdrome,Drome,Auvergne-Rhone-Alpes,France,FR
+46.2466720235,4.6927977636,Unknown,Julienas,Rhone,Auvergne-Rhone-Alpes,France,FR
+47.6386111111,4.3866666667,Unknown,Marmagne,Cote-D'Or,Bourgogne - Franche-Comte,France,FR
+46.7821928522,6.326003484,Unknown,Labergement-Sainte-Marie,Doubs,Bourgogne - Franche-Comte,France,FR
+47.6520267501,3.5154315454,Unknown,Mouffy,Yonne,Bourgogne - Franche-Comte,France,FR
+47.8644554826,4.3162739696,Unknown,Nicey,Cote-D'Or,Bourgogne - Franche-Comte,France,FR
+47.5168252,3.7198674,Unknown,Montillot,Yonne,Bourgogne - Franche-Comte,France,FR
+46.9202777778,4.6666666667,Unknown,Dezize-Les-Maranges,Saone-Et-Loire,Bourgogne - Franche-Comte,France,FR
+48.3054268362,-1.9433495448,Unknown,Longaulnay,Ille-Et-Vilaine,Brittany,France,FR
+48.2371456,-1.8479823,Unknown,Langan,Ille-Et-Vilaine,Brittany,France,FR
 47.58,-2.7133333333,Unknown,Saint-Armel,Morbihan,Brittany,France,FR
--34.8830858499,149.3541747933,Unknown,Lerida,Unknown,New South Wales,Australia,AU
--33.8988816534,147.9213993772,Unknown,Bimbi,Unknown,New South Wales,Australia,AU
 47.5355555556,-2.49,Unknown,Billiers,Morbihan,Brittany,France,FR
-47.0477777778,-1.9913888889,Unknown,Les Moutiers-En-Retz,Loire-Atlantique,Pays De La Loire,France,FR
-46.9463888889,-2.1852777778,Unknown,Barbatre,Vendee,Pays De La Loire,France,FR
--33.5131964736,148.6344675897,Canowindra,Unknown,Unknown,New South Wales,Australia,AU
-46.8075,-2.1227777778,Unknown,Saint-Jean-De-Monts,Vendee,Pays De La Loire,France,FR
-46.5875,-1.8447222222,Les Sables-D'Olonne,Les Granges,Vendee,Pays De La Loire,France,FR
-46.2713888889,-1.2116666667,L'Aiguillon-La-Presqu'Ile,L'Aiguillon-Sur-Mer,Vendee,Pays De La Loire,France,FR
+48.0333761212,2.7975793255,Unknown,Paucourt,Loiret,Centre-Val De Loire,France,FR
+47.5879023994,2.7400229471,Unknown,Chatillon-Sur-Loire,Loiret,Centre-Val De Loire,France,FR
+47.5878972222,2.7402083333,Unknown,Chatillon-Sur-Loire,Loiret,Centre-Val De Loire,France,FR
+47.7666666667,2.4802777778,Unknown,Ouzouer-Sur-Loire,Loiret,Centre-Val De Loire,France,FR
+47.7666666667,2.4847222222,Unknown,Ouzouer-Sur-Loire,Loiret,Centre-Val De Loire,France,FR
+47.5879,2.74002,Unknown,Chatillon-Sur-Loire,Loiret,Centre-Val De Loire,France,FR
+47.38332,0.42693,Unknown,Mazieres-De-Touraine,Indre-Et-Loire,Centre-Val De Loire,France,FR
+47.93,2.93,Unknown,Chateau-Renard,Loiret,Centre-Val De Loire,France,FR
+47.542253,2.674678,Unknown,Cernoy-En-Berry,Loiret,Centre-Val De Loire,France,FR
+47.7573244595,2.483961381,Unknown,Ouzouer-Sur-Loire,Loiret,Centre-Val De Loire,France,FR
+46.8065649689,1.372813352,Unknown,Vendoeuvres,Indre,Centre-Val De Loire,France,FR
+48.1205555556,6.8297222222,Granges-Aumontzey,La Steniole,Vosges,Grand Est,France,FR
+48.0908520812,6.9441547171,Unknown,Xonrupt-Longemer,Vosges,Grand Est,France,FR
+48.5964,6.08433,Unknown,Bainville-Sur-Madon,Meurthe-Et-Moselle,Grand Est,France,FR
+49.4242162115,4.9425526212,Unknown,Buzancy,Ardennes,Grand Est,France,FR
+49.3404472222,6.04485,Unknown,Nilvange,Moselle,Grand Est,France,FR
+49.442946,6.110257,Unknown,Kanfen,Moselle,Grand Est,France,FR
+49.359678,6.056677,Unknown,Batzenthal,Moselle,Grand Est,France,FR
+49.657836,4.683252,Unknown,Villers-Sur-Le-Mont,Ardennes,Grand Est,France,FR
+49.6575926805,4.6837294326,Unknown,Villers-Sur-Le-Mont,Ardennes,Grand Est,France,FR
+48.596088,6.080813,Unknown,Bainville-Sur-Madon,Meurthe-Et-Moselle,Grand Est,France,FR
+48.0908108748,6.9441869036,Unknown,Xonrupt-Longemer,Vosges,Grand Est,France,FR
 50.2695,3.9305,Maubeuge,Montplaisir,Nord,Hauts-De-France,France,FR
+49.8832078627,4.217555031,Unknown,Any-Martin-Rieux,Aisne,Hauts-De-France,France,FR
+49.973,3.8029444444,Unknown,Leschelle,Aisne,Hauts-De-France,France,FR
+49.8824867276,4.218080744,Unknown,Any-Martin-Rieux,Aisne,Hauts-De-France,France,FR
+49.0,3.2833333333,Unknown,Charly-Sur-Marne,Aisne,Hauts-De-France,France,FR
+48.7,1.85,Unknown,Le Perray-En-Yvelines,Yvelines,Ile-De-France,France,FR
+48.4419698633,3.3829847461,Unknown,Villiers-Sur-Seine,Seine-Et-Marne,Ile-De-France,France,FR
+49.8927777778,0.8619444444,Unknown,Saint-Aubin-Sur-Mer,Seine-Maritime,Normandy,France,FR
+49.4405555556,-1.2047222222,Unknown,Saint-Martin-De-Varreville,Manche,Normandy,France,FR
+49.58238,-1.65624,Unknown,Martinvast,Manche,Normandy,France,FR
+49.1560542347,1.6047237975,Vexin-Sur-Epte,Unknown,Eure,Normandy,France,FR
+49.15605,1.60472,Vexin-Sur-Epte,Unknown,Eure,Normandy,France,FR
+45.43767,-1.0964,Grayan-Et-L'Hopital,Grayan,Gironde,Nouvelle-Aquitaine,France,FR
 45.4402777778,-0.9336111111,Unknown,Jau-Dignac-Et-Loirac,Gironde,Nouvelle-Aquitaine,France,FR
 44.5633333333,-0.3997222222,Unknown,Landiras,Gironde,Nouvelle-Aquitaine,France,FR
 44.7847222222,0.4866666667,Unknown,Monbazillac,Dordogne,Nouvelle-Aquitaine,France,FR
@@ -205,86 +574,980 @@ Latitude,Longitude,City,Village_or_Hamlet,County,State,Country,CountryCode
 43.8541666667,-1.3869444444,Unknown,Moliets-Et-Maa,Landes,Nouvelle-Aquitaine,France,FR
 43.3752777778,-1.5716666667,Unknown,Saint-Pee-Sur-Nivelle,Pyrenees-Atlantiques,Nouvelle-Aquitaine,France,FR
 43.2602777778,-1.6188888889,Unknown,Sare,Pyrenees-Atlantiques,Nouvelle-Aquitaine,France,FR
-42.37,1.2363888889,Montferrer I Castellbo,Biscarbo,Alt Urgell,Catalonia,Spain,ES
-42.5088888889,1.5636111111,Unknown,Engolasters,Unknown,Unknown,Andorra,AD
-42.6308333333,1.4841666667,Unknown,Unknown,Unknown,Unknown,Andorra,AD
+45.7963888889,0.4772222222,Unknown,Vitrac-Saint-Vincent,Charente,Nouvelle-Aquitaine,France,FR
+45.8237293598,0.4531351601,Unknown,Chasseneuil-Sur-Bonnieure,Charente,Nouvelle-Aquitaine,France,FR
+45.8237592661,0.4532424484,Unknown,Chasseneuil-Sur-Bonnieure,Charente,Nouvelle-Aquitaine,France,FR
+44.51373,0.07754,Unknown,Couthures-Sur-Garonne,Lot-Et-Garonne,Nouvelle-Aquitaine,France,FR
+43.8547222222,-1.3894444444,Unknown,Moliets-Et-Maa,Landes,Nouvelle-Aquitaine,France,FR
+43.1744444444,-1.1344444444,Unknown,Bussunarits-Sarrasquette,Pyrenees-Atlantiques,Nouvelle-Aquitaine,France,FR
+44.5904442256,1.5874677513,Les Pechs-Du-Vers,Unknown,Lot,Occitania,France,FR
+44.5904468313,1.5874503228,Les Pechs-Du-Vers,Unknown,Lot,Occitania,France,FR
+43.5711388889,1.4799722222,Toulouse,Unknown,Haute-Garonne,Occitania,France,FR
+42.728651082,1.6890356268,Unknown,Albies,Ariege,Occitania,France,FR
 42.5238888889,2.3627777778,Unknown,Sahorre,Pyrenees-Orientales,Occitania,France,FR
 42.6575,2.4230555556,Unknown,Eus,Pyrenees-Orientales,Occitania,France,FR
-42.3597222222,2.8272222222,Unknown,Darnius,Upper Emporda,Catalonia,Spain,ES
 42.5005555556,3.1158333333,Unknown,Port-Vendres,Pyrenees-Orientales,Occitania,France,FR
 42.74,3.0358333333,Unknown,Sainte-Marie-La-Mer,Pyrenees-Orientales,Occitania,France,FR
-54.4019444444,-0.9275,Unknown,Unknown,North Yorkshire,England,United Kingdom,GB
 43.0094444444,2.9180555556,Unknown,Roquefort-Des-Corbieres,Aude,Occitania,France,FR
 43.235,3.165,Unknown,Fleury,Aude,Occitania,France,FR
 43.5291666667,3.6702777778,Unknown,Montbazin,Herault,Occitania,France,FR
-36.4572222222,25.4236111111,Thira Municipal Unit,Imerovigli,Thira Regional Unit,Aegean,Greece,GR
-40.8075076687,-5.8540341241,Unknown,Vecinos,Unknown,Castile And Leon,Spain,ES
-48.5452777778,11.7197222222,Unknown,Seysdorf,Landkreis Freising,Bavaria,Germany,DE
-54.9822222222,12.3830555556,Unknown,Stege,Unknown,Region Zealand,Denmark,DK
-39.1743333333,-91.0125277778,Unknown,Whiteside,Lincoln County,Missouri,United States,US
--36.1654720689,148.1574207631,Khancoban,Jagumba,Unknown,New South Wales,Australia,AU
-67.5330555556,21.1875,Unknown,Piilijarvi,Norrbotten County,Unknown,Sweden,SE
-67.8802777778,20.3066666667,Unknown,Unknown,Norrbotten County,Unknown,Sweden,SE
--33.74364,151.06776,Sydney,Unknown,Unknown,New South Wales,Australia,AU
-41.0296767,-6.0861587,Unknown,Encina De San Silvestre,Unknown,Castile And Leon,Spain,ES
-33.6414805556,-79.2669444444,Unknown,Cribb Crossroads,Georgetown County,South Carolina,United States,US
-41.1886066085,1.5685229442,Calafell,Unknown,Baix Penedes,Catalonia,Spain,ES
-50.0153812678,-97.086342328,Unknown,Unknown,Unknown,Manitoba,Canada,CA
-28.2247222222,-16.6275,La Orotava,Unknown,Unknown,Unknown,Spain,ES
-28.2113888889,-16.8288888889,Guia De Isora,Unknown,Unknown,Unknown,Spain,ES
-28.3641666667,-16.6913888889,Icod De Los Vinos,Buen Paso,Unknown,Unknown,Spain,ES
-18.52043,73.85674,Pune,Unknown,Unknown,Maharashtra,India,IN
-44.80021,8.54296,Unknown,Gamalero,Alessandria,Piedmont,Italy,IT
-48.4991666667,44.5827777778,Volgograd,Unknown,Volgograd,Volgograd Oblast,Russia,RU
-52.5030555556,12.7652777778,Nauen,Wachow,Havelland,Brandenburg,Germany,DE
-49.1560542347,1.6047237975,Vexin-Sur-Epte,Unknown,Eure,Normandy,France,FR
-45.765142,126.650162,Harbin,Unknown,Unknown,Heilongjiang,China,CN
-35.9450187764,-95.7123090061,Unknown,Unknown,Wagoner County,Oklahoma,United States,US
+43.6099882336,1.5699445693,Unknown,Mons,Haute-Garonne,Occitania,France,FR
+44.2219444444,3.3558333333,Unknown,Hures-La-Parade,Lozere,Occitania,France,FR
+44.1825,3.6852777778,Unknown,Gabriac,Lozere,Occitania,France,FR
+43.7302777778,4.1058333333,Unknown,Saint-Series,Herault,Occitania,France,FR
+42.7239073829,1.6867282387,Unknown,Aston,Ariege,Occitania,France,FR
+42.7247610444,1.6891160754,Unknown,Albies,Ariege,Occitania,France,FR
+42.7254270388,1.6884401588,Unknown,Albies,Ariege,Occitania,France,FR
+44.7880555556,1.6086111111,Unknown,Rocamadour,Lot,Occitania,France,FR
+44.8580555556,1.4830555556,Unknown,Lanzac,Lot,Occitania,France,FR
+46.8543805996,-1.791725211,Challans,La Flocelliere,Vendee,Pays De La Loire,France,FR
+46.8543847777,-1.7916849778,Challans,La Flocelliere,Vendee,Pays De La Loire,France,FR
+46.8543775636,-1.7915775724,Challans,La Flocelliere,Vendee,Pays De La Loire,France,FR
+46.8543248003,-1.7917332576,Challans,La Flocelliere,Vendee,Pays De La Loire,France,FR
+46.2713888889,-1.2116666667,L'Aiguillon-La-Presqu'Ile,L'Aiguillon-Sur-Mer,Vendee,Pays De La Loire,France,FR
+46.5875,-1.8447222222,Les Sables-D'Olonne,Les Granges,Vendee,Pays De La Loire,France,FR
+46.4895346667,-1.7589567994,Les Sables-D'Olonne,Le Pontreau,Vendee,Pays De La Loire,France,FR
+46.4895365133,-1.7589407062,Les Sables-D'Olonne,Le Pontreau,Vendee,Pays De La Loire,France,FR
+48.1554722222,0.0334166667,Unknown,Mezieres-Sous-Lavardin,Sarthe,Pays De La Loire,France,FR
+47.0477777778,-1.9913888889,Unknown,Les Moutiers-En-Retz,Loire-Atlantique,Pays De La Loire,France,FR
+46.9463888889,-2.1852777778,Unknown,Barbatre,Vendee,Pays De La Loire,France,FR
+46.8075,-2.1227777778,Unknown,Saint-Jean-De-Monts,Vendee,Pays De La Loire,France,FR
+46.8044444444,-1.6277777778,Unknown,Palluau,Vendee,Pays De La Loire,France,FR
+46.8043308268,-1.628079231,Unknown,Palluau,Vendee,Pays De La Loire,France,FR
+46.80433,-1.62808,Unknown,Palluau,Vendee,Pays De La Loire,France,FR
+43.5594690621,5.3824704496,Aix-En-Provence,Unknown,Bouches-Du-Rhone,Provence-Alpes-Cote D'Azur,France,FR
+43.557440332,6.4661452124,Draguignan,Unknown,Var,Provence-Alpes-Cote D'Azur,France,FR
+43.8684168318,5.7912893166,Manosque,Unknown,Alpes-De-Haute-Provence,Provence-Alpes-Cote D'Azur,France,FR
+43.2163888889,5.4155555556,Marseille,Unknown,Bouches-Du-Rhone,Provence-Alpes-Cote D'Azur,France,FR
+43.219477,5.4085957,Marseille,Unknown,Bouches-Du-Rhone,Provence-Alpes-Cote D'Azur,France,FR
 43.694885,7.273685,Nice,Unknown,Maritime Alps,Provence-Alpes-Cote D'Azur,France,FR
-38.8191666667,-95.0925,Unknown,Clearfield,Douglas County,Kansas,United States,US
-50.9877369573,3.3209908599,Tielt,Unknown,Tielt,West Flanders,Belgium,BE
-45.6135946281,25.6338439789,Brasov,Unknown,Brasov,Unknown,Romania,RO
-12.9645407417,77.7414088632,Bengaluru,Unknown,Bangalore East,Karnataka,India,IN
-31.5163400506,121.9527328012,Chenjia,Unknown,Unknown,Unknown,China,CN
-53.647984,10.262634,Grosshansdorf,Unknown,Kreis Stormarn,Schleswig-Holstein,Germany,DE
-47.1504,10.3445,Unknown,Pettneu Am Arlberg,Bezirk Landeck,Tyrol,Austria,AT
-35.1557,52.3496,Dhstn Hwmh,Snrd,Garmsar County,Semnan Province,Iran,IR
-54.3502777778,12.3991666667,Unknown,Wustrow,Vorpommern-Rugen,Mecklenburg-Vorpommern,Germany,DE
-46.70792,23.59312,Unknown,Casele Micesti,Cluj,Unknown,Romania,RO
-50.15356,15.95251,Unknown,Belecko,Pardubice Region,Northeast,Czechia,CZ
-50.5447100489,14.9359926971,Unknown,Dolni Bukovina,Unknown,Central Bohemia,Czechia,CZ
-50.2294447748,16.4910346468,Unknown,Ricky V Orlickych Horach,Hradec Kralove Region,Northeast,Czechia,CZ
-31.2556145858,113.6801648121,Nancheng Subdistrict,Unknown,Anlu City,Hubei,China,CN
-49.2031447,16.5835942444,Brno,Unknown,South Moravian Region,Unknown,Czechia,CZ
+43.1505555556,5.8402777778,Ollioules,Unknown,Var,Provence-Alpes-Cote D'Azur,France,FR
+43.1504124005,5.8403425093,Ollioules,Unknown,Var,Provence-Alpes-Cote D'Azur,France,FR
 44.0588888889,5.5519444444,Unknown,Revest-Du-Bion,Alpes-De-Haute-Provence,Provence-Alpes-Cote D'Azur,France,FR
-41.57625,25.16617,Ardino,Unknown,Unknown,Kardzhali,Bulgaria,BG
-48.5083333333,16.5530555556,Unknown,Atzelsdorf,Bezirk Mistelbach,Lower Austria,Austria,AT
-48.4855555556,15.1486111111,Unknown,Grafenschlag,Bezirk Zwettl,Lower Austria,Austria,AT
-47.2511111111,16.1361111111,Unknown,Kemeten,Bezirk Oberwart,Burgenland,Austria,AT
-47.6994444444,16.9697222222,Unknown,Wallern Im Burgenland,Bezirk Neusiedl Am See,Burgenland,Austria,AT
-44.9177777778,-76.9397222222,North Frontenac,Plevna,Frontenac County,Ontario,Canada,CA
-45.6622222222,-77.5716666667,"Killaloe, Hagarty And Richards",Unknown,Renfrew County,Ontario,Canada,CA
-47.5919972222,-79.4869972222,Unknown,Notre-Dame-Du-Nord,Temiscamingue,Quebec,Canada,CA
-45.2528,-75.0518,North Stormont,Unknown,"Stormont, Dundas And Glengarry Counties",Ontario,Canada,CA
-44.879,-76.11,Drummond-North Elmsley,Port Elmsley,Lanark County,Ontario,Canada,CA
-52.4475,12.9211111111,Werder (Havel),Toplitz,Potsdam-Mittelmark,Brandenburg,Germany,DE
-45.96979,14.13502,Logatec,Medvedje Brdo,Unknown,Unknown,Slovenia,SI
-51.9816666667,-7.6330555556,Unknown,Unknown,County Waterford,Unknown,Ireland,IE
-30.2767,-103.595963,Unknown,Unknown,Brewster County,Texas,United States,US
--17.54248,145.39737,Unknown,Kaban,Unknown,Queensland,Australia,AU
--33.1958475015,-63.2889753953,Unknown,Santa Eufemia,Pedania La Carlota,Cordoba,Argentina,AR
-50.7291356749,3.6146822924,Unknown,Saint-Sauveur,Oudenaarde,East Flanders,Belgium,BE
-45.5389008502,14.3804810866,Ilirska Bistrica,Unknown,Unknown,Unknown,Slovenia,SI
+43.7040808481,6.0900008932,Unknown,Artignosc-Sur-Verdon,Var,Provence-Alpes-Cote D'Azur,France,FR
+43.7040833333,6.0902777778,Unknown,Artignosc-Sur-Verdon,Var,Provence-Alpes-Cote D'Azur,France,FR
+44.0192946919,5.1860941993,Unknown,Malemort-Du-Comtat,Vaucluse,Provence-Alpes-Cote D'Azur,France,FR
+43.7036755922,6.1020091429,Unknown,Artignosc-Sur-Verdon,Var,Provence-Alpes-Cote D'Azur,France,FR
+43.7040187995,6.0900143042,Unknown,Artignosc-Sur-Verdon,Var,Provence-Alpes-Cote D'Azur,France,FR
+43.7035902748,6.1020198718,Unknown,Artignosc-Sur-Verdon,Var,Provence-Alpes-Cote D'Azur,France,FR
+44.3431973962,6.7919227012,Unknown,Jausiers,Alpes-De-Haute-Provence,Provence-Alpes-Cote D'Azur,France,FR
+44.0844444444,5.1133333333,Unknown,Caromb,Vaucluse,Provence-Alpes-Cote D'Azur,France,FR
+44.1575,5.3102777778,Unknown,Bedoin,Vaucluse,Provence-Alpes-Cote D'Azur,France,FR
+43.8919444444,5.1327777778,Unknown,Lagnes,Vaucluse,Provence-Alpes-Cote D'Azur,France,FR
+43.6825,7.0830555556,Unknown,La Colle-Sur-Loup,Maritime Alps,Provence-Alpes-Cote D'Azur,France,FR
+43.7236111111,6.9816666667,Unknown,Gourdon,Maritime Alps,Provence-Alpes-Cote D'Azur,France,FR
+43.6397222222,6.5688888889,Unknown,Bargemon,Var,Provence-Alpes-Cote D'Azur,France,FR
+43.7369444444,6.4325,Unknown,Trigance,Var,Provence-Alpes-Cote D'Azur,France,FR
+43.9327777778,6.0627777778,Unknown,Saint-Julien-D'Asse,Alpes-De-Haute-Provence,Provence-Alpes-Cote D'Azur,France,FR
+43.8447222222,5.4397222222,Unknown,Saignon,Vaucluse,Provence-Alpes-Cote D'Azur,France,FR
+43.7683333333,5.3730555556,Unknown,Lourmarin,Vaucluse,Provence-Alpes-Cote D'Azur,France,FR
+44.1186111111,5.8022222222,Unknown,Saint-Etienne-Les-Orgues,Alpes-De-Haute-Provence,Provence-Alpes-Cote D'Azur,France,FR
+44.5610237288,5.9971042675,Unknown,La Roche-Des-Arnauds,Hautes-Alpes,Provence-Alpes-Cote D'Azur,France,FR
+43.9313,5.6801,Unknown,Aubenas-Les-Alpes,Alpes-De-Haute-Provence,Provence-Alpes-Cote D'Azur,France,FR
+44.0589202752,5.5519996349,Unknown,Revest-Du-Bion,Alpes-De-Haute-Provence,Provence-Alpes-Cote D'Azur,France,FR
+43.7035925457,6.1021245762,Unknown,Artignosc-Sur-Verdon,Var,Provence-Alpes-Cote D'Azur,France,FR
+43.7041666667,6.0902777778,Unknown,Artignosc-Sur-Verdon,Var,Provence-Alpes-Cote D'Azur,France,FR
+44.47836,6.0157,Unknown,Tallard,Hautes-Alpes,Provence-Alpes-Cote D'Azur,France,FR
+43.7408440181,6.0475173952,Unknown,Quinson,Alpes-De-Haute-Provence,Provence-Alpes-Cote D'Azur,France,FR
+44.0636059997,6.3917313215,Unknown,Tartonne,Alpes-De-Haute-Provence,Provence-Alpes-Cote D'Azur,France,FR
+44.0113403957,6.7786402831,Unknown,Sausses,Alpes-De-Haute-Provence,Provence-Alpes-Cote D'Azur,France,FR
+44.0096553458,6.7288222739,Unknown,Castellet-Les-Sausses,Alpes-De-Haute-Provence,Provence-Alpes-Cote D'Azur,France,FR
+43.9692230501,6.7065284778,Unknown,Saint-Benoit,Alpes-De-Haute-Provence,Provence-Alpes-Cote D'Azur,France,FR
+44.0892694555,6.5378688611,Unknown,Thorame-Haute,Alpes-De-Haute-Provence,Provence-Alpes-Cote D'Azur,France,FR
+43.9452777778,5.4088888889,Unknown,Saint-Saturnin-Les-Apt,Vaucluse,Provence-Alpes-Cote D'Azur,France,FR
+43.2316666667,5.8161111111,Unknown,Le Beausset,Var,Provence-Alpes-Cote D'Azur,France,FR
+44.4082777778,5.5151388889,Unknown,Moydans,Hautes-Alpes,Provence-Alpes-Cote D'Azur,France,FR
+44.1132787181,5.4870235712,Unknown,Saint-Trinit,Vaucluse,Provence-Alpes-Cote D'Azur,France,FR
+44.0000181382,5.4872574918,Unknown,Lagarde-D'Apt,Vaucluse,Provence-Alpes-Cote D'Azur,France,FR
+43.9486518081,5.5967085294,Unknown,Simiane-La-Rotonde,Alpes-De-Haute-Provence,Provence-Alpes-Cote D'Azur,France,FR
+44.113669157,5.4868602955,Unknown,Saint-Trinit,Vaucluse,Provence-Alpes-Cote D'Azur,France,FR
+44.1133388889,5.4842,Unknown,Saint-Trinit,Vaucluse,Provence-Alpes-Cote D'Azur,France,FR
+-21.1061111111,55.3619444444,Les Trois-Bassins,Unknown,Unknown,Reunion,France,FR
+-21.0708333333,55.3875,Saint-Paul,Unknown,Unknown,Reunion,France,FR
+49.0587321848,2.2632527723,Unknown,Chauvry,Val-D'Oise,Unknown,France,FR
+49.4202777778,8.7475,Heidelberg,Unknown,Unknown,Baden-Wurttemberg,Germany,DE
+49.4197222222,9.4333333333,Osterburken,Unknown,Neckar-Odenwald-Kreis,Baden-Wurttemberg,Germany,DE
+47.8853686216,7.7338438456,Staufen Im Breisgau,Unknown,Landkreis Breisgau-Hochschwarzwald,Baden-Wurttemberg,Germany,DE
+48.0197222222,8.8533333333,Tuttlingen,Nendingen,Landkreis Tuttlingen,Baden-Wurttemberg,Germany,DE
+47.8797222222,9.5713888889,Unknown,Buchsee,Landkreis Ravensburg,Baden-Wurttemberg,Germany,DE
+47.6676,8.158,Unknown,Bannholz,Landkreis Waldshut,Baden-Wurttemberg,Germany,DE
+50.1788888889,10.0647222222,Bad Kissingen,Unknown,Landkreis Bad Kissingen,Bavaria,Germany,DE
+47.6203202967,13.0184274401,Berchtesgaden,Mitterbach,Landkreis Berchtesgadener Land,Bavaria,Germany,DE
+49.7833333333,9.8833333333,Hochberg,Unknown,Landkreis Wurzburg,Bavaria,Germany,DE
+50.1583333333,11.3897222222,Kulmbach,Kirchleus,Landkreis Kulmbach,Bavaria,Germany,DE
 50.1361111111,11.4644444444,Kulmbach,Oberpurbach,Landkreis Kulmbach,Bavaria,Germany,DE
-49.3996908769,21.4822221228,Unknown,Roztoky,District Of Svidnik,Region Of Presov,Slovakia,SK
-45.5667157161,13.8962776898,Unknown,Petrinje,Unknown,Unknown,Slovenia,SI
-27.9688888889,-15.5888888889,Unknown,Tejeda,Unknown,Unknown,Spain,ES
-52.2836969398,5.6114527984,Ermelo,Unknown,Unknown,Gelderland,Netherlands,NL
-46.3,24.4,Unknown,Haranglab,Mures,Unknown,Romania,RO
-42.97577,17.17786,Unknown,Orebic,Dubrovnik-Neretva County,Unknown,Croatia,HR
-28.2127777778,-16.6813888889,Guia De Isora,Unknown,Unknown,Unknown,Spain,ES
-18.56392,73.81252,Pune,Unknown,Unknown,Maharashtra,India,IN
--22.4008333333,-45.535,Unknown,Piranguinho,Unknown,Minas Gerais,Brazil,BR
+50.1583333333,11.3916666667,Kulmbach,Oberdornlach,Landkreis Kulmbach,Bavaria,Germany,DE
+50.1361111111,11.4647222222,Kulmbach,Oberpurbach,Landkreis Kulmbach,Bavaria,Germany,DE
+50.1361111111,11.4513888889,Kulmbach,Oberpurbach,Landkreis Kulmbach,Bavaria,Germany,DE
+48.9647222222,13.5875,Mauther Forst,Unknown,Landkreis Freyung-Grafenau,Bavaria,Germany,DE
+48.11,11.53,Munich,Unknown,Unknown,Bavaria,Germany,DE
+49.536901344,11.4441583713,Unknown,Aspertshofen,Nurnberger Land,Bavaria,Germany,DE
+48.5452777778,11.7197222222,Unknown,Seysdorf,Landkreis Freising,Bavaria,Germany,DE
+48.7480555556,13.7480555556,Unknown,Kernberg,Landkreis Freyung-Grafenau,Bavaria,Germany,DE
+49.5369795869,11.4441744646,Unknown,Aspertshofen,Nurnberger Land,Bavaria,Germany,DE
+47.7155555556,10.8213888889,Unknown,Lechbruck Am See,Landkreis Ostallgau,Bavaria,Germany,DE
+48.0285,11.00897,Unknown,Finning,Landkreis Landsberg Am Lech,Bavaria,Germany,DE
+48.0988888889,10.2233333333,Unknown,Reichau,Landkreis Unterallgau,Bavaria,Germany,DE
+52.6136111111,13.8533333333,Altlandsberg,Gielsdorf,Markisch-Oderland,Brandenburg,Germany,DE
+52.1889040881,13.3315001318,Am Mellensee,Gadsdorf,Teltow-Flaming,Brandenburg,Germany,DE
+52.1888888889,13.3316666667,Am Mellensee,Gadsdorf,Teltow-Flaming,Brandenburg,Germany,DE
+52.6783333333,13.7902777778,Beiersdorf-Freudenberg,Unknown,Markisch-Oderland,Brandenburg,Germany,DE
+52.792889698,12.749452116,Fehrbellin,Lentzke,Ostprignitz-Ruppin,Brandenburg,Germany,DE
+52.7927777778,12.7494444444,Fehrbellin,Lentzke,Ostprignitz-Ruppin,Brandenburg,Germany,DE
+52.8466666667,12.7777777778,Fehrbellin,Walchow,Ostprignitz-Ruppin,Brandenburg,Germany,DE
+52.7702777778,12.7402777778,Fehrbellin,Brunne,Ostprignitz-Ruppin,Brandenburg,Germany,DE
+52.6513888889,12.6597222222,Friesack,Wagenitz,Havelland,Brandenburg,Germany,DE
+52.7333352059,13.855430685,Heckelberg-Brunow,Brunow,Markisch-Oderland,Brandenburg,Germany,DE
+52.7333333333,13.8552777778,Heckelberg-Brunow,Brunow,Markisch-Oderland,Brandenburg,Germany,DE
+52.732859331,13.8553207144,Heckelberg-Brunow,Brunow,Markisch-Oderland,Brandenburg,Germany,DE
+51.9319444444,13.9544444444,Lubben (Spreewald),Radensdorf,Dahme-Spreewald,Brandenburg,Germany,DE
+51.855,13.8527777778,Lubbenau/Spreewald,Hindenberg,Oberspreewald-Lausitz - Gorne Blota-Luzyca,Brandenburg,Germany,DE
+52.291206908,13.2579394317,Ludwigsfelde,Unknown,Teltow-Flaming,Brandenburg,Germany,DE
+52.291300651,13.2579030108,Ludwigsfelde,Unknown,Teltow-Flaming,Brandenburg,Germany,DE
+51.4358333333,13.1916666667,Muhlberg/Elbe,Unknown,Elbe-Elster,Brandenburg,Germany,DE
+52.5030555556,12.7652777778,Nauen,Wachow,Havelland,Brandenburg,Germany,DE
+52.503056,12.765278,Nauen,Wachow,Havelland,Brandenburg,Germany,DE
+52.5028736138,12.7655039416,Nauen,Wachow,Havelland,Brandenburg,Germany,DE
+52.5030555556,12.7655555556,Nauen,Wachow,Havelland,Brandenburg,Germany,DE
+52.6355555556,12.7963888889,Nauen,Berge,Havelland,Brandenburg,Germany,DE
+52.8887777778,12.9144444444,Neuruppin,Radensleben,Ostprignitz-Ruppin,Brandenburg,Germany,DE
+52.8886111111,12.9144444444,Neuruppin,Radensleben,Ostprignitz-Ruppin,Brandenburg,Germany,DE
+52.8938888889,14.0466666667,Oderberg,Oderberg-Neuendorf,Barnim,Brandenburg,Germany,DE
+52.4565337898,12.9708741108,Potsdam,Marquardt,Unknown,Brandenburg,Germany,DE
+52.4553504399,12.9607018331,Potsdam,Marquardt,Unknown,Brandenburg,Germany,DE
+52.4561111111,12.9769444444,Potsdam,Marquardt,Unknown,Brandenburg,Germany,DE
+52.4563888889,12.9708333333,Potsdam,Marquardt,Unknown,Brandenburg,Germany,DE
+52.45639,12.97083,Potsdam,Marquardt,Unknown,Brandenburg,Germany,DE
+52.4570641621,12.9605279204,Potsdam,Marquardt,Unknown,Brandenburg,Germany,DE
+52.4559615758,12.9606455067,Potsdam,Marquardt,Unknown,Brandenburg,Germany,DE
+52.45275,12.9577777778,Potsdam,Marquardt,Unknown,Brandenburg,Germany,DE
+52.455885,12.960791,Potsdam,Marquardt,Unknown,Brandenburg,Germany,DE
+52.455885,12.990791,Potsdam,Fahrland,Unknown,Brandenburg,Germany,DE
+52.4558833333,12.9608055556,Potsdam,Marquardt,Unknown,Brandenburg,Germany,DE
+52.4561111111,12.9605555556,Potsdam,Marquardt,Unknown,Brandenburg,Germany,DE
+52.4375,12.9558333333,Potsdam,Grube,Unknown,Brandenburg,Germany,DE
+52.45991871,12.95989046,Potsdam,Marquardt,Unknown,Brandenburg,Germany,DE
+52.7519444444,12.2725,Rhinow,Unknown,Havelland,Brandenburg,Germany,DE
+52.6938888889,12.2308333333,Rhinow,Parey,Havelland,Brandenburg,Germany,DE
+52.7016666667,12.4866666667,Rhinow,Gorne,Havelland,Brandenburg,Germany,DE
+52.7852777778,12.3166666667,Rhinow,Grossderschau,Havelland,Brandenburg,Germany,DE
+52.2086111111,14.1222222222,Unknown,Lindenberg,Oder-Spree,Brandenburg,Germany,DE
+52.9119444444,11.8686111111,Unknown,Ruhstadt,Prignitz,Brandenburg,Germany,DE
+52.1,14.07,Unknown,Kossenblatt,Oder-Spree,Brandenburg,Germany,DE
+52.4,13.31,Unknown,Unknown,Potsdam-Mittelmark,Brandenburg,Germany,DE
+52.504574471,12.6793331653,Unknown,Bagow,Potsdam-Mittelmark,Brandenburg,Germany,DE
+52.5066666667,12.6794444444,Unknown,Bagow,Potsdam-Mittelmark,Brandenburg,Germany,DE
+52.4115,12.785,Unknown,Gross Kreutz,Potsdam-Mittelmark,Brandenburg,Germany,DE
+52.6666666667,13.85,Unknown,Protzel,Markisch-Oderland,Brandenburg,Germany,DE
+52.695507,12.4808333333,Unknown,Nennhausen,Havelland,Brandenburg,Germany,DE
+52.3477777778,12.6736111111,Unknown,Netzen,Potsdam-Mittelmark,Brandenburg,Germany,DE
+52.2828694444,13.1162888889,Unknown,Tremsdorf,Potsdam-Mittelmark,Brandenburg,Germany,DE
+52.2830555556,13.1158333333,Unknown,Tremsdorf,Potsdam-Mittelmark,Brandenburg,Germany,DE
+52.53794,12.71314,Unknown,Pawesin,Potsdam-Mittelmark,Brandenburg,Germany,DE
+52.4475,12.9211111111,Werder (Havel),Toplitz,Potsdam-Mittelmark,Brandenburg,Germany,DE
+52.4475,12.9208333333,Werder (Havel),Toplitz,Potsdam-Mittelmark,Brandenburg,Germany,DE
+52.4475,12.9208305556,Werder (Havel),Toplitz,Potsdam-Mittelmark,Brandenburg,Germany,DE
+52.4473797087,12.9210290459,Werder (Havel),Toplitz,Potsdam-Mittelmark,Brandenburg,Germany,DE
+52.4474573509,12.9205127207,Werder (Havel),Toplitz,Potsdam-Mittelmark,Brandenburg,Germany,DE
+52.27282,12.26271,Ziesar,Unknown,Potsdam-Mittelmark,Brandenburg,Germany,DE
+52.2727777778,12.2627777778,Ziesar,Unknown,Potsdam-Mittelmark,Brandenburg,Germany,DE
+53.06156,8.81592,Bremen,Unknown,Unknown,Bremen,Germany,DE
+53.0615642133,8.8159227188,Bremen,Unknown,Unknown,Bremen,Germany,DE
+51.3415075456,9.4884749099,Kassel,Unknown,Unknown,Hesse,Germany,DE
+51.3163891053,9.4795544502,Kassel,Unknown,Unknown,Hesse,Germany,DE
+51.3415117746,9.4884793938,Kassel,Unknown,Unknown,Hesse,Germany,DE
+51.3415124835,9.4884833959,Kassel,Unknown,Unknown,Hesse,Germany,DE
+51.3509589862,9.493111129,Kassel,Unknown,Unknown,Hesse,Germany,DE
+51.3414973035,9.4884486161,Kassel,Unknown,Unknown,Hesse,Germany,DE
+51.3415078571,9.4884064603,Kassel,Unknown,Unknown,Hesse,Germany,DE
+50.9491666667,9.4969444444,Unknown,Wallenstein,Schwalm-Eder-Kreis,Hesse,Germany,DE
+51.5302986702,9.4923849466,Unknown,Beberbeck,Landkreis Kassel,Hesse,Germany,DE
+51.4721813259,9.2760283809,Unknown,Zwergen,Landkreis Kassel,Hesse,Germany,DE
+51.5635783522,9.5139403584,Unknown,Gottsburen,Landkreis Kassel,Hesse,Germany,DE
+51.5635791026,9.5139482883,Unknown,Gottsburen,Landkreis Kassel,Hesse,Germany,DE
+51.5635676631,9.5139560964,Unknown,Gottsburen,Landkreis Kassel,Hesse,Germany,DE
+51.3717915879,9.3317847219,Zierenberg,Unknown,Landkreis Kassel,Hesse,Germany,DE
+53.2016666667,10.9758333333,Amt Neuhaus,Pommau,Luneburg,Lower Saxony,Germany,DE
+52.2538888889,7.0688888889,Bad Bentheim,Unknown,Landkreis Grafschaft Bentheim,Lower Saxony,Germany,DE
+52.2544444444,7.0694444444,Bad Bentheim,Unknown,Landkreis Grafschaft Bentheim,Lower Saxony,Germany,DE
 53.0639757,8.6684234383,Delmenhorst,Schohasbergen,Unknown,Lower Saxony,Germany,DE
+53.6022222222,7.1344444444,Norden,Unknown,Landkreis Aurich,Lower Saxony,Germany,DE
+53.1197222222,9.0597222222,Unknown,Fischerhude,Landkreis Verden,Lower Saxony,Germany,DE
+53.70863,7.803986,Wittmund,Carolinensiel,Landkreis Wittmund,Lower Saxony,Germany,DE
+53.3929268987,12.5786203712,Robel/Muritz,Unknown,Mecklenburgische Seenplatte,Mecklenburg-Vorpommern,Germany,DE
+53.4443994225,13.1200657576,Unknown,Hohenzieritz,Mecklenburgische Seenplatte,Mecklenburg-Vorpommern,Germany,DE
+53.4783333333,10.7302777778,Unknown,Greven,Ludwigslust-Parchim,Mecklenburg-Vorpommern,Germany,DE
+53.7144444444,10.8719444444,Unknown,Dechow,Nordwestmecklenburg,Mecklenburg-Vorpommern,Germany,DE
+54.25,12.85,Unknown,Velgast,Vorpommern-Rugen,Mecklenburg-Vorpommern,Germany,DE
+53.8361111111,11.2075,Unknown,Upahl,Nordwestmecklenburg,Mecklenburg-Vorpommern,Germany,DE
+53.6908333333,12.1633333333,Unknown,Zehna,Landkreis Rostock,Mecklenburg-Vorpommern,Germany,DE
+54.3502777778,12.3991666667,Unknown,Wustrow,Vorpommern-Rugen,Mecklenburg-Vorpommern,Germany,DE
+53.8766666667,13.6908333333,Unknown,Relzow,Vorpommern-Greifswald,Mecklenburg-Vorpommern,Germany,DE
+54.0881785522,13.8570668755,Unknown,Trassenheide,Vorpommern-Greifswald,Mecklenburg-Vorpommern,Germany,DE
+54.3347222222,12.5280555556,Unknown,Saal,Vorpommern-Rugen,Mecklenburg-Vorpommern,Germany,DE
+53.6164114187,12.3913555153,Unknown,Hohen Wangelin,Landkreis Rostock,Mecklenburg-Vorpommern,Germany,DE
+54.0347222222,12.1625,Unknown,Dummerstorf,Landkreis Rostock,Mecklenburg-Vorpommern,Germany,DE
+54.0098,12.1625,Unknown,Kavelstorf,Landkreis Rostock,Mecklenburg-Vorpommern,Germany,DE
+53.4783333333,10.7313888889,Unknown,Greven,Ludwigslust-Parchim,Mecklenburg-Vorpommern,Germany,DE
+53.4669444444,11.5297222222,Unknown,Banzkow,Ludwigslust-Parchim,Mecklenburg-Vorpommern,Germany,DE
+53.6911111111,12.1627777778,Unknown,Zehna,Landkreis Rostock,Mecklenburg-Vorpommern,Germany,DE
+53.1930555556,13.0375,Wesenberg,Strasen,Mecklenburgische Seenplatte,Mecklenburg-Vorpommern,Germany,DE
+51.5297222222,6.3036111111,Geldern,Unknown,Kreis Kleve,North Rhine-Westphalia,Germany,DE
+52.2144444444,7.015,Gronau,Unknown,Kreis Borken,North Rhine-Westphalia,Germany,DE
+52.1236,8.7018,Herford,Unknown,Kreis Herford,North Rhine-Westphalia,Germany,DE
+52.12,8.7,Herford,Unknown,Kreis Herford,North Rhine-Westphalia,Germany,DE
+52.1238888889,8.7019444444,Herford,Unknown,Kreis Herford,North Rhine-Westphalia,Germany,DE
+50.5643364816,6.2647704176,Monschau,Imgenbroich,Aachen (District),North Rhine-Westphalia,Germany,DE
+51.38602,7.3915,Wetter (Ruhr),Unknown,Ennepe-Ruhr-Kreis,North Rhine-Westphalia,Germany,DE
+49.7969444444,6.8461111111,Unknown,Polich,Landkreis Trier-Saarburg,Rhineland-Palatinate,Germany,DE
+49.8319444444,6.8863888889,Unknown,Trittenheim,Landkreis Trier-Saarburg,Rhineland-Palatinate,Germany,DE
+49.9880555556,7.0947222222,Unknown,Krov,Landkreis Bernkastel-Wittlich,Rhineland-Palatinate,Germany,DE
+50.1022222222,7.0972222222,Unknown,Bremm,Landkreis Cochem-Zell,Rhineland-Palatinate,Germany,DE
+50.2513888889,7.4566666667,Unknown,Oberfell,Landkreis Mayen-Koblenz,Rhineland-Palatinate,Germany,DE
+50.3622222222,7.9016666667,Unknown,Holzappel,Rhein-Lahn-Kreis,Rhineland-Palatinate,Germany,DE
+49.7733333333,7.2888888889,Unknown,Herborn,Landkreis Birkenfeld,Rhineland-Palatinate,Germany,DE
+49.5319444444,6.6888888889,Losheim Am See,Unknown,Landkreis Merzig-Wadern,Saarland,Germany,DE
+49.4361111111,6.5397222222,Merzig,Unknown,Landkreis Merzig-Wadern,Saarland,Germany,DE
+49.4638888889,6.9841666667,Unknown,Sotzweiler,Landkreis St. Wendel,Saarland,Germany,DE
+49.2347222222,7.1572222222,Unknown,Ommersheim,Saarpfalz-Kreis,Saarland,Germany,DE
+51.5630555556,12.3422222222,Delitzsch,Benndorf,Nordsachsen,Saxony,Germany,DE
+51.2122222222,12.7477777778,Grimma,Hofgen,Landkreis Leipzig,Saxony,Germany,DE
+50.8008333333,12.6988888889,Hohenstein-Ernstthal,Unknown,Zwickau,Saxony,Germany,DE
+50.7763888889,12.6483333333,Lichtenstein/Sachsen,Unknown,Zwickau,Saxony,Germany,DE
+51.2833333333,12.3666666667,Markkleeberg,Unknown,Landkreis Leipzig,Saxony,Germany,DE
+51.2666666667,12.3666666667,Markkleeberg,Unknown,Landkreis Leipzig,Saxony,Germany,DE
+51.2491666667,13.0847222222,Mugeln,Schlanzschwitz,Nordsachsen,Saxony,Germany,DE
+51.12,13.61,Radebeul,Unknown,Meissen,Saxony,Germany,DE
+51.1273803103,13.5992282486,Radebeul,Unknown,Meissen,Saxony,Germany,DE
+51.1273803103,13.6030555556,Radebeul,Unknown,Meissen,Saxony,Germany,DE
+51.2,13.6,Unknown,Moritzburg,Meissen,Saxony,Germany,DE
+50.6936111111,12.4332222222,Unknown,Lichtentanne,Zwickau,Saxony,Germany,DE
+51.1666666667,12.3666666667,Unknown,Lippendorf,Landkreis Leipzig,Saxony,Germany,DE
+51.19,13.6,Unknown,Steinbach,Meissen,Saxony,Germany,DE
+51.3413888889,13.815,Unknown,Thiendorf,Meissen,Saxony,Germany,DE
+51.1994444444,13.6002777778,Unknown,Moritzburg,Meissen,Saxony,Germany,DE
+51.1994444444,13.6030555556,Unknown,Steinbach,Meissen,Saxony,Germany,DE
+51.2444444444,13.6069444444,Unknown,Beiersdorf,Meissen,Saxony,Germany,DE
+51.2444444444,13.6005555556,Unknown,Hohndorf,Meissen,Saxony,Germany,DE
+51.2491666667,13.9827777778,Unknown,Haselbachtal,Bautzen - Budysin,Saxony,Germany,DE
+51.2491666667,13.9680555556,Unknown,Reichenau,Bautzen - Budysin,Saxony,Germany,DE
+51.7363888889,11.2183333333,Ballenstedt,Unknown,Landkreis Harz,Saxony-Anhalt,Germany,DE
+51.7230555556,11.3066666667,Ermsleben,Unknown,Landkreis Harz,Saxony-Anhalt,Germany,DE
+52.8263888889,12.0702777778,Havelberg,Unknown,Stendal,Saxony-Anhalt,Germany,DE
+51.6091666667,11.2738888889,Mansfeld,Hermerode,Mansfeld-Sudharz,Saxony-Anhalt,Germany,DE
+52.2215388889,12.1104,Mockern,Wustenjerichow,Jerichower Land,Saxony-Anhalt,Germany,DE
+52.2216666667,12.1102777778,Mockern,Wustenjerichow,Jerichower Land,Saxony-Anhalt,Germany,DE
+52.85034,11.16467,Salzwedel,Unknown,Altmarkkreis Salzwedel,Saxony-Anhalt,Germany,DE
+52.8344444444,11.1755555556,Salzwedel,Unknown,Altmarkkreis Salzwedel,Saxony-Anhalt,Germany,DE
+52.0166666667,11.5041666667,Unknown,Unknown,Borde,Saxony-Anhalt,Germany,DE
+52.1535277778,11.1191111111,Unknown,Badeleben,Borde,Saxony-Anhalt,Germany,DE
+52.1536111111,11.1191666667,Unknown,Badeleben,Borde,Saxony-Anhalt,Germany,DE
+53.01,11.5697222222,Unknown,Aulosen,Stendal,Saxony-Anhalt,Germany,DE
+51.1316666667,12.1741666667,Unknown,Predel,Burgenlandkreis,Saxony-Anhalt,Germany,DE
+53.647984,10.262634,Grosshansdorf,Unknown,Kreis Stormarn,Schleswig-Holstein,Germany,DE
+53.5,10.4833333333,Schwarzenbek,Unknown,Kreis Herzogtum Lauenburg,Schleswig-Holstein,Germany,DE
+53.5,10.48,Schwarzenbek,Unknown,Kreis Herzogtum Lauenburg,Schleswig-Holstein,Germany,DE
+54.3458333333,9.9841666667,Unknown,Neuwittenbek,Kreis Rendsburg-Eckernforde,Schleswig-Holstein,Germany,DE
+54.928759598,8.3145422879,Unknown,Wenningstedt,Northern Friesland,Schleswig-Holstein,Germany,DE
+50.8832431044,10.9894251634,Amt Wachsenburg,Unknown,Ilm-Kreis,Thuringia,Germany,DE
+50.8819444444,10.9997222222,Amt Wachsenburg,Unknown,Ilm-Kreis,Thuringia,Germany,DE
+50.8816666667,10.9997222222,Amt Wachsenburg,Unknown,Ilm-Kreis,Thuringia,Germany,DE
+50.5,11.1166666667,Neuhaus Am Rennweg,Unknown,Landkreis Sonneberg,Thuringia,Germany,DE
+50.6666666667,10.55,Steinbach-Hallenberg,Viernau,Landkreis Schmalkalden-Meiningen,Thuringia,Germany,DE
+50.5246013326,10.4137914702,Unknown,Untermassfeld,Landkreis Schmalkalden-Meiningen,Thuringia,Germany,DE
+50.9322222222,10.0008333333,Unknown,Dankmarshausen,Wartburgkreis,Thuringia,Germany,DE
+50.9019444444,10.5391666667,Unknown,Langenhain,Landkreis Gotha,Thuringia,Germany,DE
+51.3773064756,11.3961038314,Unknown,Monchpfiffel-Nikolausrieth,Kyffhauserkreis,Thuringia,Germany,DE
+52.4333333333,13.35,Berlin,Unknown,Unknown,Unknown,Germany,DE
+52.4572222222,13.375,Berlin,Unknown,Unknown,Unknown,Germany,DE
+52.4534615443,13.5683611447,Berlin,Unknown,Unknown,Unknown,Germany,DE
+52.4450675806,13.6769153464,Berlin,Rahnsdorf-Muhle,Unknown,Unknown,Germany,DE
+52.44507,13.67692,Berlin,Rahnsdorf-Muhle,Unknown,Unknown,Germany,DE
+36.4002777778,28.2288888889,Municipal Unit Of Rhodes,Unknown,Rhodes Regional Unit,Aegean,Greece,GR
+36.4475,28.2155555556,Municipal Unit Of Rhodes,Unknown,Rhodes Regional Unit,Aegean,Greece,GR
+36.4572222222,25.4236111111,Thira Municipal Unit,Imerovigli,Thira Regional Unit,Aegean,Greece,GR
+38.9273,20.9028998333,Municipal Unit Of Anaktorio,Unknown,Aetolia-Acarnania Regional Unit,"Peloponnese, Western Greece And The Ionian",Greece,GR
+39.5422019178,19.8508536177,Unknown,Kato Garouna,Corfu Regional Unit,"Peloponnese, Western Greece And The Ionian",Greece,GR
+35.0186111111,26.0497222222,Analipsi Municipal Unit,Unknown,Lasithi Regional Unit,Region Of Crete,Greece,GR
+35.3062003183,25.1500774932,Heraklion Municipal Unit,Unknown,Heraklion Regional Unit,Region Of Crete,Greece,GR
+35.0969444444,26.1225,Lefki Municipal Unit,Boila,Lasithi Regional Unit,Region Of Crete,Greece,GR
+35.2130555556,24.5716666667,Spili,Unknown,Rethymno Regional Unit,Region Of Crete,Greece,GR
+35.1055379138,24.5613859583,Unknown,Agios Pavlos,Rethymno Regional Unit,Region Of Crete,Greece,GR
+35.1064945697,24.5623127516,Unknown,Agios Pavlos,Rethymno Regional Unit,Region Of Crete,Greece,GR
+35.1956235582,24.1547212456,Unknown,Unknown,Chania Regional Unit,Region Of Crete,Greece,GR
+34.9908333333,25.5358333333,Unknown,Tertsa,Heraklion Regional Unit,Region Of Crete,Greece,GR
+47.4100003489,19.1139949164,Budapest,Unknown,Unknown,Unknown,Hungary,HU
+48.10413,20.85954,Felsozsolca,Unknown,Borsod-Abauj-Zemplen,Unknown,Hungary,HU
+48.09873,20.85925,Felsozsolca,Unknown,Borsod-Abauj-Zemplen,Unknown,Hungary,HU
+46.5,19.7722222222,Kiskunmajsa,Unknown,Bacs-Kiskun,Unknown,Hungary,HU
+46.5,19.77,Kiskunmajsa,Unknown,Bacs-Kiskun,Unknown,Hungary,HU
+46.9997777778,18.3393055556,Polgardi,Unknown,Fejer,Unknown,Hungary,HU
+46.9993,18.3392,Polgardi,Unknown,Fejer,Unknown,Hungary,HU
+46.3627044799,18.6422290554,Szekszard,Unknown,Tolna,Unknown,Hungary,HU
+47.6622301704,18.3901069273,Tata,Unknown,Komarom-Esztergom,Unknown,Hungary,HU
+47.6624686236,18.3897582401,Tata,Unknown,Komarom-Esztergom,Unknown,Hungary,HU
+47.6624415267,18.3897636045,Tata,Unknown,Komarom-Esztergom,Unknown,Hungary,HU
+46.1922017015,19.5392127921,Tompa,Baromajor,Bacs-Kiskun,Unknown,Hungary,HU
+47.0,18.5666666667,Unknown,Sarkeresztur,Fejer,Unknown,Hungary,HU
+47.2447126742,19.388696458,Unknown,Kakucs,Pest,Unknown,Hungary,HU
+47.2437645503,19.4755581543,Unknown,Nyaregyhaza,Pest,Unknown,Hungary,HU
+47.2436698634,19.4757190868,Unknown,Nyaregyhaza,Pest,Unknown,Hungary,HU
+47.2436917143,19.4757190868,Unknown,Nyaregyhaza,Pest,Unknown,Hungary,HU
+47.4258333333,17.2041666667,Unknown,Kemenesszentpeter,Veszprem,Unknown,Hungary,HU
+47.5929444444,18.4949444444,Unknown,Tarjan,Komarom-Esztergom,Unknown,Hungary,HU
+46.5760805242,18.0602759281,Unknown,Torokkoppany,Somogy,Unknown,Hungary,HU
+47.5927952395,18.4948956676,Unknown,Tarjan,Komarom-Esztergom,Unknown,Hungary,HU
+47.4528055556,18.4418333333,Unknown,Gant,Fejer,Unknown,Hungary,HU
+47.4528055556,18.4341666667,Unknown,Gant,Fejer,Unknown,Hungary,HU
+47.2644822366,16.4938972509,Unknown,Bucsu,Vas,Unknown,Hungary,HU
+46.5495755,17.8289753,Unknown,Felsomocsolad,Somogy,Unknown,Hungary,HU
+12.9645407417,77.7414088632,Bengaluru,Unknown,Bangalore East,Karnataka,India,IN
+12.3861215184,75.5119508525,Unknown,Talakaveri,Madikeri Taluku,Karnataka,India,IN
+22.1588888889,80.5777777778,Unknown,Unknown,Baihar Tahsil,Madhya Pradesh,India,IN
+22.6665972222,80.15,Unknown,Andiya,Ghansaur Tahsil,Madhya Pradesh,India,IN
+18.52043,73.85674,Pune,Unknown,Unknown,Maharashtra,India,IN
+18.56392,73.81252,Pune,Unknown,Unknown,Maharashtra,India,IN
+18.6227215915,73.5107710834,Unknown,Jhavan,Mulshi,Maharashtra,India,IN
+18.62145,73.50695,Unknown,Tikona Peth,Mulshi,Maharashtra,India,IN
+19.27306,73.29202,Unknown,Unknown,Kalyan Taluka,Maharashtra,India,IN
+19.9424905072,75.2129339524,Unknown,Daulatabad,Chhatrapati Sambhajinagar,Maharashtra,India,IN
+18.36929,73.7613,Unknown,Atekar Vasti,Haveli,Maharashtra,India,IN
+18.63,73.78,Unknown,Unknown,Haveli,Maharashtra,India,IN
+18.6359298258,73.6168324198,Unknown,Pusane,Mawal,Maharashtra,India,IN
+18.31,73.77,Unknown,Unknown,Haveli,Maharashtra,India,IN
+18.622595,73.510941,Unknown,Jhavan,Mulshi,Maharashtra,India,IN
+9.9422293174,78.0857495035,Madurai,Virattippathu,Madurai South,Tamil Nadu,India,IN
+32.7715489451,78.9825946224,Unknown,Hanle,Unknown,Unknown,India,IN
+25.4355555556,81.8461111111,Prayagraj,Unknown,Prayagraj,Uttar Pradesh,India,IN
+29.1994444444,78.9430555556,Kashipur,Unknown,Kashipur,Uttarakhand,India,IN
+35.92111,51.1102,Adaran Rd,Chrn,Karaj County,Alborz Province,Iran,IR
+36.1656,50.83756,Dhstn Khnrrwd,Wshth,Taleghan County,Alborz Province,Iran,IR
+35.8827535041,50.9696214712,Karaj,Unknown,Karaj County,Alborz Province,Iran,IR
+32.4976049817,50.0718978233,Dhstn Shwrb Tngzy,Shykh `Lykhn,Kuhrang County,Chaharmahal And Bakhtiyari Province,Iran,IR
+32.4976988635,50.0719984062,Dhstn Shwrb Tngzy,Shykh `Lykhn,Kuhrang County,Chaharmahal And Bakhtiyari Province,Iran,IR
+36.6769444444,49.5708333333,Dhstn Jyrndh,Bywrzyn,Rudbar County,Gilan Province,Iran,IR
+32.0122211716,51.8736277447,Dasht Rd,Unknown,Shahreza County,Isfahan Province,Iran,IR
+33.130929,50.450107,Dhstn Chshmh Sr,Dwshkhrt,Khansar County,Isfahan Province,Iran,IR
+34.12572,54.77305,Jandaq,Farahzad,Khur And Biabanak County,Isfahan Province,Iran,IR
+33.8721,51.8412,Kavir Rd,Qsm Abd,Aran And Bidgol County,Isfahan Province,Iran,IR
+32.0983333333,52.7352777778,Unknown,Unknown,Unknown,Isfahan Province,Iran,IR
+30.128639,55.112264,Shahr-E Babak,Pyrjl,Shahr-E-Babak County,Kerman Province,Iran,IR
+30.551149,49.382497,Dhstn Jrhy,Unknown,Bandar-E-Mahshahr County,Khuzestan Province,Iran,IR
+35.9047188706,52.0065835568,Dhstn Bllryjn,Unknown,Amol County,Mazandaran Province,Iran,IR
+35.84024,49.009032,Dhstn Hsrwly`Sr,Hsr Wly `Sr,Avaj County,Qazvin Province,Iran,IR
+36.5169384632,49.4107235216,Dhstn Nyrkh,Niyarak,Qazvin County,Qazvin Province,Iran,IR
+36.33419,49.57253,Dhstn Ylt Qqzn Grby,Yalabad,Qazvin County,Qazvin Province,Iran,IR
+36.547843,58.696822,Dhstn Bynlwd,Bjnw `Ly,Neyshabur County,Razavi Khorasan,Iran,IR
+36.2306179412,58.9580675168,Fazl,Rwsty Bwjabd,Neyshabur County,Razavi Khorasan,Iran,IR
+36.2304172502,58.9565547509,Fazl,Buzhan,Neyshabur County,Razavi Khorasan,Iran,IR
+36.2299345224,58.9561117892,Fazl,Buzhan,Neyshabur County,Razavi Khorasan,Iran,IR
+36.2302888889,58.9569277778,Fazl,Buzhan,Neyshabur County,Razavi Khorasan,Iran,IR
+36.2850315588,58.8489065487,Mazool,Sheikh Abulhassan,Neyshabur County,Razavi Khorasan,Iran,IR
+36.2848775905,58.8497993954,Mazool,Sheikh Abulhassan,Neyshabur County,Razavi Khorasan,Iran,IR
+36.2848777778,58.8497777778,Mazool,Sheikh Abulhassan,Neyshabur County,Razavi Khorasan,Iran,IR
+35.25507,52.73131,Dhstn Frwn,Deh Namak,Aradan County,Semnan Province,Iran,IR
+35.1557,52.3496,Dhstn Hwmh,Snrd,Garmsar County,Semnan Province,Iran,IR
+34.7655,52.1773,Dhstn Ljrn,Unknown,Garmsar County,Semnan Province,Iran,IR
+35.205995,52.441684,Garmsar,Fnd,Garmsar County,Semnan Province,Iran,IR
+35.4958333333,52.33,Dhstn Brshywh,Moghanak,Damavand County,Tehran Province,Iran,IR
+55.2475,-7.7016666667,Letterkenny,Unknown,County Donegal,Unknown,Ireland,IE
+52.175,-6.8402777778,New Ross Municipal District,Unknown,County Wexford,Unknown,Ireland,IE
+52.1830555556,-6.3933333333,Unknown,Unknown,County Wexford,Unknown,Ireland,IE
+52.14,-7.0561111111,Unknown,Unknown,County Waterford,Unknown,Ireland,IE
+51.9755555556,-7.6916666667,Unknown,Unknown,County Waterford,Unknown,Ireland,IE
+51.9094444444,-7.8952777778,Unknown,Unknown,County Cork,Unknown,Ireland,IE
+51.9452777778,-10.1761111111,Unknown,Unknown,County Kerry,Unknown,Ireland,IE
+51.9816666667,-7.6330555556,Unknown,Unknown,County Waterford,Unknown,Ireland,IE
+53.8772222222,-9.9663888889,Unknown,Unknown,County Mayo,Unknown,Ireland,IE
+54.7033333333,-8.7219444444,Unknown,Unknown,County Donegal,Unknown,Ireland,IE
+54.8405555556,-8.4430555556,Unknown,Unknown,County Donegal,Unknown,Ireland,IE
+55.1586111111,-8.0833333333,Unknown,Unknown,County Donegal,Unknown,Ireland,IE
+55.1294444444,-7.9736111111,Unknown,Unknown,County Donegal,Unknown,Ireland,IE
+55.3697222222,-7.3811111111,Unknown,Unknown,County Donegal,Unknown,Ireland,IE
+54.4263888889,-8.185,Unknown,Unknown,County Leitrim,Unknown,Ireland,IE
+53.8280555556,-6.2608333333,Unknown,Unknown,County Louth,Unknown,Ireland,IE
+53.0908333333,-7.6263888889,Unknown,Unknown,County Offaly,Unknown,Ireland,IE
+53.1263888889,-9.0544444444,Unknown,Unknown,County Clare,Unknown,Ireland,IE
+53.4855555556,-9.4552777778,Unknown,Unknown,County Galway,Unknown,Ireland,IE
+53.5119444444,-10.1369444444,Unknown,Unknown,County Galway,Unknown,Ireland,IE
+54.2694444444,-10.0730555556,Unknown,Unknown,County Mayo,Unknown,Ireland,IE
+53.8986111111,-9.9969444444,Unknown,Unknown,County Mayo,Unknown,Ireland,IE
+30.30575,35.13343,Arava Tichona Regional Council,Beer Menuha,Unknown,South District,Israel,IL
+30.3076884664,35.1328115633,Arava Tichona Regional Council,Beer Menuha,Unknown,South District,Israel,IL
+30.3238888889,34.9833333333,Arava Tichona Regional Council,Unknown,Unknown,South District,Israel,IL
+30.3080555556,35.1330555556,Arava Tichona Regional Council,Beer Menuha,Unknown,South District,Israel,IL
+30.30102,35.13398,Arava Tichona Regional Council,Beer Menuha,Unknown,South District,Israel,IL
+30.3080555556,35.1247222222,Arava Tichona Regional Council,Beer Menuha,Unknown,South District,Israel,IL
+30.31,35.13,Arava Tichona Regional Council,Beer Menuha,Unknown,South District,Israel,IL
+30.3083333333,35.1352777778,Arava Tichona Regional Council,Beer Menuha,Unknown,South District,Israel,IL
+30.307713119,35.1327380741,Arava Tichona Regional Council,Beer Menuha,Unknown,South District,Israel,IL
+30.30575,35.1334277778,Arava Tichona Regional Council,Beer Menuha,Unknown,South District,Israel,IL
+30.82956,35.03882,Arava Tichona Regional Council,Unknown,Unknown,South District,Israel,IL
+30.3077202482,35.1326291731,Arava Tichona Regional Council,Beer Menuha,Unknown,South District,Israel,IL
+30.307721,35.133314,Arava Tichona Regional Council,Beer Menuha,Unknown,South District,Israel,IL
+30.3056784827,35.1334982088,Arava Tichona Regional Council,Beer Menuha,Unknown,South District,Israel,IL
+30.3077777778,35.1352777778,Arava Tichona Regional Council,Beer Menuha,Unknown,South District,Israel,IL
+30.30701228,35.1326613596,Arava Tichona Regional Council,Beer Menuha,Unknown,South District,Israel,IL
+30.0506159611,35.0319844742,Hevel Eilot Regional Council,Neot Smadar,Unknown,South District,Israel,IL
+30.0527777778,35.0425,Hevel Eilot Regional Council,Unknown,Unknown,South District,Israel,IL
+30.0526586126,35.0426623483,Hevel Eilot Regional Council,Unknown,Unknown,South District,Israel,IL
+30.0526819267,35.0426318632,Hevel Eilot Regional Council,Unknown,Unknown,South District,Israel,IL
+30.05271247,35.0426355262,Hevel Eilot Regional Council,Unknown,Unknown,South District,Israel,IL
+30.5974,34.7623,Mizpe Ramon,Unknown,Unknown,South District,Israel,IL
+30.5958333333,34.7633333333,Mizpe Ramon,Unknown,Unknown,South District,Israel,IL
+30.5972527778,34.7622333333,Mizpe Ramon,Unknown,Unknown,South District,Israel,IL
+30.5972222222,34.7622222222,Mizpe Ramon,Unknown,Unknown,South District,Israel,IL
+30.597322,34.762396,Mizpe Ramon,Unknown,Unknown,South District,Israel,IL
+30.59735,34.76235,Mizpe Ramon,Unknown,Unknown,South District,Israel,IL
+30.5652777778,34.8852777778,Ramat Negev Regional Council,Unknown,Unknown,South District,Israel,IL
+30.5277777778,34.6263888889,Ramat Negev Regional Council,Unknown,Unknown,South District,Israel,IL
+30.5280555556,34.6261111111,Ramat Negev Regional Council,Unknown,Unknown,South District,Israel,IL
+30.53,34.63,Ramat Negev Regional Council,Unknown,Unknown,South District,Israel,IL
+30.5269444444,34.6283333333,Ramat Negev Regional Council,Unknown,Unknown,South District,Israel,IL
+30.5089505452,34.9612566309,Ramat Negev Regional Council,Unknown,Unknown,South District,Israel,IL
+42.2363191536,14.4020474892,Lanciano,Unknown,Chieti,Abruzzo,Italy,IT
+42.4715482792,14.2079464426,Pescara,Unknown,Pescara,Abruzzo,Italy,IT
+42.4746422385,14.212263289,Pescara,Unknown,Pescara,Abruzzo,Italy,IT
+39.7281861111,16.50864616,Cassano All'Ionio,Laghi Di Sibari,Cosenza,Calabria,Italy,IT
+39.99049,16.49244,Unknown,Castroregio,Cosenza,Calabria,Italy,IT
+44.55,12.02,Alfonsine,Unknown,Ravenna,Emilia-Romagna,Italy,IT
+44.5628585526,11.9508286145,Alfonsine,Unknown,Ravenna,Emilia-Romagna,Italy,IT
+44.5644444444,11.9863888889,Alfonsine,Unknown,Ravenna,Emilia-Romagna,Italy,IT
+44.56,11.99,Alfonsine,Unknown,Ravenna,Emilia-Romagna,Italy,IT
+43.791,12.066,Unknown,Verghereto,Unknown,Emilia-Romagna,Italy,IT
+44.0391666667,11.8638888889,Unknown,Rocca San Casciano,Unknown,Emilia-Romagna,Italy,IT
+43.80955,12.042168,Unknown,Verghereto,Unknown,Emilia-Romagna,Italy,IT
+46.2019717128,13.5410291506,Savogna,Barza / Barca,Udine / Udin / Videm,Friuli - Venezia Giulia,Italy,IT
+41.80854,12.68317,Frascati,Unknown,Roma Capitale,Lazio,Italy,IT
+41.91257,12.45457,Rome,Unknown,Roma Capitale,Lazio,Italy,IT
+41.8791165297,12.4522556452,Rome,Unknown,Roma Capitale,Lazio,Italy,IT
+45.9577777778,9.1288888889,Unknown,Pigra,Como,Lombardy,Italy,IT
+45.9619444444,9.0830555556,Unknown,San Fedele Intelvi,Como,Lombardy,Italy,IT
+44.80021,8.54296,Unknown,Gamalero,Alessandria,Piedmont,Italy,IT
+45.7674842737,11.7268242221,Bassano Del Grappa,Unknown,Vicenza,Veneto,Italy,IT
+45.3302878155,11.7868331184,Montegrotto Terme,Unknown,Province Of Padua,Veneto,Italy,IT
+45.3302861736,11.7868319033,Montegrotto Terme,Unknown,Province Of Padua,Veneto,Italy,IT
+45.3302860859,11.7868317773,Montegrotto Terme,Unknown,Province Of Padua,Veneto,Italy,IT
+45.3302776005,11.7868304362,Montegrotto Terme,Unknown,Province Of Padua,Veneto,Italy,IT
+45.3834495145,11.8688886647,Padua,Unknown,Province Of Padua,Veneto,Italy,IT
+45.8454824929,11.8192217035,Unknown,Unknown,Province Of Treviso,Veneto,Italy,IT
+45.8270901604,11.8356526872,Unknown,Crespano Del Grappa,Province Of Treviso,Veneto,Italy,IT
+45.8663391399,11.5261823887,Unknown,Asiago,Vicenza,Veneto,Italy,IT
+45.8487742428,11.569046771,Unknown,Asiago,Vicenza,Veneto,Italy,IT
+45.8270882913,11.8356607338,Unknown,Crespano Del Grappa,Province Of Treviso,Veneto,Italy,IT
+45.8663649724,11.5262188147,Unknown,Asiago,Vicenza,Veneto,Italy,IT
+45.8663631047,11.5262268614,Unknown,Asiago,Vicenza,Veneto,Italy,IT
+45.8663649724,11.5262268614,Unknown,Asiago,Vicenza,Veneto,Italy,IT
+45.848770007,11.5690153363,Unknown,Asiago,Vicenza,Veneto,Italy,IT
+35.3361111111,140.3944444444,Ichinomiya,Unknown,Chosei,Unknown,Japan,JP
+35.9844444444,140.3625,Inashiki,Unknown,Unknown,Unknown,Japan,JP
+37.2025,139.7480555556,Minamiaizu,Unknown,Minamiaizu County,Unknown,Japan,JP
+36.2625,140.1016666667,Sakuragawa,Unknown,Unknown,Unknown,Japan,JP
+36.2622222222,140.1013888889,Sakuragawa,Unknown,Unknown,Unknown,Japan,JP
+36.2686111111,140.105,Sakuragawa,Unknown,Unknown,Unknown,Japan,JP
+35.5719444444,140.4905555556,Sammu,Unknown,Unknown,Unknown,Japan,JP
+35.6044444444,140.5236111111,Yokoshibahikari,Unknown,Sanmu,Unknown,Japan,JP
+30.5166666667,35.2166666667,Unknown,Unknown,Wadi Araba Sub-District,Aqaba,Jordan,JO
+47.1075,9.5769444444,Unknown,Steg,Oberland,Unknown,Liechtenstein,LI
+35.86273,14.38501,Unknown,Dingli,Unknown,Unknown,Malta,MT
+53.405092,5.386938,Unknown,Oosterend,Unknown,Frisia,Netherlands,NL
+53.405,5.3869444444,Unknown,Oosterend,Unknown,Frisia,Netherlands,NL
+52.2994228987,5.6064925557,Ermelo,Unknown,Unknown,Gelderland,Netherlands,NL
+52.2836969398,5.6114527984,Ermelo,Unknown,Unknown,Gelderland,Netherlands,NL
+52.28424,5.61101,Ermelo,Unknown,Unknown,Gelderland,Netherlands,NL
+52.2897578145,5.6123875482,Ermelo,Unknown,Unknown,Gelderland,Netherlands,NL
+52.2836427918,5.6117424769,Ermelo,Unknown,Unknown,Gelderland,Netherlands,NL
+52.2896940297,5.6123396456,Ermelo,Unknown,Unknown,Gelderland,Netherlands,NL
+52.2,6.12,Unknown,Bussloo,Unknown,Gelderland,Netherlands,NL
+52.1239429197,6.0632362979,Unknown,Hall,Unknown,Gelderland,Netherlands,NL
+50.7616298028,5.9424456925,Unknown,Vijlen,Unknown,Limburg,Netherlands,NL
+52.8552777778,4.7147222222,Unknown,Callantsoog,Unknown,North Holland,Netherlands,NL
+53.1299739564,4.8626134319,Unknown,De Cocksdorp,Unknown,North Holland,Netherlands,NL
+53.1487955263,4.8429152731,Unknown,De Cocksdorp,Unknown,North Holland,Netherlands,NL
+52.3013888889,6.6955555556,Ambt Delden,Unknown,Unknown,Overijssel,Netherlands,NL
+52.2955555556,6.7397222222,Borne,Unknown,Unknown,Overijssel,Netherlands,NL
+52.2956387838,6.7397850186,Borne,Unknown,Unknown,Overijssel,Netherlands,NL
+52.295616,6.739799,Borne,Unknown,Unknown,Overijssel,Netherlands,NL
+52.4,7.0,Denekamp,Unknown,Unknown,Overijssel,Netherlands,NL
+52.414983244,6.9661606127,Lattrop-Breklenkamp,Lattrop,Unknown,Overijssel,Netherlands,NL
+52.4363888889,6.9525,Lattrop-Breklenkamp,Lattrop,Unknown,Overijssel,Netherlands,NL
+52.415,6.9661111111,Lattrop-Breklenkamp,Lattrop,Unknown,Overijssel,Netherlands,NL
+52.415,6.9663888889,Lattrop-Breklenkamp,Lattrop,Unknown,Overijssel,Netherlands,NL
+52.4149002393,6.9663474034,Lattrop-Breklenkamp,Lattrop,Unknown,Overijssel,Netherlands,NL
+52.4148936953,6.9663152169,Lattrop-Breklenkamp,Lattrop,Unknown,Overijssel,Netherlands,NL
+52.4149010366,6.9663311679,Lattrop-Breklenkamp,Lattrop,Unknown,Overijssel,Netherlands,NL
+52.414909,6.966286,Lattrop-Breklenkamp,Lattrop,Unknown,Overijssel,Netherlands,NL
+52.414914,6.966454,Lattrop-Breklenkamp,Lattrop,Unknown,Overijssel,Netherlands,NL
+52.414921,6.966446,Lattrop-Breklenkamp,Lattrop,Unknown,Overijssel,Netherlands,NL
+52.4366666667,6.9516666667,Lattrop-Breklenkamp,Lattrop,Unknown,Overijssel,Netherlands,NL
+52.4155555556,6.9641666667,Unknown,Tilligte,Unknown,Overijssel,Netherlands,NL
+52.4438110288,6.8720060829,Unknown,Hezingen,Unknown,Overijssel,Netherlands,NL
+52.1943791883,4.4770338295,Oegstgeest,Unknown,Unknown,South Holland,Netherlands,NL
+52.0938138889,5.1252194444,Utrecht,Unknown,Unknown,Utrecht,Netherlands,NL
+-37.9904047423,177.3127561363,Opotiki,Unknown,Opotiki District,Bay Of Plenty,New Zealand,NZ
+-42.4117132084,173.6807590731,Unknown,Unknown,Kaikoura District,Canterbury,New Zealand,NZ
+-38.6299,177.8833111111,Unknown,Unknown,Gisborne District,Gisborne,New Zealand,NZ
+-38.6577284836,178.1109641565,Unknown,Makorori,Gisborne District,Gisborne,New Zealand,NZ
+-41.21683,173.59789,Unknown,Rai Valley,Marlborough District,Marlborough,New Zealand,NZ
+-40.5637339602,172.7045021235,Unknown,Unknown,Unknown,Tasman,New Zealand,NZ
+-42.5777,172.78658,Unknown,Unknown,Hurunui District,Unknown,New Zealand,NZ
+-40.90335,176.2266,Masterton,Castlepoint,Unknown,Wellington,New Zealand,NZ
+-43.4522222222,169.9141666667,Unknown,Unknown,Westland District,West Coast,New Zealand,NZ
+67.3219444444,14.4775,Bodo,Unknown,Nordland,Unknown,Norway,NO
+68.9597222222,16.6130555556,Harstad,Unknown,Troms,Unknown,Norway,NO
+60.3251677554,10.6486093726,Unknown,Roa,Innlandet,Unknown,Norway,NO
+60.3261610096,10.650218698,Unknown,Unknown,Akershus,Unknown,Norway,NO
+60.3564323719,10.7833946561,Unknown,Unknown,Innlandet,Unknown,Norway,NO
+60.3238100899,10.6433816206,Unknown,Roa,Innlandet,Unknown,Norway,NO
+60.3564858552,10.7834922995,Unknown,Unknown,Innlandet,Unknown,Norway,NO
+60.3238929463,10.6433629717,Unknown,Roa,Innlandet,Unknown,Norway,NO
+60.3239429899,10.6434894119,Unknown,Roa,Innlandet,Unknown,Norway,NO
+60.3251699926,10.6485975599,Unknown,Roa,Innlandet,Unknown,Norway,NO
+60.3238898718,10.6434852695,Unknown,Roa,Innlandet,Unknown,Norway,NO
+70.4761111111,24.8555555556,Unknown,Unknown,Finnmark,Unknown,Norway,NO
+71.1688888889,25.7791666667,Unknown,North Cape,Finnmark,Unknown,Norway,NO
+60.3463723244,10.7303056931,Unknown,Unknown,Innlandet,Unknown,Norway,NO
+60.3564615577,10.783341012,Unknown,Unknown,Innlandet,Unknown,Norway,NO
+68.6836111111,17.445,Unknown,Foldvika - Huvlaviika,Troms,Unknown,Norway,NO
+70.0227777778,19.5955555556,Unknown,Unknown,Troms,Unknown,Norway,NO
+19.0277777778,57.4194444444,Ad Duqm Province,Unknown,Unknown,Al Wusta Governorate,Oman,OM
+19.4266666667,57.2925,Ad Duqm Province,Unknown,Unknown,Al Wusta Governorate,Oman,OM
+22.2730555556,59.7541666667,Jaalan Bani Bu Ali Province,Wdy Lshrkh@,Unknown,Ash Sharqiyah South Governorate,Oman,OM
+50.0761,19.94099,Krakow,Unknown,Unknown,Lesser Poland Voivodeship,Poland,PL
+50.0567,19.8853,Krakow,Unknown,Unknown,Lesser Poland Voivodeship,Poland,PL
+50.02157358,19.9421327351,Krakow,Unknown,Unknown,Lesser Poland Voivodeship,Poland,PL
+49.7807722067,20.0215903253,Myslenice,Zablowka,Myslenice County,Lesser Poland Voivodeship,Poland,PL
+50.3102777778,19.82,Unknown,Glanow,Olkusz County,Lesser Poland Voivodeship,Poland,PL
+49.8096123118,20.192133939,Unknown,Krzeslawice,Myslenice County,Lesser Poland Voivodeship,Poland,PL
+49.7808333333,20.0180555556,Unknown,Pcim,Myslenice County,Lesser Poland Voivodeship,Poland,PL
+50.26732,19.73328,Unknown,Suloszowa,Krakow County,Lesser Poland Voivodeship,Poland,PL
+51.08604,18.68913,Unknown,Zalecze Wielkie,Wielun County,Lodz Voivodeship,Poland,PL
+51.0863888889,18.6858333333,Unknown,Piaski,Wielun County,Lodz Voivodeship,Poland,PL
+51.0786111111,15.8477777778,Unknown,Jastrzebnik,Zlotoryja County,Lower Silesian Voivodeship,Poland,PL
+51.07863,15.84793,Unknown,Jastrzebnik,Zlotoryja County,Lower Silesian Voivodeship,Poland,PL
+53.0325,20.7166666667,Unknown,Czernice Borowe,Przasnysz County,Masovian Voivodeship,Poland,PL
+53.0333333333,20.7166666667,Unknown,Czernice Borowe,Przasnysz County,Masovian Voivodeship,Poland,PL
+53.032766,20.719132,Unknown,Czernice Borowe,Przasnysz County,Masovian Voivodeship,Poland,PL
+53.03,20.72,Unknown,Czernice Borowe,Przasnysz County,Masovian Voivodeship,Poland,PL
+53.0325,20.7188888889,Unknown,Czernice Borowe,Przasnysz County,Masovian Voivodeship,Poland,PL
+53.0325,20.7169444444,Unknown,Czernice Borowe,Przasnysz County,Masovian Voivodeship,Poland,PL
+53.0333333333,23.7166666667,Unknown,Podozierany,Bialystok County,Podlaskie Voivodeship,Poland,PL
+37.3358739712,-8.5051929762,Monchique,Alferce,Faro,Unknown,Portugal,PT
+45.6135946281,25.6338439789,Brasov,Unknown,Brasov,Unknown,Romania,RO
+46.37148,24.47551,Unknown,Bernadea,Mures,Unknown,Romania,RO
+45.6896571884,23.5349124287,Unknown,Sugag,Alba,Unknown,Romania,RO
+46.70792,23.59312,Unknown,Casele Micesti,Cluj,Unknown,Romania,RO
+46.3,24.4,Unknown,Haranglab,Mures,Unknown,Romania,RO
+47.86,25.83,Unknown,Horodnic De Jos,Unknown,Unknown,Romania,RO
+47.8686,25.8647,Unknown,Horodnic De Jos,Unknown,Unknown,Romania,RO
+47.83895,25.82315,Unknown,Horodnic De Sus,Unknown,Unknown,Romania,RO
+47.5422222222,25.0152777778,Unknown,Sant,Bistrita-Nasaud,Unknown,Romania,RO
+46.7079185925,23.5931224902,Unknown,Casele Micesti,Cluj,Unknown,Romania,RO
+45.1588123,25.3743196,Unknown,Runcu,Dambovita,Unknown,Romania,RO
+45.16,25.37,Unknown,Runcu,Dambovita,Unknown,Romania,RO
+45.68897382,23.5337462,Unknown,Sugag,Alba,Unknown,Romania,RO
+45.1597604767,25.3739874948,Unknown,Runcu,Dambovita,Unknown,Romania,RO
+46.64,27.73,Vaslui,Unknown,Vaslui,Unknown,Romania,RO
+46.6383333333,27.7291666667,Vaslui,Unknown,Vaslui,Unknown,Romania,RO
+61.7687412614,34.2938408257,Petrozavodsk,Unknown,Petrozavodsk Urban Okrug,Karelia,Russia,RU
+61.910028,34.007969,Unknown,Unknown,Pryazhinsky District,Karelia,Russia,RU
+61.9209279454,33.6478502389,Unknown,Villagora,Pryazhinsky District,Karelia,Russia,RU
+58.92,51.179,Unknown,Unknown,Belokholunitsky District,Kirov Oblast,Russia,RU
+60.5675736801,30.2614585894,Sosnovo,Unknown,Kakisalmi District,Leningrad Oblast,Russia,RU
+60.5678817938,30.2619883346,Sosnovo,Unknown,Kakisalmi District,Leningrad Oblast,Russia,RU
+60.56772,30.26178,Sosnovo,Unknown,Kakisalmi District,Leningrad Oblast,Russia,RU
+60.4994196442,30.2951148397,Unknown,Unknown,Kakisalmi District,Leningrad Oblast,Russia,RU
+55.61506,37.47281,Kommunarka,Unknown,Unknown,Moscow,Russia,RU
+54.8381461166,38.792607926,Unknown,Unknown,Munitsipal'Nyi Okrug Zaraisk,Moscow Oblast,Russia,RU
+42.858379,132.688318,Unknown,Unknown,Nakhodkinskii Gorodskoi Okrug,Primorsky Krai,Russia,RU
+42.86021,132.68901,Unknown,Unknown,Nakhodkinskii Gorodskoi Okrug,Primorsky Krai,Russia,RU
+42.85538,132.68555,Unknown,Unknown,Nakhodkinskii Gorodskoi Okrug,Primorsky Krai,Russia,RU
+51.3559934388,46.8747714082,Stepnoye,Unknown,Sovetsky District,Saratov Oblast,Russia,RU
+48.2147222222,44.4825,Unknown,Lugovoy,Svetloyarsky District,Volgograd Oblast,Russia,RU
+48.2337897157,44.4591741832,Unknown,Unknown,Svetloyarsky District,Volgograd Oblast,Russia,RU
+48.4991666667,44.5827777778,Volgograd,Unknown,Volgograd,Volgograd Oblast,Russia,RU
+59.1913052378,39.8793086866,Vologda,Unknown,Vologda,Vologda Oblast,Russia,RU
+25.2666666667,41.9666666667,Unknown,Unknown,Unknown,Al-Qassim Province,Saudi Arabia,SA
+44.1519444444,19.6913888889,Bajina Basta Municipality,Zarozje,Zlatibor Administrative District,Unknown,Serbia,RS
+44.1536111111,19.6869444444,Bajina Basta Municipality,Zarozje,Zlatibor Administrative District,Unknown,Serbia,RS
+44.1508333333,19.6869444444,Bajina Basta Municipality,Zarozje,Zlatibor Administrative District,Unknown,Serbia,RS
+44.0947222222,19.6555555556,Bajina Basta Municipality,Ovcinja,Zlatibor Administrative District,Unknown,Serbia,RS
+44.0947222222,19.6552777778,Bajina Basta Municipality,Ovcinja,Zlatibor Administrative District,Unknown,Serbia,RS
+43.3744463346,22.6246340365,Knjazevac Municipality,Crni Vrh,Zajecar Administrative District,Unknown,Serbia,RS
+44.1313888889,19.8144444444,Kosjeric Municipality,Radanovci,Zlatibor Administrative District,Unknown,Serbia,RS
+44.1313888889,19.8141666667,Kosjeric Municipality,Radanovci,Zlatibor Administrative District,Unknown,Serbia,RS
+44.1313888889,19.8180555556,Kosjeric Municipality,Radanovci,Zlatibor Administrative District,Unknown,Serbia,RS
+43.2658333333,19.5527777778,Prijepolje Municipality,Kamena Gora,Zlatibor Administrative District,Unknown,Serbia,RS
+44.1583333333,19.6869444444,Unknown,Vujinovaca,Kolubara Administrative District,Unknown,Serbia,RS
+44.1591666667,19.6869444444,Unknown,Vujinovaca,Kolubara Administrative District,Unknown,Serbia,RS
+44.1583333333,19.6916666667,Unknown,Zarozje,Kolubara Administrative District,Unknown,Serbia,RS
+44.1536111111,19.6916666667,Unknown,Vujinovaca,Kolubara Administrative District,Unknown,Serbia,RS
+44.1583333333,19.6866666667,Unknown,Vujinovaca,Kolubara Administrative District,Unknown,Serbia,RS
+44.1994444444,19.825,Unknown,Donje Leskovice,Kolubara Administrative District,Unknown,Serbia,RS
+43.6236666667,20.7040277778,Unknown,Kamenica,Raska Administrative District,Unknown,Serbia,RS
+44.1630555556,19.8580555556,Unknown,Gornje Leskovice,Kolubara Administrative District,Unknown,Serbia,RS
+48.8545315681,20.2048653668,Unknown,Telgart,District Of Brezno,Region Of Banska Bystrica,Slovakia,SK
+48.1682019278,17.1065235508,Bratislava,Unknown,Unknown,Region Of Bratislava,Slovakia,SK
+48.7409394086,21.2991002772,Kosice,Unknown,Unknown,Region Of Kosice,Slovakia,SK
+48.6666666667,21.6666666667,Secovce,Unknown,District Of Trebisov,Region Of Kosice,Slovakia,SK
+48.6385063581,21.7581144197,Trebisov,Unknown,District Of Trebisov,Region Of Kosice,Slovakia,SK
+48.6385083333,21.7581083333,Trebisov,Unknown,District Of Trebisov,Region Of Kosice,Slovakia,SK
+48.6383333333,21.7580555556,Trebisov,Unknown,District Of Trebisov,Region Of Kosice,Slovakia,SK
+48.6666666667,21.75,Trebisov,Unknown,District Of Trebisov,Region Of Kosice,Slovakia,SK
+48.5688888889,21.7219444444,Unknown,Kozuchov,District Of Trebisov,Region Of Kosice,Slovakia,SK
+48.7228584812,21.3263820093,Unknown,Kosicke Olsany,District Of Kosice - Okolie,Region Of Kosice,Slovakia,SK
+48.6666666667,21.7652777778,Unknown,Vojcice,District Of Trebisov,Region Of Kosice,Slovakia,SK
+48.6385083333,21.6666666667,Unknown,Novy Ruskov,District Of Trebisov,Region Of Kosice,Slovakia,SK
+48.183577,18.207472,Unknown,Vinodol,District Of Nitra,Region Of Nitra,Slovakia,SK
+49.3997222222,21.4680555556,Unknown,Vysny Mirosov,District Of Svidnik,Region Of Presov,Slovakia,SK
+49.3996908769,21.4822221228,Unknown,Roztoky,District Of Svidnik,Region Of Presov,Slovakia,SK
+49.3996542209,21.4823937842,Unknown,Roztoky,District Of Svidnik,Region Of Presov,Slovakia,SK
+49.39968,21.48234,Unknown,Roztoky,District Of Svidnik,Region Of Presov,Slovakia,SK
+49.399661203,21.4824098774,Unknown,Roztoky,District Of Svidnik,Region Of Presov,Slovakia,SK
+49.399661203,21.4824125596,Unknown,Roztoky,District Of Svidnik,Region Of Presov,Slovakia,SK
+49.399657712,21.4824125596,Unknown,Roztoky,District Of Svidnik,Region Of Presov,Slovakia,SK
+49.3996623466,21.4824152419,Unknown,Roztoky,District Of Svidnik,Region Of Presov,Slovakia,SK
+49.399664694,21.4824191761,Unknown,Roztoky,District Of Svidnik,Region Of Presov,Slovakia,SK
+49.3996637416,21.4824161434,Unknown,Roztoky,District Of Svidnik,Region Of Presov,Slovakia,SK
+49.3997222222,21.4825,Unknown,Roztoky,District Of Svidnik,Region Of Presov,Slovakia,SK
+49.3325839891,21.5335179577,Unknown,Nizny Orlik,District Of Svidnik,Region Of Presov,Slovakia,SK
+49.343297496,21.5388582359,Unknown,Vysna Jedlova,District Of Svidnik,Region Of Presov,Slovakia,SK
+49.3996552329,21.4822596737,Unknown,Roztoky,District Of Svidnik,Region Of Presov,Slovakia,SK
+49.3996769127,21.4823186823,Unknown,Roztoky,District Of Svidnik,Region Of Presov,Slovakia,SK
+49.3996140738,21.48257081,Unknown,Roztoky,District Of Svidnik,Region Of Presov,Slovakia,SK
+49.3907,21.49317,Unknown,Roztoky,District Of Svidnik,Region Of Presov,Slovakia,SK
+49.399446503,21.4827424714,Unknown,Roztoky,District Of Svidnik,Region Of Presov,Slovakia,SK
+48.8146666667,21.5265555556,Unknown,Herlany,District Of Vranov Nad Toplou,Region Of Presov,Slovakia,SK
+49.3996769127,21.4823991486,Unknown,Roztoky,District Of Svidnik,Region Of Presov,Slovakia,SK
+49.3996224241,21.482391102,Unknown,Roztoky,District Of Svidnik,Region Of Presov,Slovakia,SK
+49.3996105828,21.4824179241,Unknown,Roztoky,District Of Svidnik,Region Of Presov,Slovakia,SK
+49.39964,21.48238,Unknown,Roztoky,District Of Svidnik,Region Of Presov,Slovakia,SK
+48.9349371474,22.2739452729,Unknown,Ladomirov,District Of Snina,Region Of Presov,Slovakia,SK
+48.9341666667,22.2754444444,Unknown,Ladomirov,District Of Snina,Region Of Presov,Slovakia,SK
+48.9341666667,22.2754722222,Unknown,Ladomirov,District Of Snina,Region Of Presov,Slovakia,SK
+49.1758333333,18.3413888889,Puchov,Unknown,District Of Puchov,Region Of Trencin,Slovakia,SK
+49.0919444444,18.2225,Unknown,Lednica,District Of Puchov,Region Of Trencin,Slovakia,SK
+48.0851385614,17.5468662378,Unknown,Blahova,District Of Dunajska Streda,Region Of Trnava,Slovakia,SK
+48.085,17.5466666667,Unknown,Blahova,District Of Dunajska Streda,Region Of Trnava,Slovakia,SK
+48.0880567037,17.5440633294,Unknown,Blahova,District Of Dunajska Streda,Region Of Trnava,Slovakia,SK
+46.4195277862,13.5826308423,Bovec,Unknown,Unknown,Unknown,Slovenia,SI
+45.9792057862,14.1112126531,Idrija,Dole,Unknown,Unknown,Slovenia,SI
+45.5840162846,14.4142661914,Ilirska Bistrica,Sviscaki,Unknown,Unknown,Slovenia,SI
+45.5389008502,14.3804810866,Ilirska Bistrica,Unknown,Unknown,Unknown,Slovenia,SI
+45.7,14.9333333333,Kocevje,Klec,Unknown,Unknown,Slovenia,SI
+45.5360801961,13.9449043396,Koper / Capodistria,Podgorje,Unknown,Unknown,Slovenia,SI
+45.8949256742,15.3717047823,Krsko,Mali Koren,Unknown,Unknown,Slovenia,SI
+45.97808,14.11652,Logatec,Medvedje Brdo,Unknown,Unknown,Slovenia,SI
+45.96979,14.13502,Logatec,Medvedje Brdo,Unknown,Unknown,Slovenia,SI
+45.9695888889,14.1353583333,Logatec,Medvedje Brdo,Unknown,Unknown,Slovenia,SI
+45.9697921949,14.1350226225,Logatec,Medvedje Brdo,Unknown,Unknown,Slovenia,SI
+46.6838093493,16.184064111,Murska Sobota,Nemcavci,Unknown,Unknown,Slovenia,SI
+45.9728756107,13.7402640052,Nova Gorica,Trnovo,Unknown,Unknown,Slovenia,SI
+45.9733118159,13.7402640052,Nova Gorica,Trnovo,Unknown,Unknown,Slovenia,SI
+45.81289,14.69565,Ribnica,Bukovec Pri Poljanah,Unknown,Unknown,Slovenia,SI
+45.8128860084,14.6956515513,Ribnica,Bukovec Pri Poljanah,Unknown,Unknown,Slovenia,SI
+46.3634827226,15.6051089097,Slovenska Bistrica,Cresnjevec,Unknown,Unknown,Slovenia,SI
+46.43472,15.48306,Slovenska Bistrica,Veliko Tinje,Unknown,Unknown,Slovenia,SI
+46.4461111111,15.5330555556,Slovenska Bistrica,Smartno Na Pohorju,Unknown,Unknown,Slovenia,SI
+46.4466433728,15.532525336,Slovenska Bistrica,Smartno Na Pohorju,Unknown,Unknown,Slovenia,SI
+46.3480555556,15.6127777778,Slovenska Bistrica,Laporje,Unknown,Unknown,Slovenia,SI
+46.2916104638,14.5329352723,Unknown,Ambroz Pod Krvavcem,Unknown,Unknown,Slovenia,SI
+46.8080555556,16.01,Unknown,Unknown,Unknown,Unknown,Slovenia,SI
+45.7265991152,14.0064922035,Unknown,Dolenja Vas,Unknown,Unknown,Slovenia,SI
+45.5667157161,13.8962776898,Unknown,Petrinje,Unknown,Unknown,Slovenia,SI
+45.6939166667,15.2202777778,Unknown,Brezova Reber,Unknown,Unknown,Slovenia,SI
+45.7254511518,14.0265227134,Unknown,Senozece,Unknown,Unknown,Slovenia,SI
+45.7263887083,14.0254715145,Unknown,Dolenja Vas,Unknown,Unknown,Slovenia,SI
+46.28495459,14.5324846612,Unknown,Ambroz Pod Krvavcem,Unknown,Unknown,Slovenia,SI
+46.7327777778,16.0013888889,Unknown,Korovci,Unknown,Unknown,Slovenia,SI
+46.7219881986,16.0166752106,Unknown,Gornji Crnci,Unknown,Unknown,Slovenia,SI
+45.6989722222,14.0264444444,Unknown,Senozece,Unknown,Unknown,Slovenia,SI
+46.28495,14.53248,Unknown,Ambroz Pod Krvavcem,Unknown,Unknown,Slovenia,SI
+46.7211111111,16.0152777778,Unknown,Gornji Crnci,Unknown,Unknown,Slovenia,SI
+45.7268722222,14.0066583333,Unknown,Dolenja Vas,Unknown,Unknown,Slovenia,SI
+45.72687,14.00666,Unknown,Dolenja Vas,Unknown,Unknown,Slovenia,SI
+46.73278,16.00139,Unknown,Korovci,Unknown,Unknown,Slovenia,SI
+46.2711222967,15.0275281417,Unknown,Kamence,Unknown,Unknown,Slovenia,SI
+45.72604,14.00616,Unknown,Dolenja Vas,Unknown,Unknown,Slovenia,SI
+46.28539,14.53321,Unknown,Ambroz Pod Krvavcem,Unknown,Unknown,Slovenia,SI
+45.5668375605,13.896409118,Unknown,Petrinje,Unknown,Unknown,Slovenia,SI
+46.2848672864,14.532555541,Unknown,Ambroz Pod Krvavcem,Unknown,Unknown,Slovenia,SI
+46.2852009339,14.5330544319,Unknown,Ambroz Pod Krvavcem,Unknown,Unknown,Slovenia,SI
+46.2852,14.53305,Unknown,Ambroz Pod Krvavcem,Unknown,Unknown,Slovenia,SI
+45.6753159664,14.0836000236,Unknown,Gornje Lezece,Unknown,Unknown,Slovenia,SI
+45.6752706124,14.0835951233,Unknown,Gornje Lezece,Unknown,Unknown,Slovenia,SI
+45.675293496,14.0835758838,Unknown,Gornje Lezece,Unknown,Unknown,Slovenia,SI
+45.6752803772,14.083578566,Unknown,Gornje Lezece,Unknown,Unknown,Slovenia,SI
+45.675233524,14.0835946592,Unknown,Gornje Lezece,Unknown,Unknown,Slovenia,SI
+46.2893928998,14.5370317087,Unknown,Ambroz Pod Krvavcem,Unknown,Unknown,Slovenia,SI
+46.7666666667,16.0030555556,Unknown,Gerlinci,Unknown,Unknown,Slovenia,SI
+45.7260435041,14.0061596095,Unknown,Dolenja Vas,Unknown,Unknown,Slovenia,SI
+45.6353061513,15.2233412501,Unknown,Moverna Vas,Unknown,Unknown,Slovenia,SI
+46.4203239792,15.3729065745,Zrece,Padeski Vrh,Unknown,Unknown,Slovenia,SI
+-26.0902777778,28.3161111111,Unknown,Unknown,City Of Ekurhuleni Metropolitan Municipality,Gauteng,South Africa,ZA
+-23.3087222222,28.4985,Unknown,Unknown,Capricorn District Municipality,Limpopo,South Africa,ZA
+37.35653,128.17853,Gangnim-Myeon,Wolhyeon-Ri,Hoengseong-Gun,Unknown,South Korea,KR
+37.1983952514,128.6881223245,Sindong-Eup,Jodong-Ri,Jeongseon-Gun,Unknown,South Korea,KR
+37.2021750308,128.6883541944,Sindong-Eup,Jodong-Ri,Jeongseon-Gun,Unknown,South Korea,KR
+37.2018978227,128.6877999744,Sindong-Eup,Jodong-Ri,Jeongseon-Gun,Unknown,South Korea,KR
+37.1919643952,128.6978346033,Sindong-Eup,Unknown,Jeongseon-Gun,Unknown,South Korea,KR
+37.2658840851,128.6580524906,Sindong-Eup,Gasa-Ri,Jeongseon-Gun,Unknown,South Korea,KR
+37.6552367012,-4.0149868206,Martos,Las Casillas,Unknown,Andalusia,Spain,ES
+37.3372320426,-2.20235214,Unknown,Cantoria,Valle Del Almanzora,Andalusia,Spain,ES
+37.5102777778,-2.32444444,Unknown,Oria,Valle Del Almanzora,Andalusia,Spain,ES
+37.5104289915,-2.3150552666,Unknown,Oria,Valle Del Almanzora,Andalusia,Spain,ES
+37.97,-2.4833333333,Unknown,Puebla De Don Fadrique,Comarca De Huescar,Andalusia,Spain,ES
+37.5104840229,-2.3150016224,Unknown,Oria,Valle Del Almanzora,Andalusia,Spain,ES
+42.5677777778,-2.5538888889,Unknown,Elvillar / Bilar,Arabako Errioxa / Rioja Alavesa,Autonomous Community Of The Basque Country,Spain,ES
+43.3555555556,-3.2802777778,Guriezo,El Puente,Unknown,Cantabria,Spain,ES
+43.5116666667,-3.5841666667,Unknown,Bareyo,Unknown,Cantabria,Spain,ES
+40.6567368873,-4.7071177542,Avila,Unknown,Unknown,Castile And Leon,Spain,ES
+40.6569240882,-4.7073709513,Avila,Unknown,Unknown,Castile And Leon,Spain,ES
+40.6567203198,-4.7071585431,Avila,Unknown,Unknown,Castile And Leon,Spain,ES
+40.6567323854,-4.707113757,Avila,Unknown,Unknown,Castile And Leon,Spain,ES
+40.6567460439,-4.7071194515,Avila,Unknown,Unknown,Castile And Leon,Spain,ES
+40.6567348525,-4.7071160569,Avila,Unknown,Unknown,Castile And Leon,Spain,ES
+40.6567297655,-4.7071136733,Avila,Unknown,Unknown,Castile And Leon,Spain,ES
+40.6567435004,-4.7071188632,Avila,Unknown,Unknown,Castile And Leon,Spain,ES
+40.6567419743,-4.7071147158,Avila,Unknown,Unknown,Castile And Leon,Spain,ES
+40.6567348525,-4.7071187391,Avila,Unknown,Unknown,Castile And Leon,Spain,ES
+40.6567384692,-4.7071100219,Avila,Unknown,Unknown,Castile And Leon,Spain,ES
+40.6567262046,-4.7071138085,Avila,Unknown,Unknown,Castile And Leon,Spain,ES
+40.6567265433,-4.7071033164,Avila,Unknown,Unknown,Castile And Leon,Spain,ES
+40.6567250769,-4.7071054881,Avila,Unknown,Unknown,Castile And Leon,Spain,ES
+40.8075076687,-5.8540341241,Unknown,Vecinos,Unknown,Castile And Leon,Spain,ES
+41.0296767,-6.0861587,Unknown,Encina De San Silvestre,Unknown,Castile And Leon,Spain,ES
+40.66,-4.805,Unknown,Casasola,Unknown,Castile And Leon,Spain,ES
+40.4777419174,-5.4845412077,Unknown,Navamorales,Unknown,Castile And Leon,Spain,ES
+40.6577409925,-4.7561875224,Unknown,Martiherrero,Unknown,Castile And Leon,Spain,ES
+40.6602618458,-4.8050147916,Unknown,Casasola,Unknown,Castile And Leon,Spain,ES
+42.2002777778,-4.0730555556,Unknown,Los Balbases,Unknown,Castile And Leon,Spain,ES
+40.0966666667,-2.8916666667,Unknown,Barajas De Melo,Unknown,Castile-La Mancha,Spain,ES
+41.1886066085,1.5685229442,Calafell,Unknown,Baix Penedes,Catalonia,Spain,ES
+42.37,1.2363888889,Montferrer I Castellbo,Biscarbo,Alt Urgell,Catalonia,Spain,ES
+42.3597222222,2.8272222222,Unknown,Darnius,Upper Emporda,Catalonia,Spain,ES
+41.390575731,1.876267782,Unknown,Cervello,Baix Llobregat,Catalonia,Spain,ES
+40.64401,-3.83147,Colmenar Viejo,Unknown,Unknown,Community Of Madrid,Spain,ES
+40.48982,-3.96153,Villanueva Del Pardillo,Unknown,Unknown,Community Of Madrid,Spain,ES
+38.2905555556,-6.1144444444,Unknown,Villagarcia De La Torre,Unknown,Extremadura,Spain,ES
+43.2994444444,-8.6644444444,Carballo,A Pedra Do Sal,Bergantinos,Galicia,Spain,ES
+42.4246666667,-8.85675,Sanxenxo,A Igrexa,O Salnes,Galicia,Spain,ES
+43.2288888889,-9.01,Unknown,Laxe,Bergantinos,Galicia,Spain,ES
+42.7822222222,-7.6222222222,Unknown,Paradela,Sarria,Galicia,Spain,ES
+42.6141666667,-7.0958333333,Unknown,Folgoso Do Courel,Quiroga,Galicia,Spain,ES
+43.7077777778,-7.5805555556,Viveiro,Faro,A Marina Occidental,Galicia,Spain,ES
+37.9755555556,-1.1563888889,Murcia,Unknown,Area Metropolitana De Murcia,Region Of Murcia,Spain,ES
+38.0,-1.34,Murcia,Unknown,Area Metropolitana De Murcia,Region Of Murcia,Spain,ES
+28.6483655155,-17.760751211,Brena Baja,San Antonio,Unknown,Unknown,Spain,ES
+28.64696,-17.75917,Brena Baja,San Antonio,Unknown,Unknown,Spain,ES
+28.4919444444,-17.8541666667,Fuencaliente De La Palma,Los Canarios,Unknown,Unknown,Spain,ES
+28.7659153222,-17.9001446669,Garafia,Unknown,Unknown,Unknown,Spain,ES
+28.7627,-17.8907,Garafia,Unknown,Unknown,Unknown,Spain,ES
+28.76,-17.89,Garafia,Unknown,Unknown,Unknown,Spain,ES
+28.76,-17.8802777778,Garafia,Unknown,Unknown,Unknown,Spain,ES
+28.2113888889,-16.8288888889,Guia De Isora,Unknown,Unknown,Unknown,Spain,ES
+28.2127777778,-16.6813888889,Guia De Isora,Unknown,Unknown,Unknown,Spain,ES
+28.3641666667,-16.6913888889,Icod De Los Vinos,Buen Paso,Unknown,Unknown,Spain,ES
+28.3019892015,-16.5097773066,La Orotava,Unknown,Unknown,Unknown,Spain,ES
+28.2247222222,-16.6275,La Orotava,Unknown,Unknown,Unknown,Spain,ES
+28.3019444444,-16.5097222222,La Orotava,Unknown,Unknown,Unknown,Spain,ES
+28.265756,-16.588378,La Orotava,Portillo Alto,Unknown,Unknown,Spain,ES
+28.7666666667,-17.9666666667,Puntagorda,Puntagorda,Unknown,Unknown,Spain,ES
+28.6857062118,-17.7671979004,Santa Cruz De La Palma,Unknown,Unknown,Unknown,Spain,ES
+28.68399,-17.76457,Santa Cruz De La Palma,Unknown,Unknown,Unknown,Spain,ES
+28.6786111111,-17.9391666667,Tijarafe,La Punta,Unknown,Unknown,Spain,ES
+28.8257058036,-17.8185475368,Unknown,Barlovento,Unknown,Unknown,Spain,ES
+27.9688888889,-15.5888888889,Unknown,Tejeda,Unknown,Unknown,Spain,ES
+27.9666666667,-15.9666666667,Unknown,Unknown,Unknown,Unknown,Spain,ES
+28.15853,-14.22942,Unknown,Pajara,Unknown,Unknown,Spain,ES
+27.9689346369,-15.5891320177,Unknown,Tejeda,Unknown,Unknown,Spain,ES
+27.9660989875,-15.5977231331,Unknown,Tejeda,Unknown,Unknown,Spain,ES
+27.9741253814,-15.5856867202,Unknown,Tejeda,Unknown,Unknown,Spain,ES
+42.6111111111,-2.2180555556,Unknown,Sorlada,Estellerria / Tierra Estella,Unknown,Spain,ES
+27.9630555556,-15.5463888889,Valsequillo De Gran Canaria,Unknown,Unknown,Unknown,Spain,ES
+27.9848433943,-15.5698957764,Vega De San Mateo,Cueva Grande,Unknown,Unknown,Spain,ES
 27.9983986828,-15.554898984,Vega De San Mateo,Lomo Aljorradero,Unknown,Unknown,Spain,ES
 27.9622661725,-15.5668361552,Vega De San Mateo,Unknown,Unknown,Unknown,Spain,ES
+27.9983287273,-15.5548604107,Vega De San Mateo,Lomo Aljorradero,Unknown,Unknown,Spain,ES
+40.4126666667,0.4243055556,Benicarlo,Unknown,Unknown,Valencian Community,Spain,ES
+39.6166666667,-0.7666666667,Unknown,Bugarra,La Serrania,Valencian Community,Spain,ES
+55.3994444444,12.9463888889,Hollviken,Unknown,Skane County,Unknown,Sweden,SE
+55.3997222222,12.9466666667,Hollviken,Unknown,Skane County,Unknown,Sweden,SE
+59.3755555556,13.3994444444,Karlstad,Unknown,Varmland County,Unknown,Sweden,SE
+67.5330555556,21.1875,Unknown,Piilijarvi,Norrbotten County,Unknown,Sweden,SE
+67.8802777778,20.3066666667,Unknown,Unknown,Norrbotten County,Unknown,Sweden,SE
+66.0888055556,20.7594166667,Unknown,Unknown,Norrbotten County,Unknown,Sweden,SE
+62.7402777778,12.7422222222,Unknown,Unknown,Jamtland County,Unknown,Sweden,SE
+65.5505555556,17.6786111111,Unknown,Unknown,Vasterbotten County,Unknown,Sweden,SE
+66.2388888889,17.9708333333,Unknown,Unknown,Norrbotten County,Unknown,Sweden,SE
+66.2208333333,19.9352777778,Unknown,Kittajaur,Norrbotten County,Unknown,Sweden,SE
+65.6797222222,21.8322222222,Unknown,Avan,Norrbotten County,Unknown,Sweden,SE
+65.2319444444,21.2938888889,Unknown,Hemmingsmark,Norrbotten County,Unknown,Sweden,SE
+65.7275658036,21.9828368637,Unknown,Unknown,Norrbotten County,Unknown,Sweden,SE
+56.4602777778,12.9127777778,Unknown,Skummeslovsstrand,Halland County,Unknown,Sweden,SE
+57.1833333333,12.2138888889,Unknown,Karradal,Halland County,Unknown,Sweden,SE
+58.0966666667,11.4897222222,Unknown,Mollosund,Vastra Gotaland County,Unknown,Sweden,SE
+58.5447222222,11.3366666667,Unknown,Unknown,Vastra Gotaland County,Unknown,Sweden,SE
+61.7625,12.9558333333,Unknown,Unknown,Dalarna County,Unknown,Sweden,SE
+66.9169444444,21.6486111111,Unknown,Hakkas,Norrbotten County,Unknown,Sweden,SE
+65.2322222222,21.2938888889,Unknown,Hemmingsmark,Norrbotten County,Unknown,Sweden,SE
+59.7749125977,14.3006397404,Unknown,Unknown,Varmland County,Unknown,Sweden,SE
+62.6769444444,12.8797222222,Unknown,Unknown,Jamtland County,Unknown,Sweden,SE
+67.8561111111,20.5247222222,Unknown,Laxforsen,Norrbotten County,Unknown,Sweden,SE
+67.8527777778,20.6577777778,Unknown,Jukkasjarvi,Norrbotten County,Unknown,Sweden,SE
+46.1538551828,8.7644168499,Unknown,Ascona,Distretto Di Locarno,Ticino,Switzerland,CH
+24.0766019769,121.1713137362,Renai Township,Bo Wang Xin Cun,Nantou County,Unknown,Taiwan,TW
+25.09583,121.51833,Taipei,Shezi,Unknown,Unknown,Taiwan,TW
+24.9611111111,121.1905555556,Taoyuan City,Shulinzi,Unknown,Unknown,Taiwan,TW
+24.9614659474,121.1908296411,Taoyuan City,Unknown,Unknown,Unknown,Taiwan,TW
+24.9716025476,121.1916905012,Taoyuan City,Ying Fang Qian,Unknown,Unknown,Taiwan,TW
+23.4686111111,120.8736111111,Xinyi Township,Unknown,Nantou County,Unknown,Taiwan,TW
+18.8280555556,100.7738888889,Unknown,Unknown,Mueang Nan,Unknown,Thailand,TH
+38.2877,26.3996,Cesme,Unknown,Unknown,Unknown,Turkey,TR
+38.2916,26.3748,Cesme,Unknown,Unknown,Unknown,Turkey,TR
+40.08,28.09,Susurluk,Muradiye,Unknown,Unknown,Turkey,TR
+44.412239,33.991304,Simeizskii Poselkovyi Sovet,Unknown,Ialtins'Kii Raion,Autonomous Republic Of Crimea,Ukraine,UA
+44.4122765781,33.9914250152,Simeizskii Poselkovyi Sovet,Unknown,Ialtins'Kii Raion,Autonomous Republic Of Crimea,Ukraine,UA
+51.7430555556,31.1827777778,Unknown,Holubychi,Unknown,Chernihiv Oblast,Ukraine,UA
+47.51321,37.5407,Donske,Unknown,Unknown,Donetsk Oblast,Ukraine,UA
+47.71704,37.55742,Novotroitske,Unknown,Unknown,Donetsk Oblast,Ukraine,UA
+48.9339056744,24.7224037355,Ivano-Frankivsk,Unknown,Unknown,Ivano-Frankivsk Oblast,Ukraine,UA
+48.1466354783,24.8162827301,Verkhovyna,Unknown,Unknown,Ivano-Frankivsk Oblast,Ukraine,UA
+48.233066986,31.4157460678,Pomichna,Unknown,Unknown,Kirovohrad Oblast,Ukraine,UA
+48.55,31.05,Unknown,Haivka,Unknown,Kirovohrad Oblast,Ukraine,UA
+47.868123756,31.5551301702,Bratske,Unknown,Unknown,Mykolaiv Oblast,Ukraine,UA
+48.0,31.0,Unknown,Kuripchyne,Unknown,Mykolaiv Oblast,Ukraine,UA
+46.12,30.36,Unknown,Pryberezhne,Unknown,Odesa Oblast,Ukraine,UA
+47.41,30.72,Unknown,Unknown,Unknown,Odesa Oblast,Ukraine,UA
+49.631,34.575,Poltava,Unknown,Unknown,Poltava Oblast,Ukraine,UA
+50.39181,30.5347,Kyiv,Unknown,Unknown,Unknown,Ukraine,UA
+50.3918419784,30.5346186064,Kyiv,Unknown,Unknown,Unknown,Ukraine,UA
+50.4501,30.5234,Kyiv,Unknown,Unknown,Unknown,Ukraine,UA
+50.3970982228,30.5492008391,Kyiv,Unknown,Unknown,Unknown,Ukraine,UA
+50.39569,30.54795,Kyiv,Unknown,Unknown,Unknown,Ukraine,UA
+50.395333667,30.5465635571,Kyiv,Unknown,Unknown,Unknown,Ukraine,UA
+50.3983155912,30.5340859207,Kyiv,Unknown,Unknown,Unknown,Ukraine,UA
+50.3927345893,30.539118549,Kyiv,Unknown,Unknown,Unknown,Ukraine,UA
+50.39832959,30.5341023011,Kyiv,Unknown,Unknown,Unknown,Ukraine,UA
+25.1116034336,55.8328031387,Milehah,Unknown,Unknown,Sharjah Emirate,United Arab Emirates,AE
+52.2099260734,0.1291056751,Cambridge,Unknown,Cambridgeshire,England,United Kingdom,GB
+51.892315199,0.9005008521,Colchester,Unknown,Essex,England,United Kingdom,GB
+55.16,-1.6966666667,Morpeth,Unknown,Northumberland,England,United Kingdom,GB
+54.4738888889,-1.1836111111,Stokesley,Unknown,North Yorkshire,England,United Kingdom,GB
+54.47389,-1.18361,Stokesley,Unknown,North Yorkshire,England,United Kingdom,GB
+54.4636111111,-1.2013888889,Stokesley,Unknown,North Yorkshire,England,United Kingdom,GB
+51.9990406924,-1.582029978,Stratford-On-Avon,Long Compton,Warwickshire,England,United Kingdom,GB
+54.4019444444,-0.9275,Unknown,Unknown,North Yorkshire,England,United Kingdom,GB
+54.4082554153,-0.9582648692,Unknown,Westerdale,North Yorkshire,England,United Kingdom,GB
+54.3491666667,-1.2347222222,Unknown,Hawnby,North Yorkshire,England,United Kingdom,GB
+50.185,-5.573,Unknown,Zennor,Cornwall,England,United Kingdom,GB
+55.16,-1.78,Unknown,Mitford,Northumberland,England,United Kingdom,GB
+54.94499,-1.922011,Unknown,Stocksfield,Northumberland,England,United Kingdom,GB
+54.4080555556,-0.9233333333,Unknown,Unknown,North Yorkshire,England,United Kingdom,GB
+54.8952777778,-5.9233333333,Unknown,Unknown,County Antrim,Northern Ireland,United Kingdom,GB
+54.7008333333,-6.9366666667,Unknown,Unknown,County Tyrone,Northern Ireland,United Kingdom,GB
+54.5075,-6.4488888889,Unknown,Derrymacash,County Armagh,Northern Ireland,United Kingdom,GB
+54.5466666667,-5.6977777778,Unknown,Unknown,County Down,Northern Ireland,United Kingdom,GB
+55.9554306766,-2.7837903916,Haddington,Unknown,East Lothian,Scotland,United Kingdom,GB
+55.9553946381,-2.7839028501,Haddington,Unknown,East Lothian,Scotland,United Kingdom,GB
+55.95867,-2.77486,Haddington,Unknown,East Lothian,Scotland,United Kingdom,GB
+57.5723639783,-3.8918210473,Nairn,Balblair,Highland,Scotland,United Kingdom,GB
+56.4012246057,-5.0433449646,Unknown,Lochawe,Argyll And Bute,Scotland,United Kingdom,GB
+55.9276,-2.65876,Unknown,Garvald,East Lothian,Scotland,United Kingdom,GB
+32.2819444444,-110.768333333,Unknown,Unknown,Pima County,Arizona,United States,US
+32.20181,-111.12567,Unknown,Unknown,Pima County,Arizona,United States,US
+33.24245,-114.17815,Unknown,Unknown,Yuma County,Arizona,United States,US
+34.0370277778,-111.3697277778,Unknown,Unknown,Gila County,Arizona,United States,US
+35.2758333333,-112.8691666667,Unknown,Unknown,Yavapai County,Arizona,United States,US
+32.2819444444,-110.768055556,Unknown,Unknown,Pima County,Arizona,United States,US
+32.3682810666,-110.7175723587,Unknown,Unknown,Pima County,Arizona,United States,US
+33.24246,-114.17815,Unknown,Unknown,Yuma County,Arizona,United States,US
+34.1458333333,-94.1033333333,Unknown,Unknown,Sevier County,Arkansas,United States,US
+33.6873,-94.3734,Unknown,Unknown,Little River County,Arkansas,United States,US
+32.83505,-116.76641,Alpine,Unknown,San Diego County,California,United States,US
+32.8383333333,-116.626111111,Alpine,Los Terrenitos,San Diego County,California,United States,US
+33.9876050368,-117.8381375018,Diamond Bar,Unknown,Los Angeles County,California,United States,US
+32.862445,-116.860013,El Cajon,Blossom Valley,San Diego County,California,United States,US
+32.86245,-116.86001,El Cajon,Blossom Valley,San Diego County,California,United States,US
+32.8620923577,-116.8601432938,El Cajon,Blossom Valley,San Diego County,California,United States,US
+32.7475,-116.6677777778,Unknown,Unknown,San Diego County,California,United States,US
+36.2818675648,-118.0064718,Unknown,Olancha,Inyo County,California,United States,US
+41.9956944444,-121.7118055556,Unknown,Unknown,Siskiyou County,California,United States,US
+32.9900451259,-116.5768468137,Unknown,Harrison Park,San Diego County,California,United States,US
+32.8368786937,-116.6612905694,Unknown,Unknown,San Diego County,California,United States,US
+33.02902,-116.38914,Unknown,Unknown,San Diego County,California,United States,US
+32.8622222222,-116.8622222222,Unknown,Blossom Valley,San Diego County,California,United States,US
+32.836835,-116.661184,Unknown,Unknown,San Diego County,California,United States,US
+32.8273,-116.496307,Unknown,Laguna Junction,San Diego County,California,United States,US
+33.4083333333,-116.5933333333,Unknown,Unknown,San Diego County,California,United States,US
+32.8411111111,-116.6313888889,Unknown,Los Terrenitos,San Diego County,California,United States,US
+33.4902777778,-115.9025,Unknown,Unknown,Riverside County,California,United States,US
+35.13558,-119.845884,Unknown,Unknown,San Luis Obispo County,California,United States,US
+41.5019767861,-120.9776528601,Unknown,Ambrose,Modoc County,California,United States,US
+41.6139490651,-73.3824752284,New Milford,Unknown,Western Connecticut Planning Region,Connecticut,United States,US
+19.4166666667,-155.2,Volcano,Unknown,Hawai`I County,Hawaii,United States,US
+43.5191949,-113.565323,Unknown,Unknown,Butte County,Idaho,United States,US
+39.65973,-86.05006,Indianapolis,Unknown,Marion County,Indiana,United States,US
+39.6597222222,-86.0500555556,Indianapolis,Unknown,Marion County,Indiana,United States,US
+42.0108166667,-91.6531833333,Cedar Rapids,Unknown,Linn County,Iowa,United States,US
+43.0833333333,-93.5666666667,Unknown,Unknown,Hancock County,Iowa,United States,US
+37.6567,-98.3221,Unknown,Penalosa,Kingman County,Kansas,United States,US
+38.8191666667,-95.0925,Unknown,Clearfield,Douglas County,Kansas,United States,US
+38.0319444444,-96.4205555556,Unknown,Teterville,Greenwood County,Kansas,United States,US
+38.8,-76.9,Camp Springs,Unknown,Prince George'S County,Maryland,United States,US
+39.09,-76.68,Odenton,Wethersfield,Anne Arundel County,Maryland,United States,US
+39.3198,-76.9127,Unknown,Alpha,Howard County,Maryland,United States,US
+38.429,-76.879,Unknown,Unknown,Charles County,Maryland,United States,US
+38.3561096288,-90.8735505555,Unknown,Unknown,Franklin County,Missouri,United States,US
+39.1743333333,-91.0125277778,Unknown,Whiteside,Lincoln County,Missouri,United States,US
+39.1740730969,-91.0131402143,Unknown,Unknown,Lincoln County,Missouri,United States,US
+39.174196326,-91.0122715668,Unknown,Unknown,Lincoln County,Missouri,United States,US
+38.356277893,-90.8736041997,Unknown,Unknown,Franklin County,Missouri,United States,US
+38.8744444444,-91.515,Unknown,Unknown,Montgomery County,Missouri,United States,US
+36.6664444444,-114.5198333333,Moapa Valley,Unknown,Clark County,Nevada,United States,US
+44.0235140536,-71.4919939333,Lincoln,Unknown,Grafton County,New Hampshire,United States,US
+36.01403,-80.024378,High Point,Unknown,Guilford County,North Carolina,United States,US
+35.8988517998,-75.5910828185,Nags Head,Unknown,Dare County,North Carolina,United States,US
+38.88,-83.46,Unknown,Dunkinsville,Adams County,Ohio,United States,US
+35.9450187764,-95.7123090061,Unknown,Unknown,Wagoner County,Oklahoma,United States,US
+34.1844444444,-96.14,Unknown,Unknown,Atoka County,Oklahoma,United States,US
+36.8985312348,-102.9516364456,Unknown,Unknown,Cimarron County,Oklahoma,United States,US
+42.1494044228,-122.6349798354,Ashland,Unknown,Jackson County,Oregon,United States,US
+42.1495411292,-122.6360431816,Ashland,Unknown,Jackson County,Oregon,United States,US
+42.0043391008,-121.8891105104,Unknown,Worden,Klamath County,Oregon,United States,US
+42.3868929823,-121.8115421618,Unknown,Unknown,Klamath County,Oregon,United States,US
+43.11,-123.8563888889,Unknown,Unknown,Coos County,Oregon,United States,US
+42.3964479767,-122.1963444061,Unknown,Unknown,Klamath County,Oregon,United States,US
+42.3980210631,-121.815176555,Unknown,Unknown,Klamath County,Oregon,United States,US
+42.6920046664,-121.9736617026,Unknown,Fort Klamath,Klamath County,Oregon,United States,US
+42.00906,-121.11618,Unknown,Unknown,Klamath County,Oregon,United States,US
+42.38689,-121.81154,Unknown,Unknown,Klamath County,Oregon,United States,US
+42.3933896068,-122.1986604935,Unknown,Unknown,Klamath County,Oregon,United States,US
+42.3931501999,-121.8152301992,Unknown,Unknown,Klamath County,Oregon,United States,US
+42.6916556785,-121.9737851842,Unknown,Fort Klamath,Klamath County,Oregon,United States,US
+43.0304747,-118.2317897,Unknown,Unknown,Harney County,Oregon,United States,US
+42.0090625966,-121.1161752366,Unknown,Unknown,Klamath County,Oregon,United States,US
+44.0368953742,-120.8358330921,Unknown,Unknown,Crook County,Oregon,United States,US
+33.6414805556,-79.2669444444,Unknown,Cribb Crossroads,Georgetown County,South Carolina,United States,US
+33.8194444444,-80.7877777778,Unknown,Unknown,Richland County,South Carolina,United States,US
+30.6091666667,-103.9594444444,Fort Davis,Unknown,Jeff Davis County,Texas,United States,US
+30.6104444444,-103.9521111111,Fort Davis,Unknown,Jeff Davis County,Texas,United States,US
+30.2766,-103.569,Unknown,Unknown,Brewster County,Texas,United States,US
+30.8231417933,-101.1957519433,Unknown,Unknown,Crockett County,Texas,United States,US
+30.2767,-103.595963,Unknown,Unknown,Brewster County,Texas,United States,US
+30.27228,-103.59571,Unknown,Unknown,Brewster County,Texas,United States,US
+30.27666,-103.596,Unknown,Unknown,Brewster County,Texas,United States,US
+30.2766,-103.596,Unknown,Unknown,Brewster County,Texas,United States,US
+30.6081554679,-98.6978742276,Unknown,Oxford,Llano County,Texas,United States,US
+30.738,-100.821,Unknown,Unknown,Schleicher County,Texas,United States,US
+38.10025,-78.61604,Unknown,Waverly,Albemarle County,Virginia,United States,US
+37.8780555556,-78.6922222222,Unknown,Unknown,Albemarle County,Virginia,United States,US
+46.233121511,-119.1479496804,Pasco,Unknown,Franklin County,Washington,United States,US
+42.9689444444,-88.3930833333,Town Of Genesee,Unknown,Waukesha County,Wisconsin,United States,US
+42.7287813763,-88.0281568164,Union Grove,Unknown,Racine County,Wisconsin,United States,US
+41.76,28.93,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+43.22,29.47,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+44.6,29.92,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+-29.1344444444,-48.6172222222,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+10.0777939723,-69.3237759152,Barquisimeto,Unknown,Municipio Iribarren,Lara State,Venezuela,VE
+10.0778594698,-69.3238748656,Barquisimeto,Unknown,Municipio Iribarren,Lara State,Venezuela,VE

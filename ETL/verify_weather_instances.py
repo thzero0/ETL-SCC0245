@@ -10,7 +10,7 @@ import pandas
 # --- 2. Iniciar a Sessão Spark ---
 spark = SparkSession.builder.appName("GroupAndCountObservations").getOrCreate()
 
-file_path = "../data/Session-IMO-VMDB-Year-2022.csv"
+file_path = "../data/Sessions/"
 
 # --- 3. Ler o DataFrame ---
 # É crucial configurar as opções corretas para o seu formato

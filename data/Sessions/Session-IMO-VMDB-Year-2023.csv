@@ -1,0 +1,1290 @@
+﻿"Session ID";"Start Date";"Observer ID";"Submitter ID";"Actual Observer Name";"Submitted by";City;Country;Latitude;Longitude;Elevation
+84986;"2023-01-03 00:05:00";7131;7131;"Steve Brown";"Steve Brown";Stokesley;"United Kingdom";54.4738888889;-1.1836111111;70
+84987;"2023-01-04 06:35:00";7131;7131;"Steve Brown";"Steve Brown";Stokesley;"United Kingdom";54.4738888889;-1.1836111111;70
+84988;"2023-01-04 04:45:00";112;112;"Felix Bettonvil";"Felix Bettonvil";"Roque de los Muchachos Observatory, La Palma";Spain;28.7600000000;-17.8802777778;2356
+84989;"2023-01-04 04:52:00";131;131;"Javor Kac";"Javor Kac";"Strmec na Predelu";Slovenia;46.4195277862;13.5826308423;1135
+84990;"2023-01-04 01:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+84991;"2023-01-04 04:27:00";352;352;"Francisco Ocaña González";"Francisco Ocaña González";"Huelves-Barajas de Melo";Spain;40.0966666667;-2.8916666667;860
+84992;"2023-01-04 04:25:00";13396;13396;"Pedro Pérez";"Pedro Pérez";Canarias;Spain;27.9689346369;-15.5891320177;1670
+84993;"2023-01-04 04:25:00";13396;13396;"Pedro Pérez";"Pedro Pérez";Canarias;Spain;27.9689346369;-15.5891320177;1670
+84994;"2023-01-04 01:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Nowy Kościół";Poland;51.0786111111;15.8477777778;254
+84995;"2023-01-04 01:30:00";36;36;"Sirko Molau";"Sirko Molau";"Nowy Kościół";Poland;51.0786300000;15.8479300000;259
+84998;"2023-01-04 03:23:00";135;135;"Orlando Benítez Sánchez";"Orlando Benítez Sánchez";"Llanos del Garañón, Gran Canaria";Spain;27.9688888889;-15.5888888889;1700
+84999;"2023-01-04 01:57:00";14393;14393;"Miloslav Macháček";"Miloslav Macháček";Býšť;Czechia;50.1535600000;15.9525100000;268
+85006;"2023-01-04 03:54:00";58;58;"Alberto Latini";"Alberto Latini";"Castigilone Intelvi";Italy;45.9619444444;9.0830555556;650
+85026;"2023-01-17 18:15:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+85027;"2023-01-17 17:28:00";11836;11836;"Matthias Growe";"Matthias Growe";Schwarzenbek;Germany;53.5000000000;10.4833333333;50
+85028;"2023-01-19 03:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85029;"2023-01-18 19:50:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+85030;"2023-01-18 18:05:00";11836;11836;"Matthias Growe";"Matthias Growe";Schwarzenbek;Germany;53.5000000000;10.4833333333;50
+85031;"2023-01-19 00:05:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+85033;"2023-01-21 11:47:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+85034;"2023-01-22 02:15:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2897578145;5.6123875482;16
+85035;"2023-01-22 11:24:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+85036;"2023-01-20 16:15:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Cobbanah;Australia;-37.6945472222;147.3003083333;322
+85037;"2023-01-24 16:30:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Wandin North";Australia;-37.7784020495;145.4232563895;162
+85038;"2023-01-24 11:37:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+85039;"2023-01-25 11:20:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+85040;"2023-01-26 16:30:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Wandin North";Australia;-37.7784020495;145.4232563895;162
+85041;"2023-01-27 15:40:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Glenroy;Australia;-36.0437329075;146.9107678978;196
+85042;"2023-01-31 03:20:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+85043;"2023-02-08 18:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Marquardt Schlänitzsee";Germany;52.4527500000;12.9577777778;30
+85044;"2023-02-08 17:50:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+85045;"2023-02-10 16:55:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+85046;"2023-02-14 17:58:00";11836;11836;"Matthias Growe";"Matthias Growe";Schwarzenbek;Germany;53.5000000000;10.4833333333;50
+85047;"2023-02-14 17:31:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+85048;"2023-02-15 16:25:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Chakola;Australia;-36.0774611269;149.1589413780;718
+85049;"2023-02-14 22:05:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+85050;"2023-02-14 19:20:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+85051;"2023-02-18 02:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85052;"2023-02-16 16:40:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Island Bend Airstrip";Australia;-36.3244444444;148.4744444444;1278
+85053;"2023-02-17 16:50:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Island Bend Airstrip";Australia;-36.3244444444;148.4744444444;1278
+85055;"2023-02-19 16:30:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Towrang;Australia;-34.7227363892;149.8308034303;624
+85056;"2023-02-19 17:46:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+85057;"2023-02-17 23:40:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+85058;"2023-02-13 23:15:00";7131;7131;"Steve Brown";"Steve Brown";Stokesley;"United Kingdom";54.4738888889;-1.1836111111;70
+85059;"2023-02-22 18:06:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+85060;"2023-02-26 02:02:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2836427918;5.6117424769;11
+85061;"2023-02-27 02:10:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85062;"2023-02-27 02:45:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2836427918;5.6117424769;11
+85063;"2023-02-27 01:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+85064;"2023-02-28 02:55:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+85065;"2023-03-02 02:12:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+85066;"2023-03-11 19:40:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+85067;"2023-03-12 18:38:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+85068;"2023-03-14 21:10:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85069;"2023-03-14 21:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+85070;"2023-03-11 10:30:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Sunny Corner";Australia;-33.3879713619;149.8929001252;1185
+85071;"2023-03-15 09:05:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Marrangaroo;Australia;-33.4234603773;150.2010377144;1178
+85072;"2023-03-15 23:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85073;"2023-03-16 19:08:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+85074;"2023-03-16 19:08:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+85075;"2023-03-15 21:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+85076;"2023-03-17 18:22:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+85077;"2023-03-18 18:09:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+85079;"2023-03-15 21:10:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+85080;"2023-03-20 19:35:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+85082;"2023-04-09 19:45:00";11836;11836;"Matthias Growe";"Matthias Growe";Schwarzenbek;Germany;53.5000000000;10.4833333333;50
+85083;"2023-04-11 22:33:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85084;"2023-04-08 20:05:00";210;210;"Ina Rendtel";"Ina Rendtel";"Montbard, Dept. Côte-dOr";France;47.6386111111;4.3866666667;225
+85085;"2023-04-13 20:04:00";11836;11836;"Matthias Growe";"Matthias Growe";Schwarzenbek;Germany;53.5000000000;10.4833333333;50
+85086;"2023-04-16 08:14:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85087;"2023-04-18 20:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Nerren Nerren Rest Area";Australia;-27.2117200000;114.6123800000;175
+85088;"2023-04-09 18:35:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+85089;"2023-04-17 20:34:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;228
+85090;"2023-04-19 02:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85091;"2023-04-19 22:30:00";7131;7131;"Steve Brown";"Steve Brown";Stokesley;"United Kingdom";54.4738888889;-1.1836111111;70
+85092;"2023-04-19 12:45:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Exmouth Gulf Station";Australia;-22.3798200000;114.1046100000;12
+85093;"2023-04-20 23:35:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85094;"2023-04-22 01:20:00";112;112;"Felix Bettonvil";"Felix Bettonvil";Utrecht;Netherlands;52.0938138889;5.1252194444;5
+85095;"2023-04-21 20:12:00";11836;11836;"Matthias Growe";"Matthias Growe";Schwarzenbek;Germany;53.5000000000;10.4833333333;50
+85096;"2023-04-22 03:43:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85097;"2023-04-21 23:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+85098;"2023-04-22 10:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+85099;"2023-04-22 20:45:00";11586;11586;"Patrick Wullaert";"Patrick Wullaert";Cernoy-en-Berry;France;47.5422530000;2.6746780000;240
+85100;"2023-04-20 19:24:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;228
+85101;"2023-04-22 12:40:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Wooramel Lookout";Australia;-25.9839500000;114.2995500000;21
+85102;"2023-04-22 20:15:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Wooramel Lookout";Australia;-25.9839500000;114.2995500000;21
+85103;"2023-04-23 12:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Kalbarri;Australia;-27.7371870032;114.1822041191;99
+85104;"2023-04-12 23:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Saint-Gėnes-Champanelle, Dept. Puy de Dôme";France;45.7325000000;2.9727777778;982
+85105;"2023-04-18 23:10:00";210;210;"Ina Rendtel";"Ina Rendtel";"Alleyras, Dept.  Haute-Loire";France;44.9008333333;3.6844444444;813
+85106;"2023-04-19 22:15:00";210;210;"Ina Rendtel";"Ina Rendtel";"Hures-la -Parade, Dept. Lozėre";France;44.2219444444;3.3558333333;970
+85107;"2023-04-20 21:50:00";210;210;"Ina Rendtel";"Ina Rendtel";"Le Pompidou, Dept.  Lozėre";France;44.1825000000;3.6852777778;850
+85108;"2023-04-23 04:03:00";399;399;"Howard Edin";"Howard Edin";Cassoday;"United States";38.0319444444;-96.4205555556;487
+85109;"2023-04-21 06:00:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+85110;"2023-04-23 07:19:00";7168;7168;"Alexandre Amorim";"Alexandre Amorim";Florianopolis;Brazil;-27.6575000000;-48.5436111111;2
+85111;"2023-04-23 08:47:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+85112;"2023-04-21 22:55:00";7205;7205;"Pierre Bader";"Pierre Bader";Untermaßfeld;Germany;50.5246013326;10.4137914702;325
+85113;"2023-04-22 09:15:00";8035;8035;"Wesley Stone";"Wesley Stone";Oregon;"United States";42.3931501999;-121.8152301992;1482
+85114;"2023-04-23 20:15:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Kalbarri;Australia;-27.7371870032;114.1822041191;99
+85115;"2023-04-21 20:55:00";7178;7178;"Václav Kalaš";"Václav Kalaš";Rokycany;Czechia;49.7516800000;13.6027300000;398
+85116;"2023-04-21 20:55:00";7047;7178;"Dita Větrovcová";"Václav Kalaš";Rokycany;Czechia;49.7516800000;13.6027300000;398
+85117;"2023-04-24 00:00:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85118;"2023-04-21 21:00:00";2293;7178;"Lumír Honzík";"Václav Kalaš";Rokycany;Czechia;49.7516800000;13.6027300000;398
+85119;"2023-04-21 20:55:00";;7178;"Vojtěch Janda";"Václav Kalaš";Rokycany;Czechia;49.7516800000;13.6027300000;398
+85120;"2023-04-21 20:55:00";;7178;"Josef Doležal";"Václav Kalaš";Rokycany;Czechia;49.7516800000;13.6027300000;398
+85121;"2023-04-21 20:55:00";;7178;"Lukáš Křížek";"Václav Kalaš";Rokycany;Czechia;49.7516800000;13.6027300000;398
+85122;"2023-04-19 08:30:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+85123;"2023-04-21 08:35:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+85124;"2023-04-23 05:00:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+85125;"2023-04-22 20:15:00";14393;14393;"Miloslav Macháček";"Miloslav Macháček";"Horní Bukovina";Czechia;50.5447100489;14.9359926971;236
+85126;"2023-04-23 01:00:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ronse;Belgium;50.7291356749;3.6146822924;34
+85127;"2023-04-20 22:05:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+85128;"2023-04-21 21:45:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+85132;"2023-04-25 06:49:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+85133;"2023-04-22 22:25:00";15418;15418;"Daniel Alcázar ";"Daniel Alcázar ";Andalucía;Spain;37.5104289915;-2.3150552666;1253
+85134;"2023-04-25 23:05:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85135;"2023-04-20 21:00:00";7332;7332;"Jiri Konecny";"Jiri Konecny";"Hranicne Petrovice";Czechia;49.7408333333;17.4047222222;592
+85136;"2023-04-23 20:43:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+85137;"2023-04-23 17:18:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+85138;"2023-04-21 21:00:00";7332;7332;"Jiri Konecny";"Jiri Konecny";"Hranicne Petrovice";Czechia;49.7408333333;17.4047222222;592
+85139;"2023-04-22 21:00:00";7332;7332;"Jiri Konecny";"Jiri Konecny";"Hranicne Petrovice";Czechia;49.7408333333;17.4047222222;592
+85140;"2023-04-21 21:00:00";11448;11448;"Štěpán Ptáčník";"Štěpán Ptáčník";"Hranicne Petrovice";Czechia;49.7422222222;17.4038888889;593
+85141;"2023-04-22 21:00:00";11448;11448;"Štěpán Ptáčník";"Štěpán Ptáčník";"Hranicne Petrovice";Czechia;49.7422222222;17.4038888889;593
+85142;"2023-04-22 21:00:00";8337;8337;"Lukas Krejzlik";"Lukas Krejzlik";"Hranicne Petrovice";Czechia;49.7422222222;17.4038888889;593
+85143;"2023-04-20 21:00:00";13917;13917;"Klára Horáková";"Klára Horáková";"Hraničné Petrovice";Czechia;49.7420542081;17.4038230777;594
+85144;"2023-04-21 21:00:00";11441;11441;"Denis Reichel";"Denis Reichel";"Hranicne Petrovice";Czechia;49.7419444444;17.4036111111;593
+85145;"2023-04-22 21:00:00";8338;8338;"Anna Wrnatova";"Anna Wrnatova";"Hranicne Petrovice";Czechia;49.7419444444;17.4036111111;593
+85146;"2023-04-22 21:00:00";8343;8343;"František Šesták";"František Šesták";"Hraničné Petrovice";Czechia;49.7419120754;17.4033724666;594
+85147;"2023-04-22 18:25:00";7229;7229;"Filipp Romanov";"Filipp Romanov";Nakhodka;Russia;42.8583790000;132.6883180000;30
+85148;"2023-04-20 21:00:00";15757;15757;"Jitka Mikulkova";"Jitka Mikulkova";"Hraničné Petrovice";Czechia;49.7419103421;17.4033684433;594
+85149;"2023-04-21 21:00:00";15757;15757;"Jitka Mikulkova";"Jitka Mikulkova";"Hraničné Petrovice";Czechia;49.7419103421;17.4033684433;594
+85150;"2023-04-20 21:00:00";7609;7609;"Julie Dostalova";"Julie Dostalova";"Hranicne Petrovice";Czechia;49.7422222222;17.4038888889;595
+85151;"2023-04-20 21:00:00";12986;12986;"Josef Pěček";"Josef Pěček";"Hraničné Petrovice";Czechia;49.7419103421;17.4035106004;594
+85152;"2023-04-20 21:00:00";8337;8337;"Lukas Krejzlik";"Lukas Krejzlik";"Hraničné Petrovice";Czechia;49.7408500000;17.4049400000;593
+85153;"2023-04-20 21:00:00";8338;8338;"Anna Wrnatova";"Anna Wrnatova";"Hranicne Petrovice";Czechia;49.7419444444;17.4036111111;593
+85154;"2023-04-20 21:00:00";14382;14382;"Marie Dostálová";"Marie Dostálová";"Hraničné Petrovice";Czechia;49.7419034087;17.4033738077;594
+85155;"2023-04-30 09:00:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85156;"2023-04-18 23:20:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2836427918;5.6117424769;11
+85157;"2023-05-02 01:26:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+85158;"2023-05-01 18:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Jervis Bay";Australia;-35.1407448576;150.7215748219;24
+85159;"2023-05-03 01:26:00";138;138;"Tim Cooper";"Tim Cooper";BALTIMORE;"South Africa";-23.3087222222;28.4985000000;995
+85160;"2023-05-03 01:32:00";4932;138;"Magda Streicher";"Tim Cooper";BALTIMORE;"South Africa";-23.3087222222;28.4985000000;995
+85161;"2023-05-04 01:47:00";138;138;"Tim Cooper";"Tim Cooper";BALTIMORE;"South Africa";-23.3087222222;28.4985000000;995
+85162;"2023-05-03 17:40:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Jervis Bay";Australia;-35.1407448576;150.7215748219;24
+85163;"2023-05-04 01:50:00";4932;138;"Magda Streicher";"Tim Cooper";BALTIMORE;"South Africa";-23.3087222222;28.4985000000;995
+85164;"2023-04-23 22:40:00";210;210;"Ina Rendtel";"Ina Rendtel";"Mazan, Dept. Vaucluse";France;44.0844444444;5.1133333333;173
+85165;"2023-04-25 23:25:00";210;210;"Ina Rendtel";"Ina Rendtel";"Mont Ventoux, Dept. Vaucluse";France;44.1575000000;5.3102777778;1533
+85166;"2023-04-27 01:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Lagnes, Dept. Vaucluse ";France;43.8919444444;5.1327777778;231
+85171;"2023-05-05 01:23:00";138;138;"Tim Cooper";"Tim Cooper";BALTIMORE;"South Africa";-23.3087222222;28.4985000000;995
+85172;"2023-05-05 01:32:00";4932;138;"Magda Streicher";"Tim Cooper";BALTIMORE;"South Africa";-23.3087222222;28.4985000000;995
+85183;"2023-05-06 01:20:00";138;138;"Tim Cooper";"Tim Cooper";BALTIMORE;"South Africa";-23.3087222222;28.4985000000;995
+85184;"2023-05-06 01:20:00";4932;138;"Magda Streicher";"Tim Cooper";BALTIMORE;"South Africa";-23.3087222222;28.4985000000;995
+85185;"2023-05-06 09:00:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85186;"2023-05-06 10:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+85187;"2023-05-07 01:18:00";138;138;"Tim Cooper";"Tim Cooper";BALTIMORE;"South Africa";-23.3087222222;28.4985000000;995
+85188;"2023-05-07 01:18:00";4932;138;"Magda Streicher";"Tim Cooper";BALTIMORE;"South Africa";-23.3087222222;28.4985000000;995
+85189;"2023-05-05 18:40:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Padstow;Australia;-33.9530333258;151.0372246489;23
+85190;"2023-05-06 00:10:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85191;"2023-05-07 00:00:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85192;"2023-05-07 20:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85208;"2023-05-08 21:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85236;"2023-05-08 20:09:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;228
+85237;"2023-05-09 21:42:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85238;"2023-05-06 07:10:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4105555556;-45.5352777778;838
+85239;"2023-05-07 07:25:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4105555556;-45.5352777778;838
+85240;"2023-05-08 21:35:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+85241;"2023-05-12 21:14:00";11836;11836;"Matthias Growe";"Matthias Growe";Schwarzenbek;Germany;53.5000000000;10.4833333333;50
+85242;"2023-04-23 00:06:00";7312;7312;"István Mátis";"István Mátis";Feleacu;Romania;46.7079200000;23.5931200000;732
+85243;"2023-04-20 21:00:00";17305;17305;"Nora Drlíková";"Nora Drlíková";"Hraničné Petrovice";Czechia;49.7418878088;17.4034448863;594
+85244;"2023-04-20 21:00:00";17301;17301;"Kryštof Kouřil";"Kryštof Kouřil";"Hraničné Petrovice";Czechia;49.7419311420;17.4037318826;594
+85245;"2023-04-20 21:00:00";17304;17304;"Jakub Sabela";"Jakub Sabela";"Hraničné Petrovice";Czechia;49.7419484753;17.4036312998;594
+85246;"2023-04-20 21:00:00";17303;17303;"David Mudrák";"David Mudrák";"Hraničné Petrovice";Czechia;49.7419311420;17.4035347403;594
+85247;"2023-05-07 20:15:00";210;210;"Ina Rendtel";"Ina Rendtel";"La Colle-sur-Loop, Dept. Alpes-Maritimes";France;43.6825000000;7.0830555556;44
+85248;"2023-05-08 20:15:00";210;210;"Ina Rendtel";"Ina Rendtel";"Gourdon, Dept. Alpes-Maritimes";France;43.7236111111;6.9816666667;737
+85249;"2023-05-09 21:15:00";210;210;"Ina Rendtel";"Ina Rendtel";"Col du Bel Homme, Bargemon, Dept. Var";France;43.6397222222;6.5688888889;915
+85250;"2023-05-10 20:20:00";210;210;"Ina Rendtel";"Ina Rendtel";"Trigance, Dept. Var";France;43.7369444444;6.4325000000;972
+85251;"2023-05-11 20:45:00";210;210;"Ina Rendtel";"Ina Rendtel";"Entrevennes, Dept. Alpes-Haute-Provence";France;43.9327777778;6.0627777778;708
+85252;"2023-05-12 22:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85253;"2023-04-21 21:00:00";17301;17301;"Kryštof Kouřil";"Kryštof Kouřil";"Hraničné Petrovice";Czechia;49.7419311420;17.4037318826;594
+85254;"2023-04-21 21:00:00";17304;17304;"Jakub Sabela";"Jakub Sabela";"Hraničné Petrovice";Czechia;49.7419484753;17.4036312998;594
+85255;"2023-04-21 21:00:00";17303;17303;"David Mudrák";"David Mudrák";"Hraničné Petrovice";Czechia;49.7419311420;17.4035347403;594
+85256;"2023-04-21 21:00:00";8337;8337;"Lukas Krejzlik";"Lukas Krejzlik";"Hranicne Petrovice";Czechia;49.7422222222;17.4038888889;593
+85257;"2023-04-21 21:00:00";14382;14382;"Marie Dostálová";"Marie Dostálová";"Hraničné Petrovice";Czechia;49.7419034087;17.4033738077;594
+85258;"2023-04-21 21:00:00";8338;8338;"Anna Wrnatova";"Anna Wrnatova";"Hranicne Petrovice";Czechia;49.7419444444;17.4036111111;593
+85259;"2023-04-21 21:00:00";8343;8343;"František Šesták";"František Šesták";"Hraničné Petrovice";Czechia;49.7419120754;17.4033724666;594
+85260;"2023-04-21 21:00:00";7609;7609;"Julie Dostalova";"Julie Dostalova";"Hranicne Petrovice";Czechia;49.7419444444;17.4036111111;593
+85261;"2023-04-21 21:00:00";17305;17305;"Nora Drlíková";"Nora Drlíková";"Hraničné Petrovice";Czechia;49.7418878088;17.4034448863;594
+85262;"2023-04-22 22:30:00";14288;14288;"Janko Vasilijević";"Janko Vasilijević";"Radanovci - Kosjeric";Serbia;44.1313888889;19.8180555556;868
+85263;"2023-04-21 21:00:00";13917;13917;"Klára Horáková";"Klára Horáková";"Hraničné Petrovice";Czechia;49.7420542081;17.4038230777;594
+85272;"2023-04-22 21:00:00";17310;17310;"Vojtěch Snášel";"Vojtěch Snášel";"Hraničné Petrovice";Czechia;49.7420992745;17.4038700164;594
+85275;"2023-05-16 22:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85276;"2023-04-22 21:00:00";13917;13917;"Klára Horáková";"Klára Horáková";"Hraničné Petrovice";Czechia;49.7420542081;17.4038230777;594
+85277;"2023-04-22 21:00:00";17310;17310;"Vojtěch Snášel";"Vojtěch Snášel";"Hraničné Petrovice";Czechia;49.7420992745;17.4038700164;594
+85278;"2023-04-22 21:00:00";17301;17301;"Kryštof Kouřil";"Kryštof Kouřil";"Hraničné Petrovice";Czechia;49.7419311420;17.4037318826;594
+85279;"2023-04-22 21:00:00";8365;8365;"Mikulas Lazar";"Mikulas Lazar";"Hranicne Petrovice";Czechia;49.7419444444;17.4036111111;593
+85280;"2023-04-22 21:00:00";17304;17304;"Jakub Sabela";"Jakub Sabela";"Hraničné Petrovice";Czechia;49.7419484753;17.4036312998;594
+85281;"2023-04-22 21:00:00";12986;12986;"Josef Pěček";"Josef Pěček";"Hraničné Petrovice";Czechia;49.7419103421;17.4035106004;594
+85282;"2023-04-22 21:00:00";11441;11441;"Denis Reichel";"Denis Reichel";"Hranicne Petrovice";Czechia;49.7419444444;17.4036111111;593
+85283;"2023-05-01 07:30:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+85284;"2023-05-22 05:25:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+85293;"2023-05-24 21:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85294;"2023-05-12 22:15:00";210;210;"Ina Rendtel";"Ina Rendtel";"Saignon, Dept. Vaucluse";France;43.8447222222;5.4397222222;614
+85295;"2023-05-13 23:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Lourmarin, Dept. Vaucluse";France;43.7683333333;5.3730555556;255
+85296;"2023-05-14 21:35:00";210;210;"Ina Rendtel";"Ina Rendtel";"Montagne de Lure, Dept. Alpes-de-Haute-Provence";France;44.1186111111;5.8022222222;1748
+85297;"2023-05-15 22:05:00";210;210;"Ina Rendtel";"Ina Rendtel";"Montagne de Lure, Dept. Alpes-de-Haute-Provence";France;44.1186111111;5.8022222222;1748
+85298;"2023-05-23 22:40:00";210;210;"Ina Rendtel";"Ina Rendtel";"Dankmarshausen, Thüringen";Germany;50.9322222222;10.0008333333;219
+85303;"2023-04-22 21:00:00";14382;14382;"Marie Dostálová";"Marie Dostálová";"Hraničné Petrovice";Czechia;49.7419034087;17.4033738077;594
+85304;"2023-05-09 20:10:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;228
+85305;"2023-04-21 20:48:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+85306;"2023-05-10 20:11:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;228
+85307;"2023-05-11 20:13:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;228
+85308;"2023-05-14 20:34:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;228
+85309;"2023-04-23 00:03:00";7435;7435;"Arash Nabizadeh Haghighi";"Arash Nabizadeh Haghighi";"Do Shakhkharat, Khansar";Iran;33.1309290000;50.4501070000;2531
+85310;"2023-06-09 22:30:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2836427918;5.6117424769;11
+85311;"2023-06-10 22:30:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2836427918;5.6117424769;11
+85312;"2023-06-13 22:10:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85313;"2023-06-14 22:29:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2836427918;5.6117424769;11
+85314;"2023-06-16 22:32:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2836427918;5.6117424769;11
+85315;"2023-06-10 22:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+85316;"2023-06-12 21:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Lechbruck am See, Bayern";Germany;47.7155555556;10.8213888889;719
+85317;"2023-06-13 21:45:00";210;210;"Ina Rendtel";"Ina Rendtel";"Biberwier, Tirol";Austria;47.3816666667;10.9019444444;979
+85318;"2023-06-14 22:05:00";210;210;"Ina Rendtel";"Ina Rendtel";"Biberwier, Tirol";Austria;47.3816666667;10.9019444444;979
+85319;"2023-06-15 22:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Biberwier, Tirol";Austria;47.3816666667;10.9019444444;979
+85320;"2023-06-17 22:05:00";210;210;"Ina Rendtel";"Ina Rendtel";"Biberwier, Tirol";Austria;47.3816666667;10.9019444444;979
+85321;"2023-06-24 22:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85322;"2023-06-25 23:24:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697900000;14.1350200000;811
+85323;"2023-06-25 22:00:00";17394;17394;"Jacques Proust";"Jacques Proust";"Les Sables-dOlonne";France;46.4895346667;-1.7589567994;17
+85324;"2023-06-30 03:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+85325;"2023-07-01 03:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+85326;"2023-07-02 04:04:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+85327;"2023-06-13 22:00:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+85328;"2023-07-05 21:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+85329;"2023-07-06 21:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+85331;"2023-07-07 21:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+85332;"2023-07-08 21:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+85333;"2023-07-07 21:55:00";210;210;"Ina Rendtel";"Ina Rendtel";"Groß Breesen, Mecklenburg-Vorpommern";Germany;53.6911111111;12.1627777778;45
+85334;"2023-07-08 21:40:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+85335;"2023-07-09 21:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+85336;"2023-07-10 21:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+85337;"2023-07-10 21:40:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+85338;"2023-07-09 21:25:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+85339;"2023-07-10 21:45:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+85340;"2023-07-13 01:50:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+85341;"2023-07-14 01:24:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+85342;"2023-07-12 22:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Gülper See, Nordseite, Brandenburg";Germany;52.7519444444;12.2725000000;23
+85343;"2023-07-14 21:29:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697900000;14.1350200000;811
+85344;"2023-07-14 21:45:00";210;210;"Ina Rendtel";"Ina Rendtel";"Gnevsdorf. Brandenburg";Germany;52.9119444444;11.8686111111;20
+85345;"2023-07-15 21:35:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697900000;14.1350200000;811
+85346;"2023-07-16 21:10:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697900000;14.1350200000;811
+85347;"2023-07-17 23:12:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85348;"2023-07-16 21:45:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+85349;"2023-07-17 22:45:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+85350;"2023-07-17 21:45:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+85351;"2023-07-17 21:22:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697900000;14.1350200000;811
+85352;"2023-07-16 21:35:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+85353;"2023-07-18 22:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85354;"2023-07-10 23:10:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85355;"2023-07-11 23:10:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85356;"2023-07-12 23:10:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85357;"2023-07-15 23:10:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85358;"2023-07-16 23:10:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85359;"2023-07-17 23:10:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85360;"2023-07-19 23:10:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85361;"2023-07-19 21:37:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+85362;"2023-07-20 21:25:00";131;131;"Javor Kac";"Javor Kac";"Dolenja vas";Slovenia;45.7268722222;14.0066583333;527
+85363;"2023-07-21 06:15:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85364;"2023-07-20 21:06:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+85365;"2023-07-20 21:40:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85366;"2023-07-18 21:45:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+85367;"2023-07-20 21:25:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+85368;"2023-07-22 20:00:00";16892;16892;"Danila Kudryavzev";"Danila Kudryavzev";Volgograd;Russia;48.4991666667;44.5827777778;11
+85369;"2023-07-22 21:14:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+85370;"2023-07-23 06:32:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85379;"2023-07-23 05:36:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4029100000;-45.5339600000;841
+85393;"2023-07-24 06:32:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85394;"2023-07-25 06:30:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85395;"2023-07-18 23:10:00";7205;7205;"Pierre Bader";"Pierre Bader";Untermaßfeld;Germany;50.5246013326;10.4137914702;325
+85396;"2023-07-26 04:45:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4105555556;-45.5352777778;838
+85397;"2023-07-26 05:55:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85414;"2023-07-26 23:10:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+85415;"2023-06-24 20:50:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+85416;"2023-07-14 21:59:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+85417;"2023-07-27 06:55:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85418;"2023-07-27 04:36:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4105555556;-45.5352777778;838
+85419;"2023-07-28 07:37:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85420;"2023-07-27 22:15:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+85421;"2023-07-28 08:22:00";8035;8035;"Wesley Stone";"Wesley Stone";Oregon;"United States";42.3868929823;-121.8115421618;1394
+85422;"2023-07-29 01:10:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+85423;"2023-07-28 05:42:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4105555556;-45.5352777778;838
+85424;"2023-07-28 20:00:00";7581;7581;"Kolyo Dankov";"Kolyo Dankov";"Sofia City Province";Bulgaria;42.5625179780;23.2775803145;2267
+85425;"2023-07-28 23:00:00";7581;7581;"Kolyo Dankov";"Kolyo Dankov";"Sofia City Province";Bulgaria;42.5625200000;23.2775800000;2267
+85426;"2023-07-29 08:07:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85427;"2023-07-29 09:46:00";8035;8035;"Wesley Stone";"Wesley Stone";Oregon;"United States";42.3868929823;-121.8115421618;1394
+85428;"2023-07-29 18:40:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Padstow;Australia;-33.9530333258;151.0372246489;23
+85429;"2023-07-29 19:30:00";16892;16892;"Danila Kudryavzev";"Danila Kudryavzev";Volgograd;Russia;48.2147222222;44.4825000000;70
+85430;"2023-07-30 09:04:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85431;"2023-07-29 21:17:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;228
+85432;"2023-07-23 21:37:00";131;131;"Javor Kac";"Javor Kac";Vrbnik;Croatia;45.0312600000;14.6718700000;325
+85433;"2023-07-25 21:39:00";131;131;"Javor Kac";"Javor Kac";Pinezići;Croatia;45.0452800000;14.4701000000;12
+85434;"2023-07-26 23:14:00";131;131;"Javor Kac";"Javor Kac";Pinezići;Croatia;45.0452800000;14.4701000000;12
+85435;"2023-07-27 22:26:00";131;131;"Javor Kac";"Javor Kac";Pinezići;Croatia;45.0452800000;14.4701000000;12
+85436;"2023-07-29 23:18:00";7726;7726;"Peter van Leuteren";"Peter van Leuteren";Oosterend;Netherlands;53.4050920000;5.3869380000;1
+85437;"2023-07-29 23:34:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2836427918;5.6117424769;11
+85438;"2023-07-30 19:22:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+85439;"2023-07-25 23:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Havelberg, Sachsen-Anhalt";Germany;52.8263888889;12.0702777778;25
+85440;"2023-07-26 22:05:00";210;210;"Ina Rendtel";"Ina Rendtel";"Havelberg, Sachsen-Anhalt";Germany;52.8263888889;12.0702777778;25
+85441;"2023-07-28 22:50:00";210;210;"Ina Rendtel";"Ina Rendtel";"Havelberg, Sachsen-Anhalt";Germany;52.8263888889;12.0702777778;25
+85442;"2023-07-29 23:20:00";210;210;"Ina Rendtel";"Ina Rendtel";"Havelberg, Sachsen-Anhalt";Germany;52.8263888889;12.0702777778;25
+85444;"2023-07-30 23:43:00";17394;17394;"Jacques Proust";"Jacques Proust";"Les Sables-dOlonne";France;46.4895365133;-1.7589407062;17
+85445;"2023-07-21 23:10:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85446;"2023-07-24 23:20:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85447;"2023-07-25 23:20:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85448;"2023-07-26 23:20:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85449;"2023-07-29 23:30:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85450;"2023-07-30 23:30:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85451;"2023-07-31 03:38:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4105555556;-45.5352777778;838
+85457;"2023-08-05 20:00:00";7115;7115;"Mykhailo Chubarets";"Mykhailo Chubarets";Ivano-Frankivs'k;Ukraine;48.9339056744;24.7224037355;247
+85458;"2023-07-30 03:35:00";13396;13396;"Pedro Pérez";"Pedro Pérez";Canarias;Spain;27.9983986828;-15.5548989840;1131
+85459;"2023-08-04 18:48:00";16892;16892;"Danila Kudryavzev";"Danila Kudryavzev";Volgograd;Russia;48.4991666667;44.5827777778;11
+85460;"2023-08-05 18:48:00";16892;16892;"Danila Kudryavzev";"Danila Kudryavzev";Volgograd;Russia;48.4991666667;44.5827777778;11
+85461;"2023-07-31 22:30:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;228
+85462;"2023-08-06 20:18:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+85463;"2023-08-05 19:00:00";11491;11491;"Alexandra Chobanova";"Alexandra Chobanova";Ardino;Bulgaria;41.5762500000;25.1661700000;986
+85464;"2023-08-02 20:37:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;228
+85465;"2023-08-04 20:53:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;228
+85466;"2023-08-06 18:35:00";16892;16892;"Danila Kudryavzev";"Danila Kudryavzev";Volgograd;Russia;48.4991666667;44.5827777778;11
+85467;"2023-08-07 07:16:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4029100000;-45.5339600000;841
+85468;"2023-08-06 19:15:00";11491;11491;"Alexandra Chobanova";"Alexandra Chobanova";Ardino;Bulgaria;41.5762500000;25.1661700000;986
+85469;"2023-07-29 22:04:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+85470;"2023-07-29 22:04:00";7322;7322;"Frank Wächter";"Frank Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+85471;"2023-07-14 22:15:00";7322;7322;"Frank Wächter";"Frank Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+85472;"2023-08-05 20:01:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;228
+85473;"2023-08-06 20:06:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;228
+85474;"2023-08-07 19:28:00";11491;11491;"Alexandra Chobanova";"Alexandra Chobanova";Ardino;Bulgaria;41.5762500000;25.1661700000;986
+85475;"2023-08-07 21:48:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+85476;"2023-08-07 23:20:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+85477;"2023-08-09 00:30:00";;17452;"Erik Vukašinović";"Dino Gržinić";Višnjan;Croatia;45.2914366965;13.7481871346;334
+85478;"2023-08-09 00:30:00";;17452;"Ivona Novutny";"Dino Gržinić";Višnjan;Croatia;45.2914366965;13.7481871346;334
+85479;"2023-08-09 00:30:00";;17452;"Matea Novković";"Dino Gržinić";Višnjan;Croatia;45.2914366965;13.7481871346;334
+85480;"2023-08-08 19:30:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Kreta;Greece;35.1055379138;24.5613859583;90
+85481;"2023-08-08 20:23:00";81;81;"Mitja Govedič";"Mitja Govedič";Kramarovci;Slovenia;46.8080555556;16.0100000000;338
+85482;"2023-08-08 22:03:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+85483;"2023-08-08 22:45:00";7726;7726;"Peter van Leuteren";"Peter van Leuteren";Oosterend;Netherlands;53.4050000000;5.3869444444;1
+85484;"2023-08-08 20:23:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697900000;14.1350200000;811
+85485;"2023-08-08 23:50:00";7131;7131;"Steve Brown";"Steve Brown";Stokesley;"United Kingdom";54.4738888889;-1.1836111111;70
+85486;"2023-08-08 22:20:00";210;210;"Ina Rendtel";"Ina Rendtel";"Berge bei Nauen, Brandenburg";Germany;52.6355555556;12.7963888889;28
+85487;"2023-08-09 20:45:00";17301;17301;"Kryštof Kouřil";"Kryštof Kouřil";Lipina;Czechia;49.7444018958;17.3188097299;496
+85488;"2023-07-27 22:00:00";17301;17301;"Kryštof Kouřil";"Kryštof Kouřil";Tompa;Hungary;46.1922017015;19.5392127921;136
+85489;"2023-08-08 19:37:00";11491;11491;"Alexandra Chobanova";"Alexandra Chobanova";Ardino;Bulgaria;41.5762500000;25.1661700000;986
+85490;"2023-08-09 20:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Görne, Westhavelland, Brandenburg";Germany;52.7016666667;12.4866666667;27
+85491;"2023-08-10 05:28:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85492;"2023-08-11 02:06:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Roma;Italy;41.9125700000;12.4545700000;40
+85493;"2023-08-10 21:48:00";7205;7205;"Pierre Bader";"Pierre Bader";Untermaßfeld;Germany;50.5246013326;10.4137914702;325
+85494;"2023-08-10 20:49:00";81;81;"Mitja Govedič";"Mitja Govedič";Kramarovci;Slovenia;46.8080555556;16.0100000000;338
+85495;"2023-08-10 22:15:00";7726;7726;"Peter van Leuteren";"Peter van Leuteren";Oosterend;Netherlands;53.4050000000;5.3869444444;1
+85496;"2023-08-10 23:25:00";7131;7131;"Steve Brown";"Steve Brown";Stokesley;"United Kingdom";54.4738888889;-1.1836111111;70
+85497;"2023-08-10 18:25:00";486;486;"Anna Levin";"Anna Levin";"Wise observatory, Mitzpe Ramon";Israel;30.5974000000;34.7623000000;875
+85498;"2023-08-10 21:34:00";7978;7978;"Artyom Novichonok";"Artyom Novichonok";"Республика Карелия";Russia;61.7687412614;34.2938408257;136
+85499;"2023-08-10 23:45:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697900000;14.1350200000;811
+85500;"2023-08-10 23:51:00";11566;11566;"Sina Rezaei";"Sina Rezaei";Hasanabad;Iran;32.0983333333;52.7352777778;1451
+85501;"2023-08-10 20:57:00";33;33;"Ralf Koschack";"Ralf Koschack";Lendershagen;Germany;54.2500000000;12.8500000000;10
+85502;"2023-08-10 20:19:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+85503;"2023-08-11 08:28:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85504;"2023-08-11 23:00:00";15540;15540;"Bohdan Holubenko";"Bohdan Holubenko";Братське;Ukraine;47.8681237560;31.5551301702;79
+85505;"2023-08-11 23:42:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Roma;Italy;41.9125700000;12.4545700000;40
+85506;"2023-08-09 20:30:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Kreta;Greece;35.1055379138;24.5613859583;90
+85507;"2023-08-11 21:00:00";15540;15540;"Bohdan Holubenko";"Bohdan Holubenko";Братське;Ukraine;47.8681237560;31.5551301702;79
+85508;"2023-08-11 21:23:00";1651;1651;"Jaroslaw Dygos";"Jaroslaw Dygos";"Czernice Borowe";Poland;53.0325000000;20.7188888889;150
+85509;"2023-08-11 20:10:00";7935;7935;"Omri Katz";"Omri Katz";"KM 101";Israel;30.3010200000;35.1339800000;175
+85510;"2023-08-11 21:44:00";7312;7312;"István Mátis";"István Mátis";Șugag;Romania;45.6889738200;23.5337462000;1301
+85511;"2023-08-11 20:12:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697900000;14.1350200000;811
+85512;"2023-08-11 18:25:00";486;486;"Anna Levin";"Anna Levin";"Beer Menuha";Israel;30.3080555556;35.1330555556;187
+85513;"2023-08-07 18:50:00";16892;16892;"Danila Kudryavzev";"Danila Kudryavzev";Volgograd;Russia;48.4991666667;44.5827777778;11
+85514;"2023-08-08 18:40:00";16892;16892;"Danila Kudryavzev";"Danila Kudryavzev";Volgograd;Russia;48.4991666667;44.5827777778;11
+85515;"2023-08-11 18:35:00";7842;7842;"Tamara Tchenak";"Tamara Tchenak";"Beer Menuha";Israel;30.3080555556;35.1330555556;187
+85516;"2023-08-09 21:50:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1361111111;11.4647222222;506
+85517;"2023-08-11 19:10:00";8055;8055;"Ido Braun";"Ido Braun";"South District";Israel;30.3057500000;35.1334300000;181
+85518;"2023-08-11 19:10:00";17490;17490;"Mika David Hai ";"Mika David Hai ";"South district ";Israel;30.3057500000;35.1334277778;181
+85519;"2023-08-10 21:05:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1361111111;11.4647222222;506
+85520;"2023-08-11 21:10:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1361111111;11.4647222222;497
+85521;"2023-08-11 22:25:00";154;154;"Alastair McBeath";"Alastair McBeath";Morpeth;"United Kingdom";55.1600000000;-1.7800000000;58
+85522;"2023-08-11 19:10:00";8017;8017;"eldar noy";"eldar noy";"מחוז הדרום";Israel;30.8295600000;35.0388200000;99
+85523;"2023-08-11 19:20:00";17491;17491;"Irena  Veber";"Irena  Veber";"מחוז הדרום";Israel;30.8295600000;35.0388200000;99
+85524;"2023-08-11 23:16:00";7994;7994;"Shlomi Eini";"Shlomi Eini";"Beer Menuha";Israel;30.3057500000;35.1334300000;181
+85525;"2023-08-11 20:44:00";7779;7779;"Ivaylo Belchev";"Ivaylo Belchev";Ardino;Bulgaria;41.5740670000;25.1802100000;1000
+85526;"2023-08-11 20:10:00";16892;16892;"Danila Kudryavzev";"Danila Kudryavzev";"Волгоградская область";Russia;48.2337897157;44.4591741832;81
+85527;"2023-08-12 04:45:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85528;"2023-08-10 20:25:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+85529;"2023-08-09 19:29:00";11491;11491;"Alexandra Chobanova";"Alexandra Chobanova";Ardino;Bulgaria;41.5741000000;25.1802000000;1001
+85530;"2023-08-11 20:25:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+85531;"2023-08-11 20:25:00";7322;7322;"Frank Wächter";"Frank Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+85532;"2023-08-11 20:50:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+85533;"2023-08-12 06:40:00";8035;8035;"Wesley Stone";"Wesley Stone";Oregon;"United States";42.6916556785;-121.9737851842;1271
+85534;"2023-08-12 08:46:00";8035;8035;"Wesley Stone";"Wesley Stone";"Fort Klamath";"United States";42.6916556785;-121.9737851842;1271
+85535;"2023-08-12 15:00:00";17493;17493;"Cp Dong";"Cp Dong";Shanghai;China;30.8314828667;121.6071677206;0
+85536;"2023-08-10 20:00:00";;7838;"Matvey Dubishkin";"Dmitry Dubishkin";Tersefanou;Cyprus;34.8481622531;33.5495395890;34
+85537;"2023-08-13 01:48:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Roma;Italy;41.9125700000;12.4545700000;40
+85538;"2023-08-12 19:49:00";1651;1651;"Jaroslaw Dygos";"Jaroslaw Dygos";"Czernice Borowe";Poland;53.0325000000;20.7188888889;150
+85539;"2023-08-11 20:00:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;228
+85540;"2023-08-12 22:39:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Salzwedel;Germany;52.8503400000;11.1646700000;21
+85541;"2023-08-12 23:00:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;228
+85542;"2023-08-13 00:52:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+85543;"2023-08-12 22:17:00";7205;7205;"Pierre Bader";"Pierre Bader";Untermaßfeld;Germany;50.5246013326;10.4137914702;325
+85544;"2023-08-12 23:30:00";7312;7312;"István Mátis";"István Mátis";Șugag;Romania;45.6889738200;23.5337462000;1301
+85546;"2023-08-12 23:00:00";81;81;"Mitja Govedič";"Mitja Govedič";Kramarovci;Slovenia;46.8080555556;16.0100000000;338
+85547;"2023-08-11 20:25:00";7205;7205;"Pierre Bader";"Pierre Bader";Untermaßfeld;Germany;50.5246013326;10.4137914702;325
+85548;"2023-08-12 18:57:00";7994;7994;"Shlomi Eini";"Shlomi Eini";"Beer Menuha";Israel;30.3057500000;35.1334300000;181
+85549;"2023-08-12 19:00:00";7842;7842;"Tamara Tchenak";"Tamara Tchenak";"Beer Menuha";Israel;30.3080555556;35.1330555556;187
+85550;"2023-08-11 21:00:00";14262;14262;"Jakub Černý";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85551;"2023-08-12 17:50:00";486;486;"Anna Levin";"Anna Levin";"Beer Menuha";Israel;30.3080555556;35.1330555556;187
+85552;"2023-08-11 20:10:00";7935;7935;"Omri Katz";"Omri Katz";"KM 101";Israel;30.3010200000;35.1339800000;175
+85553;"2023-08-11 21:00:00";1770;14262;"Lukas Ferkl";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85555;"2023-08-12 21:12:00";17488;17488;"Fran Campos";"Fran Campos";Catalunya;Spain;41.3905757310;1.8762677820;504
+85556;"2023-08-11 21:00:00";;14262;"Katerina Hrneckova";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85557;"2023-08-11 21:00:00";;14262;"Marian Ray";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85558;"2023-08-13 00:03:00";11593;11593;"Alex Scholten";"Alex Scholten";Bussloo;Netherlands;52.2000000000;6.1200000000;5
+85559;"2023-08-12 19:20:00";7935;7935;"Omri Katz";"Omri Katz";"KM 101";Israel;30.3010200000;35.1339800000;175
+85560;"2023-08-12 20:25:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697900000;14.1350200000;811
+85561;"2023-08-12 15:58:00";17464;17464;"Weiyi Yu";"Weiyi Yu";Nanjing;China;32.1383333333;118.9677777778;30
+85562;"2023-08-12 20:50:00";11836;11836;"Matthias Growe";"Matthias Growe";Schwarzenbek;Germany;53.5000000000;10.4833333333;50
+85563;"2023-08-12 21:50:00";11836;11836;"Matthias Growe";"Matthias Growe";Schwarzenbek;Germany;53.5000000000;10.4833333333;50
+85564;"2023-08-12 18:20:00";8055;8055;"Ido Braun";"Ido Braun";"South District";Israel;30.3057500000;35.1334300000;181
+85565;"2023-08-13 02:00:00";9941;9941;"Garry Dymond";"Garry Dymond";Campbellton;Canada;49.3058333333;-54.9569444444;9
+85566;"2023-08-13 00:27:00";33;33;"Ralf Koschack";"Ralf Koschack";Lendershagen;Germany;54.2500000000;12.8500000000;10
+85567;"2023-08-12 20:26:00";;14262;"Marian Ray";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85568;"2023-08-12 20:26:00";;14262;"Katerina Hrneckova";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85569;"2023-08-12 20:26:00";1770;14262;"Lukas Ferkl";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85570;"2023-08-12 19:55:00";7591;7591;"Maciej Kwinta";"Maciej Kwinta";Krzesławice;Poland;49.8096123118;20.1921339390;415
+85571;"2023-08-13 04:32:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85572;"2023-08-12 20:26:00";5407;14262;"Jan Verfl";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85573;"2023-08-12 20:36:00";14262;14262;"Jakub Černý";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85574;"2023-08-12 15:30:00";;17462;"Chenxi Lin";"Peiyuan Sun";Xuyi;China;32.7244444444;118.4086111111;165
+85575;"2023-08-12 23:58:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+85576;"2023-08-12 23:26:00";7322;7322;"Frank Wächter";"Frank Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+85577;"2023-08-13 07:44:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85578;"2023-08-10 07:21:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4029100000;-45.5339600000;841
+85579;"2023-08-12 07:22:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4029100000;-45.5339600000;841
+85580;"2023-08-12 20:38:00";352;352;"Francisco Ocaña González";"Francisco Ocaña González";"Medvedje Brdo";Slovenia;45.9695888889;14.1353583333;811
+85581;"2023-08-12 21:30:00";14287;14287;"Veikko Mäkelä";"Veikko Mäkelä";Orimattila;Finland;60.7333333333;26.2127777778;80
+85583;"2023-08-13 00:40:00";13193;13193;"Calum Young";"Calum Young";Haddington;"United Kingdom";55.9553946381;-2.7839028501;53
+85585;"2023-08-12 22:00:00";;17452;"Erik Vukašinović";"Dino Gržinić";Višnjan;Croatia;45.2914366965;13.7481871346;334
+85586;"2023-08-12 22:00:00";;17452;"Matea Novković";"Dino Gržinić";Štuti;Croatia;45.2914329226;13.7481415370;329
+85587;"2023-08-12 22:00:00";;17452;"Ivona Novutny";"Dino Gržinić";Štuti;Croatia;45.2914329226;13.7481415370;329
+85588;"2023-08-13 20:49:00";11836;11836;"Matthias Growe";"Matthias Growe";Schwarzenbek;Germany;53.5000000000;10.4833333333;50
+85589;"2023-08-14 00:49:00";67;67;"Karl Antier";"Karl Antier";Manosque;France;43.8684168318;5.7912893166;690
+85590;"2023-08-12 22:00:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85591;"2023-08-12 21:15:00";7425;7425;"Kazem Kookaram";"Kazem Kookaram";Polour;Iran;35.9047188706;52.0065835568;2672
+85592;"2023-08-12 22:00:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85594;"2023-08-14 02:09:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Roma;Italy;41.9125700000;12.4545700000;40
+85595;"2023-08-13 22:40:00";8055;8055;"Ido Braun";"Ido Braun";"South District";Israel;30.3057500000;35.1334300000;181
+85596;"2023-07-15 21:00:00";14393;14393;"Miloslav Macháček";"Miloslav Macháček";"Říčky v Orlických horách";Czechia;50.2294447748;16.4910346468;929
+85597;"2023-08-11 20:25:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+85598;"2023-08-13 20:55:00";14393;14393;"Miloslav Macháček";"Miloslav Macháček";Býšť;Czechia;50.1535600000;15.9525100000;268
+85599;"2023-08-14 00:42:00";14262;14262;"Jakub Černý";"Jakub Černý";"Velké Meziříčí";Czechia;49.3489500000;16.0578100000;500
+85600;"2023-08-14 00:42:00";5407;14262;"Jan Verfl";"Jakub Černý";"Velké Meziříčí";Czechia;49.3489500000;16.0578100000;500
+85601;"2023-08-12 23:00:00";7115;7115;"Mykhailo Chubarets";"Mykhailo Chubarets";Verkhovyna;Ukraine;48.1466354783;24.8162827301;614
+85602;"2023-08-13 21:40:00";7205;7205;"Pierre Bader";"Pierre Bader";Untermaßfeld;Germany;50.5246013326;10.4137914702;325
+85603;"2023-08-11 22:50:00";7131;7131;"Steve Brown";"Steve Brown";Stokesley;"United Kingdom";54.4738888889;-1.1836111111;70
+85604;"2023-08-13 20:08:00";14262;14262;"Jakub Černý";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85605;"2023-08-13 20:08:00";5407;14262;"Jan Verfl";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85606;"2023-08-13 22:45:00";11593;11593;"Alex Scholten";"Alex Scholten";Hall;Netherlands;52.1239429197;6.0632362979;11
+85607;"2023-08-13 20:28:00";7274;7274;"Sasha Prokofyev";"Sasha Prokofyev";Pyrga;Cyprus;34.9045800000;33.4843600000;169
+85608;"2023-08-13 20:56:00";7274;7274;"Sasha Prokofyev";"Sasha Prokofyev";Pyrga;Cyprus;34.9045800000;33.4843600000;169
+85609;"2023-08-13 21:16:00";7274;7274;"Sasha Prokofyev";"Sasha Prokofyev";Pyrga;Cyprus;34.9045800000;33.4843600000;169
+85610;"2023-08-13 21:37:00";7274;7274;"Sasha Prokofyev";"Sasha Prokofyev";Pyrga;Cyprus;34.9045800000;33.4843600000;169
+85611;"2023-08-12 20:34:00";14295;40;"Petra Strunk";"Hartwig Luethen";Herford;Germany;52.1236000000;8.7018000000;113
+85612;"2023-08-13 21:15:00";11583;11583;"Jan Lembregts";"Jan Lembregts";Villers-sur-le-mont;France;49.6578360000;4.6832520000;272
+85613;"2023-08-13 20:48:00";14295;40;"Petra Strunk";"Hartwig Luethen";Herford;Germany;52.1236000000;8.7018000000;113
+85614;"2023-08-13 00:02:00";154;154;"Alastair McBeath";"Alastair McBeath";Morpeth,northumberl;"United Kingdom";55.1600000000;-1.6966666667;58
+85615;"2023-08-13 00:29:00";154;154;"Alastair McBeath";"Alastair McBeath";Morpeth,northumberl;"United Kingdom";55.1600000000;-1.6966666667;58
+85616;"2023-08-13 01:30:00";154;154;"Alastair McBeath";"Alastair McBeath";Morpeth,northumberl;"United Kingdom";55.1600000000;-1.6966666667;58
+85617;"2023-08-13 02:30:00";154;154;"Alastair McBeath";"Alastair McBeath";Morpeth,northumberl;"United Kingdom";55.1600000000;-1.6966666667;58
+85618;"2023-08-14 01:05:00";154;154;"Alastair McBeath";"Alastair McBeath";Morpeth,northumberl;"United Kingdom";55.1600000000;-1.6966666667;58
+85619;"2023-08-10 22:27:00";11491;11491;"Alexandra Chobanova";"Alexandra Chobanova";Ardino;Bulgaria;41.5740700000;25.1802100000;1000
+85620;"2023-08-14 01:05:00";154;154;"Alastair McBeath";"Alastair McBeath";Morpeth,northumberl;"United Kingdom";55.1600000000;-1.6966666667;58
+85621;"2023-08-13 20:46:00";40;40;"Hartwig Luethen";"Hartwig Luethen";Herford;Germany;52.1236000000;8.7018000000;113
+85622;"2023-08-12 20:49:00";11491;11491;"Alexandra Chobanova";"Alexandra Chobanova";Ardino;Bulgaria;41.5740700000;25.1802100000;1000
+85623;"2023-08-13 20:37:00";11491;11491;"Alexandra Chobanova";"Alexandra Chobanova";Ardino;Bulgaria;41.5740700000;25.1802100000;1000
+85624;"2023-08-12 23:00:00";7131;7131;"Steve Brown";"Steve Brown";Stokesley;"United Kingdom";54.4738888889;-1.1836111111;70
+85625;"2023-08-12 20:36:00";40;40;"Hartwig Luethen";"Hartwig Luethen";Herford;Germany;52.1236000000;8.7018000000;113
+85626;"2023-08-13 20:38:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+85627;"2023-08-13 20:31:00";7322;7322;"Frank Wächter";"Frank Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+85628;"2023-08-13 20:06:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697900000;14.1350200000;811
+85629;"2023-08-13 19:28:00";12407;12407;"Dominik  Imrich ";"Dominik  Imrich ";"Košické Oľšany";Slovakia;48.7228584812;21.3263820093;227
+85630;"2023-08-13 23:16:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+85631;"2023-08-14 08:22:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85632;"2023-08-12 22:50:00";7779;7779;"Ivaylo Belchev";"Ivaylo Belchev";Ardino;Bulgaria;41.5740497222;25.1800980556;1000
+85633;"2023-08-14 00:50:00";9941;9941;"Garry Dymond";"Garry Dymond";hOLYWOOD;Canada;47.3441666667;-53.1933333333;93
+85634;"2023-08-13 20:02:00";15841;15841;"Ana-Maria Darakchieva";"Ana-Maria Darakchieva";Ардино;Bulgaria;41.5833900000;25.1336800000;602
+85635;"2023-08-13 06:16:00";8035;8035;"Wesley Stone";"Wesley Stone";"Fort Klamath";"United States";42.6916556785;-121.9737851842;1271
+85636;"2023-08-13 07:46:00";8035;8035;"Wesley Stone";"Wesley Stone";"Fort Klamath";"United States";42.6916556785;-121.9737851842;1271
+85637;"2023-08-13 10:09:00";8035;8035;"Wesley Stone";"Wesley Stone";"Fort Klamath";"United States";42.6916556785;-121.9737851842;1271
+85638;"2023-08-14 20:50:00";11836;11836;"Matthias Growe";"Matthias Growe";Schwarzenbek;Germany;53.5000000000;10.4833333333;50
+85639;"2023-08-15 00:47:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Roma;Italy;41.9125700000;12.4545700000;40
+85640;"2023-08-14 18:45:00";486;486;"Anna Levin";"Anna Levin";"Beer Menuha";Israel;30.3080555556;35.1330555556;187
+85641;"2023-08-14 19:50:00";7842;7842;"Tamara Tchenak";"Tamara Tchenak";"Beer Menuha";Israel;30.3080555556;35.1330555556;187
+85642;"2023-08-14 19:34:00";7994;7994;"Shlomi Eini";"Shlomi Eini";"Beer Menuha";Israel;30.3057500000;35.1334300000;181
+85643;"2023-08-13 01:20:00";8001;8001;"Valentín Díaz Parreño";"Valentín Díaz Parreño";"LA PUEBLA DE DON FADRIQUE";Spain;37.9700000000;-2.4833333333;1300
+85644;"2023-08-14 21:20:00";14262;14262;"Jakub Černý";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85645;"2023-08-13 21:41:00";7312;7312;"István Mátis";"István Mátis";Șugag;Romania;45.6889738200;23.5337462000;1301
+85646;"2023-08-14 21:20:00";5407;14262;"Jan Verfl";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85647;"2023-08-14 21:20:00";4107;14262;"Irena Pickova";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85648;"2023-08-14 21:20:00";;14262;"Marian Ray";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85649;"2023-08-14 21:20:00";;14262;"Katerina Hrneckova";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85650;"2023-08-14 19:50:00";8055;8055;"Ido Braun";"Ido Braun";"South District";Israel;30.3057500000;35.1334300000;181
+85651;"2023-08-13 22:04:00";7726;7726;"Peter van Leuteren";"Peter van Leuteren";Oosterend;Netherlands;53.4050000000;5.3869444444;1
+85652;"2023-08-14 21:20:00";3764;14262;"Martin Nedved";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85653;"2023-08-13 20:08:00";4107;14262;"Irena Pickova";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85654;"2023-08-13 20:53:00";;14262;"Marian Ray";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85655;"2023-08-13 20:53:00";;14262;"Katerina Hrneckova";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85656;"2023-08-13 21:05:00";1831;14262;"Ondrej Fremunt";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85657;"2023-08-12 01:51:00";532;532;"Michel Deconinck";"Michel Deconinck";Crest-Voland;France;45.7885836860;6.5313462409;1508
+85658;"2023-08-13 21:05:00";1770;14262;"Lukas Ferkl";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85659;"2023-08-12 20:28:00";532;532;"Michel Deconinck";"Michel Deconinck";"La Roche-des-Arnauds";France;44.5610237288;5.9971042675;1156
+85660;"2023-08-13 20:28:00";7374;7374;"George Troullias";"George Troullias";Pyrga;Cyprus;34.9045262681;33.4844001853;173
+85661;"2023-08-09 21:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+85662;"2023-08-10 20:40:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+85663;"2023-08-11 20:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+85664;"2023-08-11 21:35:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85665;"2023-08-12 21:34:00";7726;7726;"Peter van Leuteren";"Peter van Leuteren";Oosterend;Netherlands;53.4050000000;5.3869444444;1
+85666;"2023-08-12 20:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+85667;"2023-08-12 23:37:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85668;"2023-08-13 23:10:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85670;"2023-08-14 20:42:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+85673;"2023-08-13 06:47:00";7315;7315;"Bruce McCurdy";"Bruce McCurdy";Alberta;Canada;53.4344792584;-112.8526998014;750
+85676;"2023-08-14 01:24:00";17394;17394;"Jacques Proust";"Jacques Proust";"Les Sables-dOlonne";France;46.4895365133;-1.7589407062;17
+85677;"2023-08-15 07:03:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85678;"2023-08-14 19:10:00";7935;7935;"Omri Katz";"Omri Katz";"KM 101";Israel;30.3010200000;35.1339800000;175
+85682;"2023-08-10 21:34:00";7154;7154;"Christoph Gerber";"Christoph Gerber";Heidelberg;Germany;49.4202777778;8.7475000000;221
+85683;"2023-08-12 20:53:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+85686;"2023-08-06 19:04:00";17513;17513;"Vanesa Kalinkova";"Vanesa Kalinkova";Ardino;Bulgaria;41.5800000000;25.1700000000;991
+85687;"2023-08-10 21:03:00";14177;14177;"Jana Thys";"Jana Thys";Daverdisse;Belgium;50.0213888889;5.1230555556;303
+85688;"2023-08-09 21:00:00";14177;14177;"Jana Thys";"Jana Thys";Daverdisse;Belgium;50.0213888889;5.1230555556;303
+85689;"2023-08-05 19:00:00";17513;17513;"Vanesa Kalinkova";"Vanesa Kalinkova";Ardino;Bulgaria;41.5800000000;25.1700000000;991
+85690;"2023-08-07 19:17:00";17513;17513;"Vanesa Kalinkova";"Vanesa Kalinkova";Ardino;Bulgaria;41.5800000000;25.1700000000;991
+85692;"2023-08-08 19:24:00";17513;17513;"Vanesa Kalinkova";"Vanesa Kalinkova";Ardino;Bulgaria;41.5800000000;25.1700000000;991
+85693;"2023-08-09 19:38:00";17513;17513;"Vanesa Kalinkova";"Vanesa Kalinkova";Ardino;Bulgaria;41.5700000000;25.1800000000;876
+85694;"2023-08-11 21:23:00";17513;17513;"Vanesa Kalinkova";"Vanesa Kalinkova";Ardino;Bulgaria;41.5700000000;25.1800000000;876
+85695;"2023-08-11 22:00:00";8402;8402;"Fabrizio Melandri";"Fabrizio Melandri";"Taglio Corelli";Italy;44.5644444444;11.9863888889;4
+85696;"2023-08-14 00:00:00";8402;8402;"Fabrizio Melandri";"Fabrizio Melandri";"Monte Fumaiolo";Italy;43.7910000000;12.0660000000;1276
+85697;"2023-08-15 23:12:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Roma;Italy;41.9125700000;12.4545700000;40
+85698;"2023-08-12 22:00:00";17301;17301;"Kryštof Kouřil";"Kryštof Kouřil";Šternberk;Czechia;49.7543012698;17.3112261444;314
+85699;"2023-08-13 21:05:00";17301;17301;"Kryštof Kouřil";"Kryštof Kouřil";Šternberk;Czechia;49.7543012698;17.3112261444;314
+85700;"2023-08-13 21:22:00";14177;14177;"Jana Thys";"Jana Thys";Daverdisse;Belgium;50.0213888889;5.1230555556;303
+85701;"2023-08-13 20:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+85702;"2023-08-14 20:43:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697900000;14.1350200000;811
+85703;"2023-08-15 23:08:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697900000;14.1350200000;811
+85704;"2023-08-16 08:44:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85705;"2023-08-13 21:15:00";7134;7134;"Greet Lembregts";"Greet Lembregts";Villers-sur-le-Mont;France;49.6575926805;4.6837294326;272
+85706;"2023-08-12 21:30:00";7641;7641;"Mohammad Nilforoushan";"Mohammad Nilforoushan";"Zaroor Hill, Taleghan";Iran;36.1656000000;50.8375600000;2164
+85707;"2023-08-16 20:48:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Roma;Italy;41.9125700000;12.4545700000;40
+85708;"2023-08-12 05:00:00";36;36;"Sirko Molau";"Sirko Molau";Burns;"United States";43.0304747000;-118.2317897000;1234
+85709;"2023-08-13 05:00:00";36;36;"Sirko Molau";"Sirko Molau";"Craters of the Moon NP";"United States";43.5191949000;-113.5653230000;1726
+85711;"2023-08-12 20:48:00";;8460;"David Pazderak";"Beáta Lešková";Kožuchov;Slovakia;48.5688888889;21.7219444444;110
+85712;"2023-08-12 20:48:00";;8460;"Jan Plavnicky";"Beáta Lešková";Kožuchov;Slovakia;48.5688888889;21.7219444444;110
+85713;"2023-08-12 20:48:00";;8460;"Ivana Benesova";"Beáta Lešková";Kožuchov;Slovakia;48.5688888889;21.7219444444;110
+85714;"2023-08-12 20:48:00";5453;8460;"Martin Vincencik";"Beáta Lešková";Kožuchov;Slovakia;48.5688888889;21.7219444444;110
+85715;"2023-08-10 21:20:00";7912;8460;"Tomáš Toma";"Beáta Lešková";Trebišov;Slovakia;48.6666666667;21.7500000000;100
+85716;"2023-08-13 20:56:00";17511;17511;"Narges Payami";"Narges Payami";"استان خراسان رضوی";Iran;36.2306179412;58.9580675168;1615
+85717;"2023-08-10 21:20:00";6848;8460;"Stefan Puci";"Beáta Lešková";Trebišov;Slovakia;48.6666666667;21.7500000000;100
+85718;"2023-08-10 21:20:00";;8460;"Jozef Andrej";"Beáta Lešková";Trebišov;Slovakia;48.6666666667;21.7500000000;100
+85719;"2023-08-10 21:20:00";1956;8460;"Maria Gimova";"Beáta Lešková";Trebišov;Slovakia;48.6666666667;21.7500000000;100
+85720;"2023-08-10 21:20:00";5453;8460;"Martin Vincencik";"Beáta Lešková";Trebišov;Slovakia;48.6666666667;21.7500000000;100
+85721;"2023-08-12 20:49:00";4858;8460;"Jaroslav Stas";"Beáta Lešková";Kožuchov;Slovakia;48.5688888889;21.7219444444;110
+85722;"2023-08-12 20:49:00";;8460;"Martin Virik";"Beáta Lešková";Kožuchov;Slovakia;48.5688888889;21.7219444444;110
+85723;"2023-08-12 20:49:00";4870;8460;"Radovan Stas";"Beáta Lešková";Kožuchov;Slovakia;48.5688888889;21.7219444444;110
+85724;"2023-08-12 20:49:00";;8460;"Timotej Virik";"Beáta Lešková";Kožuchov;Slovakia;48.5688888889;21.7219444444;110
+85725;"2023-08-11 21:35:00";14393;14393;"Miloslav Macháček";"Miloslav Macháček";"Bartošovice v Orlických horách";Czechia;50.1810582542;16.5376338788;758
+85726;"2023-08-12 21:55:00";17523;17523;"Priit Rifk";"Priit Rifk";Vidrike;Estonia;57.9806880492;26.4983259226;140
+85727;"2023-08-13 20:55:00";17509;17509;"Gemini  Brothers";"Gemini  Brothers";"Razavi Khorasan Province";Iran;36.2304172502;58.9565547509;1593
+85728;"2023-08-13 22:50:00";17514;17514;"Maria Dal Pian";"Maria Dal Pian";"Montegrotto Terme";Italy;45.3302878155;11.7868331184;11
+85729;"2023-08-16 20:13:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+85730;"2023-08-12 21:16:00";1;1;"Rainer Arlt";"Rainer Arlt";Ludwigsfelde;Germany;52.2912069080;13.2579394317;44
+85731;"2023-08-12 21:16:00";;1;"Stela Arlt";"Rainer Arlt";Ludwigsfelde;Germany;52.2913006510;13.2579030108;44
+85732;"2023-08-13 21:30:00";426;426;"Lovro Pavletic";"Lovro Pavletic";Čepno;Slovenia;45.6753159664;14.0836000236;647
+85733;"2023-08-17 08:36:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85734;"2023-08-13 21:30:00";;426;"Andrea Verch";"Lovro Pavletic";Čepno;Slovenia;45.6752706124;14.0835951233;647
+85735;"2023-08-14 20:45:00";426;426;"Lovro Pavletic";"Lovro Pavletic";Popovići;Croatia;44.0698016749;15.7053797646;336
+85736;"2023-08-15 23:30:00";17113;17113;"Kieran Hue";"Kieran Hue";Labergement-Sainte-Marie;France;46.7821928522;6.3260034840;1035
+85737;"2023-08-12 01:40:00";8022;8022;"Pierre Martin";"Pierre Martin";"Moose Creek";Canada;45.2528000000;-75.0518000000;68
+85738;"2023-08-13 05:05:00";8022;8022;"Pierre Martin";"Pierre Martin";Hensall;Canada;43.4225000000;-81.4144444444;296
+85739;"2023-08-14 03:08:00";8022;8022;"Pierre Martin";"Pierre Martin";Stewartville;Canada;45.3833333333;-76.4833333333;157
+85740;"2023-08-10 21:00:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Kreta;Greece;35.1055379138;24.5613859583;90
+85741;"2023-08-14 22:00:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85742;"2023-08-15 23:30:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85743;"2023-08-16 23:30:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85744;"2023-08-17 23:40:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85745;"2023-08-13 22:15:00";;426;"Jan Pohlen";"Lovro Pavletic";Čepno;Slovenia;45.6752934960;14.0835758838;647
+85746;"2023-08-16 23:36:00";14262;14262;"Jakub Černý";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85747;"2023-08-16 23:00:00";5407;14262;"Jan Verfl";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85748;"2023-08-13 13:55:00";7229;7229;"Filipp Romanov";"Filipp Romanov";Nakhodka;Russia;42.8583790000;132.6883180000;30
+85749;"2023-08-14 20:20:00";210;210;"Ina Rendtel";"Ina Rendtel";"Hindenberg, Lübbenau, Brandenburg";Germany;51.8550000000;13.8527777778;70
+85750;"2023-08-16 20:20:00";210;210;"Ina Rendtel";"Ina Rendtel";"Hindenberg, Lübbenau, Brandenburg";Germany;51.8550000000;13.8527777778;70
+85751;"2023-08-13 20:48:00";33;33;"Ralf Koschack";"Ralf Koschack";Lendershagen;Germany;54.2500000000;12.8500000000;10
+85752;"2023-08-13 10:02:00";238;238;"Carl Hergenrother";"Carl Hergenrother";"Tucson - Tanque Verde";"United States";32.2819444444;-110.7683333330;826
+85753;"2023-08-18 08:34:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85754;"2023-08-15 23:10:00";17514;17514;"Maria Dal Pian";"Maria Dal Pian";"Montegrotto Terme";Italy;45.3302861736;11.7868319033;11
+85755;"2023-08-16 22:08:00";17514;17514;"Maria Dal Pian";"Maria Dal Pian";"Montegrotto Terme";Italy;45.3302860859;11.7868317773;11
+85756;"2023-08-18 20:32:00";7205;7205;"Pierre Bader";"Pierre Bader";Untermaßfeld;Germany;50.5246013326;10.4137914702;325
+85757;"2023-08-16 23:02:00";;14262;"Marian Ray";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85758;"2023-08-11 18:42:00";14252;14252;"Jinghang Xue";"Jinghang Xue";酒泉;China;39.9360000000;98.8850000000;1299
+85759;"2023-08-17 00:06:00";;14262;"Katerina Hrneckova";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85762;"2023-08-13 23:30:00";;426;"Stefano Schirinzi";"Lovro Pavletic";Čepno;Slovenia;45.6752803772;14.0835785660;647
+85763;"2023-08-17 21:40:00";14262;14262;"Jakub Černý";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85764;"2023-08-13 20:56:00";17507;17507;"Sarina Mohammadi";"Sarina Mohammadi";"Razavi Khorasan Province";Iran;36.2299345224;58.9561117892;1592
+85765;"2023-08-18 21:40:00";5407;14262;"Jan Verfl";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85766;"2023-08-17 20:21:00";17509;17509;"Gemini  Brothers";"Gemini  Brothers";"Razavi Khorasan Province";Iran;36.2850315588;58.8489065487;1385
+85767;"2023-08-16 20:18:00";7374;7374;"George Troullias";"George Troullias";Pyrga;Cyprus;34.9045262681;33.4844001853;173
+85768;"2023-08-18 21:40:00";;14262;"Marian Ray";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85769;"2023-08-18 21:40:00";;14262;"Katerina Hrneckova";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85770;"2023-08-13 21:08:00";17510;17510;"Mahsa Akbari";"Mahsa Akbari";Nishabur;Iran;36.2302888889;58.9569277778;1601
+85771;"2023-08-18 21:40:00";1770;14262;"Lukas Ferkl";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85772;"2023-08-18 21:40:00";1610;14262;"Jozef Drga";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85773;"2023-08-17 20:32:00";17511;17511;"Narges Payami";"Narges Payami";"استان خراسان رضوی";Iran;36.2848775905;58.8497993954;1390
+85774;"2023-08-18 21:40:00";;14262;"Marketa Ferklova";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85775;"2023-08-18 22:35:00";;14262;"Tomas Vanek";"Jakub Černý";Zachotín;Czechia;49.4623300000;15.3478900000;562
+85776;"2023-08-17 20:47:00";17507;17507;"Sarina Mohammadi";"Sarina Mohammadi";Neyshabour;Iran;36.2848777778;58.8497777778;1390
+85777;"2023-08-14 00:40:00";;426;"Giorgio Rizzarelli";"Lovro Pavletic";Čepno;Slovenia;45.6752335240;14.0835946592;647
+85778;"2023-08-18 22:10:00";17514;17514;"Maria Dal Pian";"Maria Dal Pian";"Montegrotto Terme";Italy;45.3302776005;11.7868304362;11
+85779;"2023-08-19 08:32:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85780;"2023-08-12 22:00:00";12419;12419;"Sven-Erik Enno";"Sven-Erik Enno";Vidrike;Estonia;57.9810549545;26.4987228896;140
+85781;"2023-08-12 20:15:00";7976;7976;"Hendrik Vandenbruaene";"Hendrik Vandenbruaene";Aubenas-les-Alpes;France;43.9313000000;5.6801000000;585
+85782;"2023-08-13 20:10:00";7976;7976;"Hendrik Vandenbruaene";"Hendrik Vandenbruaene";Aubenas-les-Alpes;France;43.9313000000;5.6801000000;585
+85783;"2023-08-14 21:28:00";7976;7976;"Hendrik Vandenbruaene";"Hendrik Vandenbruaene";Aubenas-les-Alpes;France;43.9313000000;5.6801000000;585
+85784;"2023-08-15 21:54:00";7976;7976;"Hendrik Vandenbruaene";"Hendrik Vandenbruaene";Aubenas-les-Alpes;France;43.9313000000;5.6801000000;585
+85785;"2023-08-17 22:28:00";7976;7976;"Hendrik Vandenbruaene";"Hendrik Vandenbruaene";Aubenas-les-Alpes;France;43.9313000000;5.6801000000;585
+85786;"2023-08-20 07:44:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85787;"2023-08-18 20:35:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+85788;"2023-08-18 20:48:00";7322;7322;"Frank Wächter";"Frank Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+85789;"2023-08-19 00:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85790;"2023-08-09 20:48:00";214;214;"Koen Miskotte";"Koen Miskotte";Revest-du-Bion;France;44.0589202752;5.5519996349;895
+85791;"2023-08-10 22:03:00";214;214;"Koen Miskotte";"Koen Miskotte";Revest-du-Bion;France;44.0589202752;5.5519996349;895
+85792;"2023-08-11 22:00:00";214;214;"Koen Miskotte";"Koen Miskotte";Revest-du-Bion;France;44.0589202752;5.5519996349;895
+85793;"2023-08-12 20:00:00";214;214;"Koen Miskotte";"Koen Miskotte";Revest-du-Bion;France;44.0589202752;5.5519996349;895
+85794;"2023-08-18 21:20:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+85795;"2023-08-13 20:15:00";214;214;"Koen Miskotte";"Koen Miskotte";Revest-du-Bion;France;44.0589202752;5.5519996349;895
+85796;"2023-08-18 20:25:00";210;210;"Ina Rendtel";"Ina Rendtel";"Hindenberg, Lübbenau, Brandenburg";Germany;51.8550000000;13.8527777778;70
+85797;"2023-08-14 22:55:00";214;214;"Koen Miskotte";"Koen Miskotte";Revest-du-Bion;France;44.0589202752;5.5519996349;895
+85798;"2023-08-10 20:09:00";13185;13185;" ";" ";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85800;"2023-08-11 20:02:00";13185;13185;" ";" ";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85801;"2023-08-17 22:45:00";214;214;"Koen Miskotte";"Koen Miskotte";Revest-du-Bion;France;44.0589202752;5.5519996349;895
+85802;"2023-08-12 20:10:00";13185;13185;" ";" ";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85803;"2023-08-15 22:47:00";214;214;"Koen Miskotte";"Koen Miskotte";Revest-du-Bion;France;44.0589202752;5.5519996349;895
+85804;"2023-08-13 20:45:00";13185;13185;" ";" ";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85805;"2023-08-14 19:59:00";13185;13185;" ";" ";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85806;"2023-08-19 01:15:00";214;214;"Koen Miskotte";"Koen Miskotte";Revest-du-Bion;France;44.0589202752;5.5519996349;895
+85807;"2023-08-16 22:50:00";13185;13185;" ";" ";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85808;"2023-08-17 22:03:00";13185;13185;" ";" ";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85809;"2023-08-10 20:19:00";17536;17536;"Vratko Kapuš";"Vratko Kapuš";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85810;"2023-08-20 23:12:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+85811;"2023-08-11 20:00:00";17536;17536;"Vratko Kapuš";"Vratko Kapuš";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85812;"2023-08-12 20:21:00";17536;17536;"Vratko Kapuš";"Vratko Kapuš";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85813;"2023-08-11 20:00:00";17537;17537;"Stanislava Šimová";"Stanislava Šimová";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85814;"2023-08-12 20:21:00";17537;17537;"Stanislava Šimová";"Stanislava Šimová";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85815;"2023-08-14 19:59:00";17528;17528;"Jan Istvanik";"Jan Istvanik";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85816;"2023-08-14 21:30:00";17529;17529;"Martina Istvanikova";"Martina Istvanikova";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85817;"2023-08-12 20:30:00";2127;2127;"Pavol Habuda";"Pavol Habuda";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85818;"2023-08-13 20:45:00";2127;2127;"Pavol Habuda";"Pavol Habuda";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85819;"2023-08-14 20:15:00";2127;2127;"Pavol Habuda";"Pavol Habuda";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85820;"2023-08-10 20:30:00";17540;17540;"Marian Kresan";"Marian Kresan";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85821;"2023-08-12 20:10:00";17540;17540;"Marian Kresan";"Marian Kresan";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85822;"2023-08-13 20:45:00";17540;17540;"Marian Kresan";"Marian Kresan";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85823;"2023-08-14 19:59:00";17540;17540;"Marian Kresan";"Marian Kresan";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85824;"2023-08-10 21:24:00";17544;17544;"Nikoleta Martinakova";"Nikoleta Martinakova";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85825;"2023-08-21 08:44:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85826;"2023-08-12 20:10:00";17543;17543;"Ivo Míček";"Ivo Míček";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85827;"2023-08-18 23:40:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85828;"2023-08-19 23:10:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85829;"2023-08-21 23:10:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85830;"2023-08-14 20:20:00";17544;17544;"Nikoleta Martinakova";"Nikoleta Martinakova";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85831;"2023-08-13 20:45:00";;13185;"Radim Volek";" ";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85832;"2023-08-13 19:44:00";1651;1651;"Jaroslaw Dygos";"Jaroslaw Dygos";"Czernice Borowe";Poland;53.0325000000;20.7188888889;150
+85833;"2023-08-14 21:43:00";;13185;"Dan Blaha";" ";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85834;"2023-08-13 21:21:00";17545;17545;"Matúš Tichý";"Matúš Tichý";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85835;"2023-08-11 20:00:00";17546;17546;"Simon Janovec";"Simon Janovec";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85836;"2023-08-14 20:20:00";17546;17546;"Simon Janovec";"Simon Janovec";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85837;"2023-08-16 22:50:00";17546;17546;"Simon Janovec";"Simon Janovec";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85838;"2023-08-17 22:03:00";17546;17546;"Simon Janovec";"Simon Janovec";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85839;"2023-08-10 20:11:00";17547;17547;"Patrik Hrobarik";"Patrik Hrobarik";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85840;"2023-08-12 20:30:00";17547;17547;"Patrik Hrobarik";"Patrik Hrobarik";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85841;"2023-08-13 21:19:00";17547;17547;"Patrik Hrobarik";"Patrik Hrobarik";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85842;"2023-08-14 20:15:00";17547;17547;"Patrik Hrobarik";"Patrik Hrobarik";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85843;"2023-08-17 22:03:00";17547;17547;"Patrik Hrobarik";"Patrik Hrobarik";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85844;"2023-08-11 20:00:00";2127;2127;"Pavol Habuda";"Pavol Habuda";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85845;"2023-08-12 20:21:00";2127;2127;"Pavol Habuda";"Pavol Habuda";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85846;"2023-08-13 20:38:00";2127;2127;"Pavol Habuda";"Pavol Habuda";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85847;"2023-08-14 20:15:00";2127;17548;"Pavol Habuda";"Jaroslav Pastorek";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85848;"2023-08-12 20:21:00";;13185;"Michal Cervenak";" ";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85849;"2023-08-13 20:38:00";;13185;"Michal Cervenak";" ";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85850;"2023-08-12 20:21:00";;13185;"Rosicka Katerina";" ";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85851;"2023-08-20 20:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Hindenberg, Lübbenau, Brandenburg";Germany;51.8550000000;13.8527777778;70
+85852;"2023-08-13 21:05:00";;13185;"Rosicka Katerina";" ";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85853;"2023-08-14 20:15:00";;13185;"Rosicka Katerina";" ";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85854;"2023-08-13 21:22:00";17549;17549;"Adam Martiš";"Adam Martiš";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85855;"2023-08-12 20:21:00";17550;17550;"Peter Martis";"Peter Martis";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85856;"2023-08-22 08:39:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85857;"2023-08-19 21:10:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Roma;Italy;41.9125700000;12.4545700000;40
+85858;"2023-08-13 19:57:00";7779;7779;"Ivaylo Belchev";"Ivaylo Belchev";Ardino;Bulgaria;41.5740497222;25.1800980556;1000
+85860;"2023-08-10 23:10:00";7178;7178;"Václav Kalaš";"Václav Kalaš";Dražeň;Czechia;49.9338900000;13.2755600000;536
+85861;"2023-08-13 21:05:00";17552;17552;"Siebe Van Eemeren";"Siebe Van Eemeren";Daverdisse;Belgium;50.0210635560;5.1167511887;304
+85862;"2023-08-10 23:10:00";6901;7178;"Roman Čečil";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85863;"2023-08-10 23:10:00";;7178;"Vojtěch Janda";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85864;"2023-08-22 23:05:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+85865;"2023-08-11 20:31:00";7762;7762;"Sergey Stariy";"Sergey Stariy";Kiev;Ukraine;50.3918100000;30.5347000000;168
+85866;"2023-08-12 21:36:00";7762;7762;"Sergey Stariy";"Sergey Stariy";Kiev;Ukraine;50.3918100000;30.5347000000;168
+85867;"2023-08-22 20:00:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+85868;"2023-08-13 21:30:00";7762;7762;"Sergey Stariy";"Sergey Stariy";Kiev;Ukraine;50.3918100000;30.5347000000;168
+85869;"2023-08-16 20:09:00";7762;7762;"Sergey Stariy";"Sergey Stariy";Golubichi;Ukraine;51.7430555556;31.1827777778;0
+85870;"2023-08-11 20:32:00";17538;17538;"Marián  Rečičár ";"Marián  Rečičár ";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85871;"2023-08-10 23:10:00";;7178;"Damien Špulák";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85872;"2023-08-11 20:45:00";7178;7178;"Václav Kalaš";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85873;"2023-08-24 00:25:00";7205;7205;"Pierre Bader";"Pierre Bader";Untermaßfeld;Germany;50.5246013326;10.4137914702;325
+85874;"2023-08-14 23:19:00";7431;7431;"Jaroslav Petrisko";"Jaroslav Petrisko";Roztoky;Slovakia;49.3996908769;21.4822221228;435
+85875;"2023-08-13 22:16:00";7431;7431;"Jaroslav Petrisko";"Jaroslav Petrisko";Roztoky;Slovakia;49.3996908769;21.4822221228;435
+85876;"2023-08-14 01:16:00";7431;7431;"Jaroslav Petrisko";"Jaroslav Petrisko";Roztoky;Slovakia;49.3996908769;21.4822221228;435
+85877;"2023-08-19 21:15:00";;426;"Sara Chetta";"Lovro Pavletic";"Friuli-Venezia Giulia";Italy;46.2019717128;13.5410291506;1262
+85878;"2023-08-22 20:20:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+85879;"2023-08-19 21:15:00";;426;"Ivo Polić";"Lovro Pavletic";"Friuli-Venezia Giulia";Italy;46.2019717128;13.5410291506;1262
+85880;"2023-08-19 21:15:00";;426;"Marco Germani";"Lovro Pavletic";"Friuli-Venezia Giulia";Italy;46.2019717128;13.5410291506;1262
+85881;"2023-08-19 21:55:00";;426;"Andrea Verch";"Lovro Pavletic";"Friuli-Venezia Giulia";Italy;46.2019717128;13.5410291506;1262
+85882;"2023-08-12 21:38:00";8466;8466;"Stariy Nicolay";"Stariy Nicolay";Киев;Ukraine;50.3983155912;30.5340859207;152
+85883;"2023-08-11 22:07:00";7431;7431;"Jaroslav Petrisko";"Jaroslav Petrisko";Roztoky;Slovakia;49.3996908769;21.4822221228;435
+85884;"2023-08-24 08:35:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85885;"2023-08-19 01:42:00";185;185;"Richard Taibi";"Richard Taibi";"Marriottsville, Maryland";"United States";39.3198000000;-76.9127000000;162
+85886;"2023-08-08 21:00:00";7332;7332;"Jiri Konecny";"Jiri Konecny";Orebic;Croatia;42.9794444444;17.1941666667;0
+85887;"2023-08-11 21:00:00";6901;7178;"Roman Čečil";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85888;"2023-08-11 20:45:00";7047;7178;"Dita Větrovcová";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85889;"2023-08-12 00:45:00";;7178;"Hana Rottenbornová";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85890;"2023-08-11 20:45:00";;7178;"Vojtěch Janda";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85891;"2023-08-11 20:47:00";;7178;"Josef Doležal";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85892;"2023-08-11 20:45:00";;7178;"Damien Špulák";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85893;"2023-08-23 23:10:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+85894;"2023-08-09 21:00:00";211;211;"Michel Vandeputte";"Michel Vandeputte";"Revest du Bion";France;44.0588888889;5.5519444444;895
+85895;"2023-08-10 22:00:00";211;211;"Michel Vandeputte";"Michel Vandeputte";"Revest du Bion";France;44.0588888889;5.5519444444;895
+85896;"2023-08-11 22:00:00";211;211;"Michel Vandeputte";"Michel Vandeputte";"Revest du Bion";France;44.0588888889;5.5519444444;895
+85897;"2023-08-10 21:00:00";7332;7332;"Jiri Konecny";"Jiri Konecny";Orebic;Croatia;42.9794444444;17.1941666667;0
+85898;"2023-08-12 20:15:00";211;211;"Michel Vandeputte";"Michel Vandeputte";"Revest du Bion";France;44.0588888889;5.5519444444;895
+85899;"2023-08-10 21:00:00";7332;7332;"Jiri Konecny";"Jiri Konecny";Orebic;Croatia;42.9794444444;17.1941666667;0
+85900;"2023-08-11 21:00:00";7332;7332;"Jiri Konecny";"Jiri Konecny";Orebic;Croatia;42.9794444444;17.1941666667;0
+85901;"2023-08-13 20:15:00";211;211;"Michel Vandeputte";"Michel Vandeputte";"Revest du Bion";France;44.0588888889;5.5519444444;895
+85902;"2023-08-14 22:15:00";211;211;"Michel Vandeputte";"Michel Vandeputte";"Revest du Bion";France;44.0588888889;5.5519444444;895
+85903;"2023-08-16 00:15:00";211;211;"Michel Vandeputte";"Michel Vandeputte";"Revest du Bion";France;44.0588888889;5.5519444444;895
+85904;"2023-08-17 23:45:00";211;211;"Michel Vandeputte";"Michel Vandeputte";"Revest du Bion";France;44.0588888889;5.5519444444;895
+85905;"2023-08-19 01:15:00";211;211;"Michel Vandeputte";"Michel Vandeputte";"Revest du Bion";France;44.0588888889;5.5519444444;895
+85906;"2023-08-11 22:48:00";7574;7574;"Gerardo Jiménez López";"Gerardo Jiménez López";"Duruelo, Avila";Spain;40.6600000000;-4.8050000000;1282
+85907;"2023-08-25 08:03:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85908;"2023-08-13 01:22:00";7574;7574;"Gerardo Jiménez López";"Gerardo Jiménez López";Ávila;Spain;40.6567348525;-4.7071187391;1081
+85909;"2023-08-12 21:00:00";7332;7332;"Jiri Konecny";"Jiri Konecny";Podaca;Croatia;43.1236900000;17.3034100000;35
+85910;"2023-08-12 20:30:00";17538;17538;"Marián  Rečičár ";"Marián  Rečičár ";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85911;"2023-08-08 21:00:00";8897;8897;"Marcela Vaclavikova";"Marcela Vaclavikova";Orebic;Croatia;42.9794444444;17.1941666667;11
+85912;"2023-08-10 21:00:00";8897;8897;"Marcela Vaclavikova";"Marcela Vaclavikova";Orebic;Croatia;42.9794444444;17.1941666667;11
+85913;"2023-08-11 20:00:00";8897;8897;"Marcela Vaclavikova";"Marcela Vaclavikova";Orebic;Croatia;42.9794444444;17.1941666667;11
+85914;"2023-08-12 21:00:00";8897;8897;"Marcela Vaclavikova";"Marcela Vaclavikova";Orebic;Croatia;42.9794444444;17.1941666667;11
+85915;"2023-08-22 23:10:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85916;"2023-08-23 23:10:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85917;"2023-08-24 23:55:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+85918;"2023-08-25 21:40:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85919;"2023-07-29 23:05:00";13396;13396;"Pedro Pérez";"Pedro Pérez";Canarias;Spain;27.9983986828;-15.5548989840;1131
+85920;"2023-08-12 01:10:00";13396;13396;"Pedro Pérez";"Pedro Pérez";Canarias;Spain;27.9983986828;-15.5548989840;1131
+85921;"2023-08-13 00:25:00";13396;13396;"Pedro Pérez";"Pedro Pérez";Canarias;Spain;27.9983986828;-15.5548989840;1131
+85922;"2023-08-13 03:20:00";13396;13396;"Pedro Pérez";"Pedro Pérez";Canarias;Spain;27.9983986828;-15.5548989840;1131
+85923;"2023-08-17 23:20:00";13396;13396;"Pedro Pérez";"Pedro Pérez";Canarias;Spain;27.9983986828;-15.5548989840;1131
+85924;"2023-08-26 08:20:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85925;"2023-08-11 20:25:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Kreta;Greece;35.1055379138;24.5613859583;90
+85926;"2023-08-26 23:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85927;"2023-08-11 23:30:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Kreta;Greece;35.1055379138;24.5613859583;90
+85928;"2023-08-12 20:30:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Kreta;Greece;35.1055379138;24.5613859583;90
+85929;"2023-08-12 21:30:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Kreta;Greece;35.1055379138;24.5613859583;90
+85930;"2023-08-12 22:30:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Kreta;Greece;35.1055379138;24.5613859583;90
+85931;"2023-08-12 23:35:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Kreta;Greece;35.1055379138;24.5613859583;90
+85932;"2023-08-13 00:45:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Kreta;Greece;35.1055379138;24.5613859583;90
+85933;"2023-08-13 20:25:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Kreta;Greece;35.1055379138;24.5613859583;90
+85934;"2023-08-13 21:25:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Kreta;Greece;35.1055379138;24.5613859583;90
+85935;"2023-08-13 22:30:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Kreta;Greece;35.1055379138;24.5613859583;90
+85936;"2023-08-13 23:30:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Kreta;Greece;35.1055379138;24.5613859583;90
+85937;"2023-08-14 00:40:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Kreta;Greece;35.1055379138;24.5613859583;90
+85938;"2023-08-14 21:20:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1361111111;11.4647222222;506
+85939;"2023-08-18 20:35:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1361111111;11.4647222222;506
+85940;"2023-08-08 21:00:00";12947;12947;"Drahomira Navratilova";"Drahomira Navratilova";Orebić;Croatia;42.9757700000;17.1778600000;14
+85941;"2023-08-10 21:00:00";12947;12947;"Drahomira Navratilova";"Drahomira Navratilova";Stankovići;Croatia;42.9796324166;17.1945770214;9
+85942;"2023-08-14 20:17:00";17538;17538;"Marián  Rečičár ";"Marián  Rečičár ";Hostina;Slovakia;49.1758333333;18.3413888889;480
+85943;"2023-08-11 20:00:00";12947;12947;"Drahomira Navratilova";"Drahomira Navratilova";Stankovići;Croatia;42.9796324166;17.1945770214;9
+85944;"2023-08-10 20:09:00";17560;17560;"Adrián Rečičár";"Adrián Rečičár";Hoštiná;Slovakia;49.1758333333;18.3413888889;280
+85945;"2023-08-11 20:26:00";17560;17560;"Adrián Rečičár";"Adrián Rečičár";Hoštiná;Slovakia;49.1758333333;18.3413888889;280
+85946;"2023-08-12 20:30:00";17560;17560;"Adrián Rečičár";"Adrián Rečičár";Hoštiná;Slovakia;49.1758333333;18.3413888889;280
+85947;"2023-08-14 20:20:00";17560;17560;"Adrián Rečičár";"Adrián Rečičár";Hoštiná;Slovakia;49.1758333333;18.3413888889;280
+85948;"2023-08-12 00:25:00";2293;7178;"Lumír Honzík";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85949;"2023-08-08 21:00:00";12986;12986;"Josef Pěček";"Josef Pěček";Orebič;Croatia;42.9794416667;17.1941666667;0
+85950;"2023-08-12 00:25:00";;7178;"Michal Polák";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85951;"2023-08-28 01:10:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+85952;"2023-08-12 00:25:00";6893;7178;"Ondřej Trnka";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85953;"2023-08-19 19:30:00";7581;7581;"Kolyo Dankov";"Kolyo Dankov";"Sofia Province";Bulgaria;42.1748918417;23.3293939504;2376
+85954;"2023-08-14 00:50:00";7581;7581;"Kolyo Dankov";"Kolyo Dankov";"Blagoevgrad Province";Bulgaria;41.7082435386;23.4913658998;2420
+85955;"2023-08-27 23:56:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2897578145;5.6123875482;16
+85956;"2023-08-23 20:15:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+85957;"2023-08-14 21:00:00";1651;1651;"Jaroslaw Dygos";"Jaroslaw Dygos";"Czernice Borowe";Poland;53.0325000000;20.7188888889;150
+85958;"2023-08-15 20:02:00";1651;1651;"Jaroslaw Dygos";"Jaroslaw Dygos";"Czernice Borowe";Poland;53.0325000000;20.7188888889;150
+85959;"2023-08-19 21:41:00";1651;1651;"Jaroslaw Dygos";"Jaroslaw Dygos";"Czernice Borowe";Poland;53.0325000000;20.7188888889;150
+85960;"2023-08-13 22:30:00";3583;7178;"Jan Mocek";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85961;"2023-08-13 22:30:00";832;7178;"Michal Bareš";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85962;"2023-08-13 22:30:00";6893;7178;"Ondřej Trnka";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85963;"2023-08-13 22:46:00";;7178;"Matěj Mocek";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85964;"2023-08-10 21:00:00";12829;12829;"Vera Peckova";"Vera Peckova";Stankovići;Croatia;42.9865000000;17.1933300000;75
+85965;"2023-08-11 20:00:00";12829;12829;"Vera Peckova";"Vera Peckova";Stankovići;Croatia;42.9865000000;17.1933300000;75
+85966;"2023-08-29 09:45:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+85967;"2023-08-13 22:37:00";;7178;"Jiří Valachovič";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85968;"2023-08-14 20:30:00";7178;7178;"Václav Kalaš";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85969;"2023-08-14 20:55:00";6901;7178;"Roman Čečil";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85970;"2023-08-08 21:00:00";11542;11542;"Martina Vyhnálková";"Martina Vyhnálková";Orebič;Croatia;42.9795862073;17.1944075652;10
+85971;"2023-08-10 21:00:00";11542;11542;"Martina Vyhnálková";"Martina Vyhnálková";Orebič;Croatia;42.9795862073;17.1944075652;10
+85972;"2023-08-08 21:00:00";11541;11541;"Martin Vyhnalek";"Martin Vyhnalek";Orebič;Croatia;42.9796838013;17.1945148536;10
+85973;"2023-08-14 20:30:00";7047;7178;"Dita Větrovcová";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85985;"2023-08-23 23:44:00";14393;14393;"Miloslav Macháček";"Miloslav Macháček";"Říčky v Orlických horách";Czechia;50.2294400000;16.4910300000;929
+85986;"2023-08-11 23:18:00";17467;17467;"johanna Arguelles";"johanna Arguelles";Mouffy;France;47.6520267501;3.5154315454;235
+85987;"2023-08-14 20:30:00";;7178;"Vojtěch Janda";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85988;"2023-08-14 20:30:00";;7178;"Damien Špulák";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85989;"2023-08-14 21:40:00";2293;7178;"Lumír Honzík";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85990;"2023-08-14 21:40:00";;7178;"Michal Kostohryz";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85991;"2023-08-14 21:40:00";;7178;"Kryštof Soukup";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85992;"2023-08-14 21:40:00";;7178;"Jakub Garay";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85993;"2023-08-14 21:40:00";;7178;"Erik Vilhelm";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85994;"2023-08-14 21:40:00";;7178;"David Prušinovský";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85995;"2023-08-16 23:05:00";2293;7178;"Lumír Honzík";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85996;"2023-08-16 23:05:00";3583;7178;"Jan Mocek";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+85998;"2023-08-08 21:00:00";14382;14382;"Marie Dostálová";"Marie Dostálová";Orebić;Croatia;42.9757700000;17.1778600000;14
+85999;"2023-08-10 21:00:00";14382;14382;"Marie Dostálová";"Marie Dostálová";Orebić;Croatia;42.9757700000;17.1778600000;14
+86000;"2023-08-11 21:00:00";14382;14382;"Marie Dostálová";"Marie Dostálová";Orebić;Croatia;42.9757700000;17.1778600000;14
+86001;"2023-08-16 23:05:00";;7178;"Michal Kostohryz";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+86002;"2023-08-12 21:10:00";14382;14382;"Marie Dostálová";"Marie Dostálová";Orebić;Croatia;42.9757700000;17.1778600000;14
+86003;"2023-08-16 23:05:00";;7178;"Kryštof Soukup";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+86004;"2023-08-16 23:05:00";;7178;"David Prušinovský";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+86005;"2023-08-14 20:35:00";3583;7178;"Jan Mocek";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+86006;"2023-08-15 01:00:00";;7178;"Michal Polák";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+86007;"2023-08-11 22:05:00";14288;14288;"Janko Vasilijević";"Janko Vasilijević";"Ovčinja - Bajina Bašta";Serbia;44.0947222222;19.6555555556;1150
+86008;"2023-08-14 20:35:00";;7178;"Hana Rottenbornová";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+86009;"2023-08-14 20:42:00";;7178;"Matěj Mocek";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+86010;"2023-08-12 20:20:00";14288;14288;"Janko Vasilijević";"Janko Vasilijević";"Ovčinja - Bajina Bašta";Serbia;44.0947222222;19.6555555556;1150
+86011;"2023-08-13 20:55:00";14288;14288;"Janko Vasilijević";"Janko Vasilijević";"Ovčinja - Bajina Bašta";Serbia;44.0947222222;19.6555555556;1150
+86012;"2023-08-14 20:35:00";6887;7178;"David Prudek";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+86013;"2023-09-04 19:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Marquardt Schlänitzsee";Germany;52.4527500000;12.9577777778;30
+86014;"2023-08-14 21:30:00";;7178;"Jiří Valachovič";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+86015;"2023-08-12 21:26:00";17587;17587;"Volodymyr Vitchenko";"Volodymyr Vitchenko";Київ;Ukraine;50.3983295900;30.5341023011;152
+86016;"2023-09-05 19:15:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+86017;"2023-08-18 20:30:00";7178;7178;"Václav Kalaš";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+86018;"2023-08-18 20:30:00";6901;7178;"Roman Čečil";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+86019;"2023-08-18 20:30:00";7047;7178;"Dita Větrovcová";"Václav Kalaš";Bažantnice;Czechia;49.9338900000;13.2755600000;536
+86020;"2023-09-05 19:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+86021;"2023-09-06 19:15:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+86022;"2023-09-06 19:40:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+86023;"2023-09-07 19:30:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+86024;"2023-09-07 19:45:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+86025;"2023-09-08 04:43:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+86026;"2023-09-08 19:35:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+86027;"2023-09-09 04:48:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+86028;"2023-09-09 19:45:00";7205;7205;"Pierre Bader";"Pierre Bader";Untermaßfeld;Germany;50.5246013326;10.4137914702;325
+86029;"2023-09-07 19:50:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2897578145;5.6123875482;16
+86030;"2023-09-09 21:30:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2897578145;5.6123875482;16
+86031;"2023-08-19 21:30:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697900000;14.1350200000;811
+86032;"2023-09-10 05:41:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+86033;"2023-09-09 19:55:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+86034;"2023-09-09 21:49:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697921949;14.1350226225;811
+86035;"2023-08-08 20:00:00";;7838;"Matvey Dubishkin";"Dmitry Dubishkin";Терсефану;Cyprus;34.8481141970;33.5488119439;34
+86036;"2023-08-11 20:00:00";;7838;"Matvey Dubishkin";"Dmitry Dubishkin";Терсефану;Cyprus;34.8480815228;33.5495146826;34
+86037;"2023-08-13 20:28:00";;7838;"Matvey Dubishkin";"Dmitry Dubishkin";Пирга;Cyprus;34.9045083490;33.4843393704;168
+86038;"2023-08-16 20:18:00";;7838;"Matvey Dubishkin";"Dmitry Dubishkin";Пирга;Cyprus;34.9045083490;33.4843393704;168
+86039;"2023-09-06 20:05:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+86040;"2023-09-08 20:00:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+86041;"2023-09-10 19:25:00";7205;7205;"Pierre Bader";"Pierre Bader";Untermaßfeld;Germany;50.5246013326;10.4137914702;325
+86042;"2023-09-08 21:50:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+86043;"2023-09-09 22:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+86044;"2023-09-10 23:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+86045;"2023-09-10 22:24:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2897578145;5.6123875482;16
+86046;"2023-09-09 19:55:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1361111111;11.4647222222;497
+86047;"2023-09-10 19:30:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+86048;"2023-09-11 23:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+86049;"2023-09-10 11:45:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Marulan;Australia;-34.7502512004;149.9752137469;664
+86050;"2023-09-11 19:30:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+86051;"2023-09-11 23:45:00";7205;7205;"Pierre Bader";"Pierre Bader";Untermaßfeld;Germany;50.5246013326;10.4137914702;325
+86052;"2023-09-06 20:15:00";210;210;"Ina Rendtel";"Ina Rendtel";"Flatruet, Jämtslands Län";Sweden;62.7402777778;12.7422222222;978
+86053;"2023-09-09 19:55:00";210;210;"Ina Rendtel";"Ina Rendtel";"Sorsele, Västerbottens Län";Sweden;65.5505555556;17.6786111111;459
+86054;"2023-08-08 21:00:00";8365;8365;"Mikulas Lazar";"Mikulas Lazar";Orebic;Croatia;42.9794444444;17.9794444444;0
+86055;"2023-08-10 21:00:00";8365;8365;"Mikulas Lazar";"Mikulas Lazar";Orebic;Croatia;42.9794444444;17.9794444444;0
+86056;"2023-08-11 21:00:00";8365;8365;"Mikulas Lazar";"Mikulas Lazar";Orebic;Croatia;42.9794444444;17.9794444444;0
+86057;"2023-08-12 21:00:00";8365;8365;"Mikulas Lazar";"Mikulas Lazar";Podaca;Croatia;43.1236900000;17.3034100000;35
+86058;"2023-09-14 01:50:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+86059;"2023-08-12 21:00:00";7435;7435;"Arash Nabizadeh Haghighi";"Arash Nabizadeh Haghighi";"Niyarak, Qazvin";Iran;36.5169384632;49.4107235216;1173
+86060;"2023-08-08 21:00:00";11438;11438;"Robert Liska";"Robert Liska";Orebic;Croatia;42.9794444444;17.1941666667;0
+86061;"2023-09-14 23:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+86062;"2023-09-15 19:53:00";11836;11836;"Matthias Growe";"Matthias Growe";Schwarzenbek;Germany;53.5000000000;10.4833333333;50
+86063;"2023-08-19 06:20:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+86064;"2023-09-15 19:32:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Salzwedel;Germany;52.8503400000;11.1646700000;21
+86065;"2023-06-17 23:30:00";135;135;"Orlando Benítez Sánchez";"Orlando Benítez Sánchez";"Llanos del Garañón, Gran Canaria";Spain;27.9688888889;-15.5888888889;1670
+86066;"2023-08-13 01:05:00";135;135;"Orlando Benítez Sánchez";"Orlando Benítez Sánchez";"Noalla, Pontevedra";Spain;42.4246666667;-8.8567500000;75
+86067;"2023-08-14 00:02:00";135;135;"Orlando Benítez Sánchez";"Orlando Benítez Sánchez";"Noalla, Pontevedra";Spain;42.4246666667;-8.8567500000;75
+86068;"2023-08-15 22:50:00";135;135;"Orlando Benítez Sánchez";"Orlando Benítez Sánchez";"Noalla, Pontevedra";Spain;42.4246666667;-8.8567500000;75
+86069;"2023-08-16 23:02:00";135;135;"Orlando Benítez Sánchez";"Orlando Benítez Sánchez";"Noalla, Pontevedra";Spain;42.4246666667;-8.8567500000;75
+86070;"2023-06-17 23:30:00";135;135;"Orlando Benítez Sánchez";"Orlando Benítez Sánchez";"Noalla, Pontevedra";Spain;42.4246666667;-8.8567500000;75
+86071;"2023-08-20 22:55:00";135;135;"Orlando Benítez Sánchez";"Orlando Benítez Sánchez";"Noalla, Pontevedra";Spain;42.4246666667;-8.8567500000;75
+86072;"2023-09-15 22:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+86073;"2023-09-16 23:50:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+86074;"2023-09-15 20:30:00";366;366;"Stefan Schmeissner";"Stefan Schmeissner";Kulmbach;Germany;50.1361111111;11.4513888889;506
+86075;"2023-09-16 06:00:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+86076;"2023-08-17 06:20:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+86077;"2023-08-13 06:25:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+86079;"2023-09-15 22:15:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+86080;"2023-09-15 22:30:00";7205;7205;"Pierre Bader";"Pierre Bader";Untermaßfeld;Germany;50.5246013326;10.4137914702;325
+86081;"2023-09-14 23:54:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2897578145;5.6123875482;16
+86082;"2023-09-15 23:40:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2897578145;5.6123875482;16
+86083;"2023-09-18 01:42:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+86084;"2023-08-12 05:10:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+86085;"2023-08-10 21:00:00";11438;11438;"Robert Liska";"Robert Liska";Orebic;Croatia;42.9794444444;17.1941666667;0
+86086;"2023-08-11 21:00:00";11438;11438;"Robert Liska";"Robert Liska";Orebic;Croatia;42.9794444444;17.1941666667;0
+86087;"2023-08-12 20:00:00";11438;11438;"Robert Liska";"Robert Liska";Orebic;Croatia;42.9794444444;17.1941666667;0
+86088;"2023-09-15 01:15:00";138;138;"Tim Cooper";"Tim Cooper";BALTIMORE;"South Africa";-23.3087222222;28.4985000000;995
+86089;"2023-09-16 00:30:00";138;138;"Tim Cooper";"Tim Cooper";BALTIMORE;"South Africa";-23.3087222222;28.4985000000;995
+86090;"2023-09-17 01:00:00";138;138;"Tim Cooper";"Tim Cooper";BALTIMORE;"South Africa";-23.3087222222;28.4985000000;995
+86091;"2023-09-18 01:00:00";138;138;"Tim Cooper";"Tim Cooper";BALTIMORE;"South Africa";-23.3087222222;28.4985000000;995
+86092;"2023-09-15 01:12:00";4932;138;"Magda Streicher";"Tim Cooper";BALTIMORE;"South Africa";-23.3087222222;28.4985000000;995
+86093;"2023-09-16 00:30:00";4932;138;"Magda Streicher";"Tim Cooper";BALTIMORE;"South Africa";-23.3087222222;28.4985000000;995
+86094;"2023-09-17 01:00:00";4932;138;"Magda Streicher";"Tim Cooper";BALTIMORE;"South Africa";-23.3087222222;28.4985000000;995
+86095;"2023-09-18 01:00:00";4932;138;"Magda Streicher";"Tim Cooper";BALTIMORE;"South Africa";-23.3087222222;28.4985000000;995
+86096;"2023-09-19 06:20:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+86097;"2023-08-14 21:00:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;228
+86098;"2023-08-16 00:46:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;228
+86099;"2023-08-16 19:52:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;228
+86100;"2023-08-17 20:11:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86101;"2023-08-21 19:19:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86102;"2023-09-23 23:45:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+86103;"2023-09-23 22:25:00";7205;7205;"Pierre Bader";"Pierre Bader";Untermaßfeld;Germany;50.5246013326;10.4137914702;325
+86104;"2023-09-24 23:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Töplitz;Germany;52.4475000000;12.9211111111;41
+86105;"2023-09-24 00:40:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2897578145;5.6123875482;16
+86106;"2023-09-10 19:55:00";210;210;"Ina Rendtel";"Ina Rendtel";"Arjeplog, Norrbottens län";Sweden;66.2388888889;17.9708333333;489
+86107;"2023-09-12 22:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Jokkmokk, Norrbottens län ";Sweden;66.2208333333;19.9352777778;427
+86108;"2023-09-13 21:10:00";210;210;"Ina Rendtel";"Ina Rendtel";"Kaaresuvanto, Finnisch-Lappland";Finland;68.4341666667;22.7727777778;329
+86109;"2023-09-14 21:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Olderfjord, Finnmark";Norway;70.4761111111;24.8555555556;194
+86110;"2023-09-15 23:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Nordkap, Magerøya, Finnmark ";Norway;71.1688888889;25.7791666667;303
+86111;"2023-09-24 19:50:00";210;210;"Ina Rendtel";"Ina Rendtel";"N Sunderbyn, Norrbottens län ";Sweden;65.6797222222;21.8322222222;1
+86112;"2023-09-25 19:50:00";210;210;"Ina Rendtel";"Ina Rendtel";"Hemmingsmark, Norrbottens län ";Sweden;65.2319444444;21.2938888889;51
+86113;"2023-08-23 20:39:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86114;"2023-09-27 01:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+86115;"2023-08-08 21:00:00";7609;7609;"Julie Dostalova";"Julie Dostalova";Orebic;Croatia;42.9794444444;17.1941666667;11
+86116;"2023-08-10 21:00:00";7609;7609;"Julie Dostalova";"Julie Dostalova";Orebic;Croatia;42.9794444444;17.1941666667;11
+86117;"2023-08-27 20:19:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86118;"2023-08-11 21:00:00";7609;7609;"Julie Dostalova";"Julie Dostalova";Orebic;Croatia;42.9794444444;17.1941666667;11
+86119;"2023-09-04 18:57:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86120;"2023-09-05 18:35:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86121;"2023-09-06 18:41:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86122;"2023-10-03 08:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Fox Glacier";"New Zealand";-43.4522222222;169.9141666667;54
+86123;"2023-09-07 18:57:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86124;"2023-09-09 18:44:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86125;"2023-09-10 19:04:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86126;"2023-08-08 21:00:00";13917;13917;"Klára Horáková";"Klára Horáková";"Dubrovnicko-neretvanská župa";Croatia;42.9793723167;17.1941795774;10
+86127;"2023-08-08 21:00:00";17304;17304;"Jakub Sabela";"Jakub Sabela";Orebić;Croatia;42.9757700000;17.1778600000;14
+86128;"2023-08-08 21:00:00";8337;8337;"Lukas Krejzlik";"Lukas Krejzlik";Orebić;Croatia;42.9757700000;17.1778600000;14
+86129;"2023-08-08 20:45:00";8338;8338;"Anna Wrnatova";"Anna Wrnatova";Orebic;Croatia;42.9794444444;17.1941666667;0
+86130;"2023-08-08 20:45:00";8343;8343;"František Šesták";"František Šesták";Stankovići;Croatia;42.9794939793;17.1943673321;10
+86131;"2023-08-08 20:45:00";7613;7613;"Katerina Krumpholcova";"Katerina Krumpholcova";Orebić;Croatia;42.9796250000;17.1943555556;0
+86132;"2023-08-08 20:45:00";12986;12986;"Josef Pěček";"Josef Pěček";Orebič;Croatia;42.9794416667;17.1941666667;0
+86133;"2023-09-11 18:30:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86134;"2023-10-07 08:15:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Pākawau;"New Zealand";-40.5637339602;172.7045021235;0
+86135;"2023-08-10 20:00:00";13917;13917;"Klára Horáková";"Klára Horáková";"Dubrovnicko-neretvanská župa";Croatia;42.9793723167;17.1941795774;10
+86136;"2023-08-10 20:00:00";17304;17304;"Jakub Sabela";"Jakub Sabela";Orebić;Croatia;42.9757700000;17.1778600000;14
+86137;"2023-08-10 20:00:00";8337;8337;"Lukas Krejzlik";"Lukas Krejzlik";Orebić;Croatia;42.9757700000;17.1778600000;14
+86138;"2023-08-10 20:00:00";8338;8338;"Anna Wrnatova";"Anna Wrnatova";Orebic;Croatia;42.9794444444;17.1941666667;0
+86139;"2023-08-10 20:00:00";8343;8343;"František Šesták";"František Šesták";Stankovići;Croatia;42.9794939793;17.1943673321;10
+86140;"2023-08-10 20:00:00";7613;7613;"Katerina Krumpholcova";"Katerina Krumpholcova";Orebić;Croatia;42.9796250000;17.1943555556;0
+86141;"2023-08-10 20:00:00";12986;12986;"Josef Pěček";"Josef Pěček";Orebič;Croatia;42.9794416667;17.1941666667;0
+86142;"2023-09-12 18:34:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86143;"2023-09-13 18:27:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86144;"2023-09-15 18:26:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86145;"2023-08-09 22:30:00";115;115;"Thomas Weiland";"Thomas Weiland";Atzelsdorf;Austria;48.5083333333;16.5530555556;220
+86146;"2023-08-10 21:50:00";115;115;"Thomas Weiland";"Thomas Weiland";Atzelsdorf;Austria;48.5083333333;16.5530555556;220
+86147;"2023-08-11 21:00:00";115;115;"Thomas Weiland";"Thomas Weiland";Atzelsdorf;Austria;48.5083333333;16.5530555556;220
+86148;"2023-10-09 08:05:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Hanmer Springs";"New Zealand";-42.5777000000;172.7865800000;282
+86149;"2023-10-09 16:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Hanmer Springs";"New Zealand";-42.5777000000;172.7865800000;282
+86150;"2023-09-17 18:20:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86151;"2023-10-11 08:10:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Kaikōura;"New Zealand";-42.4117132084;173.6807590731;44
+86152;"2023-10-11 23:43:00";7706;7706;"Oliver Wusk";"Oliver Wusk";"Agios Gordios";Greece;39.5422019178;19.8508536177;18
+86153;"2023-09-18 18:33:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86154;"2023-09-20 18:52:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86155;"2023-09-21 18:00:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86156;"2023-08-12 21:00:00";115;115;"Thomas Weiland";"Thomas Weiland";Wallern;Austria;47.7041666667;16.9661111111;120
+86157;"2023-10-12 23:45:00";7706;7706;"Oliver Wusk";"Oliver Wusk";"Agios Gordios";Greece;39.5422019178;19.8508536177;18
+86158;"2023-10-12 08:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Rai Valley";"New Zealand";-41.2168300000;173.5978900000;30
+86159;"2023-10-07 19:00:00";210;210;"Ina Rendtel";"Ina Rendtel";"Norra Sonderbyn, Norrbottons län";Sweden;65.6797222222;21.8322222222;2
+86160;"2023-10-08 19:50:00";210;210;"Ina Rendtel";"Ina Rendtel";"Norra Sonderbyn, Norrbottons län";Sweden;65.6797222222;21.8322222222;2
+86161;"2023-10-09 18:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Hemmingsmark, Norrbottens län ";Sweden;65.2319444444;21.2938888889;51
+86162;"2023-10-11 19:45:00";210;210;"Ina Rendtel";"Ina Rendtel";"Karlstad, Värmlands län";Sweden;59.3755555556;13.3994444444;40
+86163;"2023-10-12 23:30:00";210;210;"Ina Rendtel";"Ina Rendtel";"Höllviken, Skåne";Sweden;55.3994444444;12.9463888889;1
+86164;"2023-10-14 22:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+86165;"2023-08-13 20:45:00";115;115;"Thomas Weiland";"Thomas Weiland";Kemenesszentpéter;Hungary;47.4258333333;17.2041666667;135
+86166;"2023-08-11 20:45:00";13917;13917;"Klára Horáková";"Klára Horáková";"Dubrovnicko-neretvanská župa";Croatia;42.9793723167;17.1941795774;10
+86167;"2023-08-11 20:45:00";17304;17304;"Jakub Sabela";"Jakub Sabela";Orebić;Croatia;42.9757700000;17.1778600000;14
+86168;"2023-08-11 20:45:00";8337;8337;"Lukas Krejzlik";"Lukas Krejzlik";Orebić;Croatia;42.9757700000;17.1778600000;14
+86169;"2023-08-11 20:45:00";8337;8337;"Lukas Krejzlik";"Lukas Krejzlik";Orebić;Croatia;42.9757700000;17.1778600000;14
+86170;"2023-08-11 20:45:00";8338;8338;"Anna Wrnatova";"Anna Wrnatova";Orebic;Croatia;42.9794444444;17.1941666667;0
+86171;"2023-08-11 20:45:00";8343;8343;"František Šesták";"František Šesták";Stankovići;Croatia;42.9794939793;17.1943673321;10
+86172;"2023-08-11 20:45:00";7613;7613;"Katerina Krumpholcova";"Katerina Krumpholcova";Orebić;Croatia;42.9796250000;17.1943555556;0
+86173;"2023-08-11 20:45:00";17648;17648;"Matyas Mikula";"Matyas Mikula";Stankovići;Croatia;42.9795685466;17.1945443579;9
+86174;"2023-08-08 21:00:00";17648;17648;"Matyas Mikula";"Matyas Mikula";Stankovići;Croatia;42.9795685466;17.1945443579;9
+86175;"2023-08-10 20:00:00";17648;17648;"Matyas Mikula";"Matyas Mikula";Stankovići;Croatia;42.9795685466;17.1945443579;9
+86176;"2023-10-14 05:40:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+86177;"2023-10-15 05:35:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+86178;"2023-08-08 20:45:00";8420;8420;"Ivana Liskova";"Ivana Liskova";Orebic;Croatia;42.9794444444;17.1941666667;0
+86179;"2023-08-10 20:00:00";8420;8420;"Ivana Liskova";"Ivana Liskova";Orebic;Croatia;42.9794444444;17.1941666667;0
+86180;"2023-08-11 20:45:00";8420;8420;"Ivana Liskova";"Ivana Liskova";Orebic;Croatia;42.9794444444;17.1941666667;0
+86181;"2023-08-12 20:00:00";8420;8420;"Ivana Liskova";"Ivana Liskova";Orebic;Croatia;42.9794444444;17.1941666667;0
+86182;"2023-08-14 21:00:00";115;115;"Thomas Weiland";"Thomas Weiland";Atzelsdorf;Austria;48.5083333333;16.5530555556;220
+86183;"2023-08-16 21:50:00";115;115;"Thomas Weiland";"Thomas Weiland";Atzelsdorf;Austria;48.5083333333;16.5530555556;220
+86184;"2023-10-15 08:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Castlepoint Lighthouse";"New Zealand";-40.9033500000;176.2266000000;1
+86185;"2023-10-16 00:25:00";474;474;"Kai  Gaarder";"Kai  Gaarder";Innlandet;Norway;60.3239429899;10.6434894119;452
+86186;"2023-10-13 23:04:00";7131;7131;"Steve Brown";"Steve Brown";Middlesbrough;"United Kingdom";54.4019444444;-0.9275000000;414
+86187;"2023-10-15 00:00:00";7706;7706;"Oliver Wusk";"Oliver Wusk";"Agios Gordios";Greece;39.5422019178;19.8508536177;18
+86188;"2023-10-15 23:30:00";7706;7706;"Oliver Wusk";"Oliver Wusk";"Agios Gordios";Greece;39.5422019178;19.8508536177;18
+86189;"2023-10-15 23:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+86193;"2023-10-16 22:58:00";7131;7131;"Steve Brown";"Steve Brown";Stokesley;"United Kingdom";54.4738900000;-1.1836100000;70
+86195;"2023-10-17 22:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+86196;"2023-10-18 00:00:00";7706;7706;"Oliver Wusk";"Oliver Wusk";"Agios Gordios";Greece;39.5422019178;19.8508536177;18
+86200;"2023-10-18 08:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Makorori;"New Zealand";-38.6577284836;178.1109641565;5
+86201;"2023-10-14 21:05:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+86202;"2023-10-15 20:55:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+86203;"2023-10-15 20:15:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+86204;"2023-10-17 20:10:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+86207;"2023-10-19 14:30:00";7344;7344;"John Drummond";"John Drummond";Gisborne;"New Zealand";-38.6299000000;177.8833111111;12
+86208;"2023-10-19 15:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Tirohanga;"New Zealand";-37.9904047423;177.3127561363;2
+86243;"2023-10-16 06:19:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+86244;"2023-10-17 05:45:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+86245;"2023-10-18 07:38:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+86246;"2023-10-21 00:38:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+86247;"2023-10-19 06:43:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+86248;"2023-10-19 09:36:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+86249;"2023-10-20 06:00:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+86250;"2023-10-20 09:30:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+86251;"2023-10-21 09:30:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;292
+86252;"2023-10-21 05:54:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+86253;"2023-10-19 06:45:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+86254;"2023-10-22 00:01:00";44;44;"Ulrich Sperberg";"Ulrich Sperberg";Salzwedel;Germany;52.8503400000;11.1646700000;21
+86255;"2023-10-20 08:30:00";8035;8035;"Wesley Stone";"Wesley Stone";Oregon;"United States";42.0090625966;-121.1161752366;1380
+86256;"2023-10-21 10:55:00";8035;8035;"Wesley Stone";"Wesley Stone";Oregon;"United States";42.3868929823;-121.8115421618;1394
+86257;"2023-10-22 09:24:00";399;399;"Howard Edin";"Howard Edin";Eudora;"United States";38.8191666667;-95.0925000000;303
+86258;"2023-10-23 00:53:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2897578145;5.6123875482;16
+86259;"2023-10-22 20:45:00";7332;7332;"Jiri Konecny";"Jiri Konecny";"Medlov - Hlivice";Czechia;49.7822222222;17.0377777778;268
+86260;"2023-10-23 00:27:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+86261;"2023-09-22 18:04:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86262;"2023-10-21 22:55:00";7131;7131;"Steve Brown";"Steve Brown";Stokesley;"United Kingdom";54.4738900000;-1.1836100000;70
+86263;"2023-09-24 18:16:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86264;"2023-09-25 23:42:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86265;"2023-10-22 23:00:00";7131;7131;"Steve Brown";"Steve Brown";Middlesbrough;"United Kingdom";54.4019444444;-0.9275000000;414
+86266;"2023-09-27 00:33:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86267;"2023-10-24 00:32:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+86268;"2023-10-22 22:45:00";210;210;"Ina Rendtel";"Ina Rendtel";"Görne, Westhavelland, Brandenburg";Germany;52.6955070000;12.4808333333;28
+86269;"2023-10-22 20:45:00";8897;8897;"Marcela Vaclavikova";"Marcela Vaclavikova";"Medlov - Hlivice";Czechia;49.7822222222;17.0377777778;268
+86270;"2023-10-18 00:10:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+86271;"2023-10-19 00:00:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+86272;"2023-10-20 00:10:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+86273;"2023-10-23 00:53:00";7633;7633;"Oleksandr Maidyk";"Oleksandr Maidyk";Novotroitske;Ukraine;47.7170400000;37.5574200000;166
+86274;"2023-10-09 19:39:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86275;"2023-10-22 05:05:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+86276;"2023-10-20 21:45:00";7978;7978;"Artyom Novichonok";"Artyom Novichonok";"Республика Карелия";Russia;61.9209279454;33.6478502389;139
+86277;"2023-10-10 17:16:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86278;"2023-10-22 21:30:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ronse;Belgium;50.7291356749;3.6146822924;34
+86279;"2023-10-13 02:30:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86280;"2023-10-16 17:39:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86281;"2023-09-05 19:57:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+86282;"2023-10-20 20:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Sakkaravaara;Sweden;67.8802777778;20.3066666667;433
+86283;"2023-10-21 18:15:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Sakkaravaara;Sweden;67.8802777778;20.3066666667;433
+86284;"2023-08-11 21:00:00";12986;12986;"Josef Pěček";"Josef Pěček";Orebič;Croatia;42.9794416667;17.1941666667;0
+86285;"2023-10-23 06:02:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+86286;"2023-10-15 18:15:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+86287;"2023-10-17 18:24:00";7241;7241;"Sabine Wächter";"Sabine Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+86288;"2023-10-15 18:15:00";7322;7322;"Frank Wächter";"Frank Wächter";Radebeul;Germany;51.1200000000;13.6100000000;112
+86289;"2023-10-25 08:12:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+86290;"2023-08-08 21:00:00";11441;11441;"Denis Reichel";"Denis Reichel";Orebic;Croatia;42.9794444444;17.1941666667;0
+86291;"2023-08-10 21:00:00";11441;11441;"Denis Reichel";"Denis Reichel";Orebic;Croatia;42.9794444444;17.1941666667;0
+86292;"2023-08-12 21:00:00";11441;11441;"Denis Reichel";"Denis Reichel";Orebic;Croatia;42.9794444444;17.1941666667;0
+86315;"2023-11-06 20:45:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+86316;"2023-11-07 21:15:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+86317;"2023-11-13 07:40:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+86318;"2023-11-14 07:35:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+86319;"2023-11-17 11:30:00";8035;8035;"Wesley Stone";"Wesley Stone";Oregon;"United States";42.3868929823;-121.8115421618;1394
+86320;"2023-11-17 08:10:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+86321;"2023-11-18 01:05:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+86322;"2023-11-18 02:15:00";81;81;"Mitja Govedič";"Mitja Govedič";Kramarovci;Slovenia;46.8080555556;16.0100000000;338
+86323;"2023-11-18 00:10:00";7205;7205;"Pierre Bader";"Pierre Bader";Untermaßfeld;Germany;50.5246013326;10.4137914702;325
+86324;"2023-11-17 19:40:00";17514;17514;"Maria Dal Pian";"Maria Dal Pian";Veneto;Italy;45.8454824929;11.8192217035;604
+86325;"2023-11-19 03:51:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Rome;Italy;41.9125700000;12.4545700000;40
+86326;"2023-11-19 02:30:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ronse;Belgium;50.7291356749;3.6146822924;34
+86327;"2023-11-19 00:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+86328;"2023-11-18 00:08:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697900000;14.1350200000;811
+86329;"2023-11-16 22:30:00";7935;7935;"Omri Katz";"Omri Katz";"Mitzpe Ramon";Israel;30.5973500000;34.7623500000;881
+86330;"2023-11-19 00:38:00";131;131;"Javor Kac";"Javor Kac";"Medvedje Brdo";Slovenia;45.9697900000;14.1350200000;811
+86331;"2023-11-19 03:28:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2897578145;5.6123875482;16
+86332;"2023-11-19 23:30:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+86333;"2023-11-18 09:15:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+86334;"2023-11-16 00:00:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+86335;"2023-11-19 07:45:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+86336;"2023-11-22 04:05:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+86337;"2023-11-23 02:55:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+86338;"2023-11-22 00:32:00";214;214;"Koen Miskotte";"Koen Miskotte";Ermelo;Netherlands;52.2897578145;5.6123875482;16
+86339;"2023-11-18 04:00:00";135;135;"Orlando Benítez Sánchez";"Orlando Benítez Sánchez";"Llanos del Garañón, Gran Canaria";Spain;27.9688888889;-15.5888888889;1700
+86340;"2023-11-24 04:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+86341;"2023-11-19 06:45:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+86342;"2023-11-25 05:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+86343;"2023-11-22 00:54:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ronse;Belgium;50.7291356749;3.6146822924;34
+86344;"2023-11-21 23:40:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+86345;"2023-11-24 02:15:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+86346;"2023-11-28 19:00:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+86347;"2023-11-10 00:40:00";13396;13396;"Pedro Pérez";"Pedro Pérez";Canarias;Spain;27.9983986828;-15.5548989840;1131
+86348;"2023-11-18 04:02:00";13396;13396;"Pedro Pérez";"Pedro Pérez";Canarias;Spain;27.9741253814;-15.5856867202;1689
+86349;"2023-11-24 05:20:00";13396;13396;"Pedro Pérez";"Pedro Pérez";Canarias;Spain;27.9983986828;-15.5548989840;1131
+86350;"2023-11-29 19:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";"Observatorio del Teide, Izana, Tenerife";Spain;28.3019892015;-16.5097773066;2383
+86351;"2023-12-02 17:48:00";532;532;"Michel Deconinck";"Michel Deconinck";Artignosc-sur-Verdon;France;43.7040808481;6.0900008932;504
+86352;"2023-12-03 17:46:00";532;532;"Michel Deconinck";"Michel Deconinck";Artignosc-sur-Verdon;France;43.7040187995;6.0900143042;502
+86353;"2023-12-02 19:16:00";;532;"Ludovic PERBET";"Michel Deconinck";"La Roche-des-Arnauds";France;44.5610237288;5.9971042675;1156
+86354;"2023-12-03 19:10:00";;532;"Ludovic PERBET";"Michel Deconinck";"La Roche-des-Arnauds";France;44.5610237288;5.9971042675;1156
+86355;"2023-12-03 20:50:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+86356;"2023-12-07 19:50:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+86357;"2023-12-08 22:55:00";7131;7131;"Steve Brown";"Steve Brown";Stokesley;"United Kingdom";54.4738900000;-1.1836100000;70
+86358;"2023-12-11 19:27:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+86359;"2023-12-11 15:15:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Talgarno;Australia;-36.1031531186;147.2238330633;371
+86360;"2023-12-11 21:50:00";7131;7131;"Steve Brown";"Steve Brown";Stokesley;"United Kingdom";54.4738900000;-1.1836100000;70
+86361;"2023-12-12 21:42:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+86362;"2023-12-13 08:03:00";238;238;"Carl Hergenrother";"Carl Hergenrother";"Tanque Verde";"United States";32.2819444444;-110.7680555560;826
+86363;"2023-12-12 21:25:00";210;210;"Ina Rendtel";"Ina Rendtel";"Töplitz, Brandenburg";Germany;52.4475000000;12.9208333333;40
+86364;"2023-12-12 22:21:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Sibari;Italy;39.7281861111;16.5086461600;4
+86365;"2023-12-13 21:15:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+86366;"2023-12-13 08:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"Descanso, CA";"United States";32.8383333333;-116.6261111110;1019
+86367;"2023-12-13 10:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"Descanso, CA";"United States";32.8383333333;-116.6261111110;1019
+86368;"2023-12-13 04:32:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4105555556;-45.5352777778;838
+86369;"2023-12-13 21:00:00";17505;17505;"José Vicente  Díaz Martínez ";"José Vicente  Díaz Martínez ";Bugarra;Spain;39.6166666667;-0.7666666667;260
+86370;"2023-12-13 23:05:00";7131;7131;"Steve Brown";"Steve Brown";Stokesley;"United Kingdom";54.4738900000;-1.1836100000;70
+86371;"2023-12-12 18:50:00";486;486;"Anna Levin";"Anna Levin";"Beer Menuha";Israel;30.3080555556;35.1330555556;187
+86372;"2023-12-12 18:43:00";7836;7836;"Ella Ratz";"Ella Ratz";"Beer Menuha";Israel;30.3057500000;35.1334300000;181
+86373;"2023-12-13 19:30:00";486;486;"Anna Levin";"Anna Levin";"Beer Menuha";Israel;30.3080555556;35.1330555556;187
+86374;"2023-12-12 09:45:00";15561;15561;"Basil Nikolau";"Basil Nikolau";Oregon;"United States";42.1494044228;-122.6349798354;686
+86375;"2023-12-14 04:55:00";532;532;"Michel Deconinck";"Michel Deconinck";Artignosc-sur-Verdon;France;43.7040833333;6.0902777778;500
+86376;"2023-12-14 05:30:00";8406;8406;"Stephen Riley";"Stephen Riley";"New Milford";"United States";41.6139490651;-73.3824752284;228
+86377;"2023-12-14 07:23:00";238;238;"Carl Hergenrother";"Carl Hergenrother";Tucson;"United States";32.2819444444;-110.7680555560;826
+86378;"2023-12-14 04:42:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4105555556;-45.5352777778;838
+86379;"2023-12-14 05:26:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4105555556;-45.5352777778;838
+86380;"2023-12-14 08:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"Descanso Wall Trailhead";"United States";32.8411111111;-116.6313888889;1021
+86381;"2023-12-13 22:55:00";15418;15418;"Daniel Alcázar ";"Daniel Alcázar ";Andalucía;Spain;37.5104840229;-2.3150016224;1253
+86382;"2023-12-14 07:46:00";185;185;"Richard Taibi";"Richard Taibi";"Severn, Maryland";"United States";39.0900000000;-76.6800000000;68
+86383;"2023-12-14 18:15:00";7281;7281;"Sonal Thorve";"Sonal Thorve";"Chinchwad ";India;18.6300000000;73.7800000000;585
+86384;"2023-12-14 17:30:00";532;532;"Michel Deconinck";"Michel Deconinck";Artignosc-sur-Verdon;France;43.7035925457;6.1021245762;540
+86385;"2023-12-14 19:50:00";7295;7295;"Mayuresh Prabhune";"Mayuresh Prabhune";Maharashtra;India;18.6359298258;73.6168324198;665
+86386;"2023-12-15 03:40:00";532;532;"Michel Deconinck";"Michel Deconinck";Artignosc-sur-Verdon;France;43.7041666667;6.0902777778;505
+86387;"2023-12-12 15:15:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Mount Buffalo";Australia;-36.7760910865;146.7642234087;1606
+86388;"2023-12-13 14:00:00";7466;7466;"Glenn Hughes";"Glenn Hughes";"Bowmans Forest";Australia;-36.4714346902;146.5947455414;191
+86389;"2023-12-14 19:30:00";17852;17852;"Nitzan Granot";"Nitzan Granot";"South District";Israel;30.3057500000;35.1334277778;181
+86391;"2023-12-13 22:43:00";7836;7836;"Ella Ratz";"Ella Ratz";"Beer Menuha";Israel;30.3057500000;35.1334300000;181
+86392;"2023-12-14 17:00:00";8055;8055;"Ido Braun";"Ido Braun";"South District";Israel;30.3057500000;35.1334300000;181
+86394;"2023-12-14 16:40:00";486;486;"Anna Levin";"Anna Levin";"Beer Menuha";Israel;30.3080555556;35.1330555556;187
+86395;"2023-12-14 17:00:00";7836;7836;"Ella Ratz";"Ella Ratz";"Beer Menuha";Israel;30.3057500000;35.1334300000;181
+86396;"2023-12-15 04:42:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4105555556;-45.5352777778;838
+86397;"2023-12-14 19:30:00";17491;17491;"Irena  Veber";"Irena  Veber";"מחוז הדרום";Israel;30.8295600000;35.0388200000;99
+86398;"2023-12-15 05:15:00";7442;7442;"Gabriel Hickel";"Gabriel Hickel";Piranguinho;Brazil;-22.4105555556;-45.5352777778;838
+86399;"2023-12-12 18:50:00";7842;7842;"Tamara Tchenak";"Tamara Tchenak";"Beer Menuha";Israel;30.3080555556;35.1330555556;187
+86400;"2023-12-13 19:00:00";7842;7842;"Tamara Tchenak";"Tamara Tchenak";"Beer Menuha";Israel;30.3080555556;35.1330555556;187
+86401;"2023-12-13 23:24:00";17745;17745;"Thierry Gonnord";"Thierry Gonnord";PALLUAU;France;46.8044444444;-1.6277777778;20
+86402;"2023-12-14 22:15:00";7131;7131;"Steve Brown";"Steve Brown";Stokesley;"United Kingdom";54.4738900000;-1.1836100000;70
+86403;"2023-12-15 04:20:00";8035;8035;"Wesley Stone";"Wesley Stone";Oregon;"United States";42.0090625966;-121.1161752366;1380
+86404;"2023-12-12 06:05:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+86405;"2023-12-13 06:01:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+86406;"2023-12-14 11:02:00";8035;8035;"Wesley Stone";"Wesley Stone";Oregon;"United States";42.0090625966;-121.1161752366;1380
+86407;"2023-12-15 22:35:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Roma;Italy;41.9125700000;12.4545700000;18
+86408;"2023-12-10 22:50:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Roma;Italy;41.9125700000;12.4545700000;18
+86409;"2023-12-13 08:32:00";8035;8035;"Wesley Stone";"Wesley Stone";Oregon;"United States";42.0090625966;-121.1161752366;1380
+86410;"2023-12-13 11:20:00";8035;8035;"Wesley Stone";"Wesley Stone";Oregon;"United States";42.0090625966;-121.1161752366;1380
+86411;"2023-12-13 12:58:00";8035;8035;"Wesley Stone";"Wesley Stone";Oregon;"United States";42.0090625966;-121.1161752366;1380
+86412;"2023-12-13 14:40:00";12423;12423;"SHIVAM UPADHYAY";"SHIVAM UPADHYAY";Karnataka;India;12.3861215184;75.5119508525;1095
+86413;"2023-12-14 15:10:00";7466;7466;"Glenn Hughes";"Glenn Hughes";Kergunyah;Australia;-36.3590695830;147.0222365505;213
+86414;"2023-12-12 00:52:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ronse;Belgium;50.7291356749;3.6146822924;34
+86415;"2023-12-16 02:33:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ronse;Belgium;50.7291356749;3.6146822924;34
+86417;"2023-12-15 20:00:00";17514;17514;"Maria Dal Pian";"Maria Dal Pian";Veneto;Italy;45.8454824929;11.8192217035;604
+86418;"2023-12-12 20:45:00";8033;8033;"Ariel Westfried";"Ariel Westfried";"Beer Menuha";Israel;30.3080555556;35.1330555556;187
+86419;"2023-12-13 20:00:00";8033;8033;"Ariel Westfried";"Ariel Westfried";"Beer Menuha";Israel;30.3080555556;35.1330555556;187
+86420;"2023-12-14 07:47:00";399;399;"Howard Edin";"Howard Edin";Eudora;"United States";38.8191666667;-95.0925000000;303
+86421;"2023-12-14 17:00:00";8033;8033;"Ariel Westfried";"Ariel Westfried";"Beer Menuha";Israel;30.3080555556;35.1330555556;187
+86422;"2023-12-15 20:18:00";532;17854;"Michel Deconinck";"PERBET LUDOVIC";Neffes;France;44.4783600000;6.0157000000;735
+86423;"2023-12-15 21:21:00";17826;17826;"Philippe Bouvier";"Philippe Bouvier";Draguignan;France;43.5574403320;6.4661452124;509
+86424;"2023-12-15 18:10:00";8055;8055;"Ido Braun";"Ido Braun";"South District";Israel;30.3057500000;35.1334300000;181
+86425;"2023-12-16 21:00:00";7210;7210;"Costantino Sigismondi";"Costantino Sigismondi";Rome;Italy;41.8791165297;12.4522556452;55
+86426;"2023-12-14 03:46:00";7937;7937;"Craig Ben";"Craig Ben";"Tierra del Sol";"United States";33.4083333333;-116.5933333333;1213
+86427;"2023-12-16 19:01:00";7706;7706;"Oliver Wusk";"Oliver Wusk";Finning;Germany;48.0285000000;11.0089700000;622
+86428;"2023-11-16 22:20:00";7836;7836;"Ella Ratz";"Ella Ratz";"Wise Observatory";Israel;30.5958333333;34.7633333333;875
+86429;"2023-11-17 18:35:00";7836;7836;"Ella Ratz";"Ella Ratz";"Wise Observatory";Israel;30.5958333333;34.7633333333;875
+86430;"2023-12-15 18:10:00";7836;7836;"Ella Ratz";"Ella Ratz";"Beer Menuha";Israel;30.3057500000;35.1334300000;181
+86431;"2023-12-14 23:08:00";1651;1651;"Jaroslaw Dygos";"Jaroslaw Dygos";"Czernice Borowe";Poland;53.0325000000;20.7188888889;150
+86432;"2023-12-15 22:00:00";17845;17845;"Jean-Marie Bourgoise";"Jean-Marie Bourgoise";"SAINT SERIES";France;43.7302777778;4.1058333333;35
+86433;"2023-12-14 21:55:00";352;352;"Francisco Ocaña González";"Francisco Ocaña González";"Huelves-Barajas de Melo";Spain;40.0966666667;-2.8916666667;860
+86434;"2023-12-15 00:00:00";7574;7574;"Gerardo Jiménez López";"Gerardo Jiménez López";Ávila;Spain;40.6567384692;-4.7071100219;1081
+86435;"2023-12-14 19:30:00";8017;8017;"eldar noy";"eldar noy";"South District";Israel;30.3077202482;35.1326291731;189
+86436;"2023-12-14 09:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"Descanso Wall Trailhead";"United States";32.8411111111;-116.6313888889;1021
+86437;"2023-12-13 22:15:00";8402;8402;"Fabrizio Melandri";"Fabrizio Melandri";Castroregio;Italy;39.9904900000;16.4924400000;600
+86438;"2023-12-14 23:32:00";210;210;"Ina Rendtel";"Ina Rendtel";"Walchow bei Neuruppin, Brandenburg";Germany;52.8466666667;12.7777777778;44
+86439;"2023-12-15 02:42:00";210;210;"Ina Rendtel";"Ina Rendtel";"Netzen, Kloster Lehnin, Brandenburg";Germany;52.3477777778;12.6736111111;29
+86440;"2023-12-17 21:35:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+86441;"2023-12-15 21:00:00";17736;17736;"Yves ROBIN";"Yves ROBIN";Challans;France;46.8543805996;-1.7917252110;54
+86442;"2023-12-14 20:11:00";7274;7274;"Sasha Prokofyev";"Sasha Prokofyev";Pyrga;Cyprus;34.9046038130;33.4844083854;168
+86443;"2023-12-14 20:32:00";7274;7274;"Sasha Prokofyev";"Sasha Prokofyev";Pyrga;Cyprus;34.9046000000;33.4844100000;168
+86444;"2023-12-14 21:04:00";7274;7274;"Sasha Prokofyev";"Sasha Prokofyev";Pyrga;Cyprus;34.9046000000;33.4844100000;168
+86445;"2023-12-15 21:00:00";17745;17745;"Thierry Gonnord";"Thierry Gonnord";Challans;France;46.8543847777;-1.7916849778;54
+86446;"2023-12-15 21:00:00";8402;8402;"Fabrizio Melandri";"Fabrizio Melandri";Castroregio;Italy;39.9904900000;16.4924400000;600
+86447;"2023-12-14 16:40:00";7842;7842;"Tamara Tchenak";"Tamara Tchenak";"Beer Menuha";Israel;30.3080555556;35.1330555556;187
+86448;"2023-12-15 21:00:00";17870;17870;"Aurélien Martin";"Aurélien Martin";Challans;France;46.8543775636;-1.7915775724;54
+86449;"2023-12-17 21:15:00";49;49;"Roland Winkler";"Roland Winkler";Markkleeberg;Germany;51.2833333333;12.3666666667;114
+86450;"2023-12-15 21:59:00";131;131;"Javor Kac";"Javor Kac";"Dolenja Vas";Slovenia;45.7268700000;14.0066600000;527
+86451;"2023-12-14 10:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"Descanso Wall Trailhead";"United States";32.8411111111;-116.6313888889;1022
+86452;"2023-12-14 05:11:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+86453;"2023-12-14 08:00:00";17865;17865;"Winston Lee";"Winston Lee";"Diamond Bar";"United States";33.9876050368;-117.8381375018;288
+86454;"2023-12-15 18:30:00";7641;7641;"Mohammad Nilforoushan";"Mohammad Nilforoushan";"Garmsar - Sanard Village";Iran;35.1557000000;52.3496000000;815
+86457;"2023-12-16 05:15:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+86458;"2023-12-15 21:00:00";17876;17876;"Christian Reydet";"Christian Reydet";Challans;France;46.8543248003;-1.7917332576;54
+86459;"2023-12-17 21:00:00";211;211;"Michel Vandeputte";"Michel Vandeputte";Ronse;Belgium;50.7291356749;3.6146822924;34
+86460;"2023-12-10 22:40:00";214;214;"Koen Miskotte";"Koen Miskotte";Faro;Portugal;37.3358739712;-8.5051929762;317
+86461;"2023-12-13 20:37:00";214;214;"Koen Miskotte";"Koen Miskotte";Faro;Portugal;37.3358739712;-8.5051929762;317
+86462;"2023-12-14 18:40:00";214;214;"Koen Miskotte";"Koen Miskotte";Faro;Portugal;37.3358739712;-8.5051929762;317
+86463;"2023-12-15 23:17:00";214;214;"Koen Miskotte";"Koen Miskotte";Faro;Portugal;37.3358739712;-8.5051929762;317
+86464;"2023-12-17 21:45:00";210;210;"Ina Rendtel";"Ina Rendtel";"Hohenstein-Ernstthal, Sachsen";Germany;50.8008333333;12.6988888889;385
+86465;"2023-12-14 19:46:00";131;131;"Javor Kac";"Javor Kac";"Dolenja vas";Slovenia;45.7268722222;14.0066583333;527
+86466;"2023-12-22 00:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+86467;"2023-12-19 08:47:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+86468;"2023-12-20 08:15:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+86469;"2023-12-21 08:15:00";13202;13202;"Mark Adams";"Mark Adams";"Charlottesville, Virginia";"United States";38.1002500000;-78.6160400000;192
+86470;"2023-12-14 11:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"Descanso Wall Trailhead";"United States";32.8411111111;-116.6313888889;1022
+86471;"2023-12-22 11:18:00";8035;8035;"Wesley Stone";"Wesley Stone";Oregon;"United States";42.0090625966;-121.1161752366;1380
+86472;"2023-11-02 16:12:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86473;"2023-11-03 16:44:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86474;"2023-11-09 16:15:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86475;"2023-12-09 21:35:00";135;135;"Orlando Benítez Sánchez";"Orlando Benítez Sánchez";"Llanos del Garañón, Gran Canaria";Spain;27.9688888889;-15.5888888889;1700
+86476;"2023-12-15 22:35:00";135;135;"Orlando Benítez Sánchez";"Orlando Benítez Sánchez";"Llanos del Garañón, Gran Canaria";Spain;27.9688888889;-15.5888888889;1700
+86477;"2023-11-17 17:57:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86478;"2023-11-20 17:54:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86479;"2023-12-15 15:50:00";194;194;"Ivan Sergey";"Ivan Sergey";Polyani;Belarus;54.2794444444;26.7438888889;229
+86480;"2023-12-12 22:00:00";138;138;"Tim Cooper";"Tim Cooper";BENONI;"South Africa";-26.0902777778;28.3161111111;1617
+86481;"2023-12-27 04:20:00";82;82;"Jurgen Rendtel";"Jurgen Rendtel";Marquardt;Germany;52.4565337898;12.9708741108;34
+86482;"2023-12-14 21:00:00";135;135;"Orlando Benítez Sánchez";"Orlando Benítez Sánchez";"Llanos del Garañón, Gran Canaria";Spain;27.9688888889;-15.5888888889;1700
+86483;"2023-12-13 04:15:00";13396;13396;"Pedro Pérez";"Pedro Pérez";Canarias;Spain;27.9983986828;-15.5548989840;1131
+86484;"2023-12-16 21:14:00";7312;7312;"István Mátis";"István Mátis";Feleacu;Romania;46.7079200000;23.5931200000;732
+86485;"2023-12-08 06:12:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+86486;"2023-12-10 05:46:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+86487;"2023-12-16 05:27:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+86488;"2023-12-22 09:56:00";418;418;"Terrence Ross";"Terrence Ross";"Alpine, Texas";"United States";30.2767000000;-103.5959630000;1621
+86489;"2023-12-14 04:50:00";17887;17887;"Scott Lancelle";"Scott Lancelle";"Genesee Depot";"United States";42.9689444444;-88.3930833333;298
+86498;"2023-12-29 00:30:00";11678;11678;"Riziele Correa da Silva";"Riziele Correa da Silva";"Balneario Gaivota";Brazil;-29.1344444444;-48.6172222222;10
+86501;"2023-12-14 20:11:00";7374;7374;"George Troullias";"George Troullias";Pyrga;Cyprus;34.9045300000;33.4844000000;167
+86502;"2023-12-14 20:32:00";7374;7374;"George Troullias";"George Troullias";Larnaca;Cyprus;34.8042010856;33.2626866797;174
+86503;"2023-08-13 20:28:00";17927;17927;"ANDRI CONSTANTINOU";"ANDRI CONSTANTINOU";Pyrga;Cyprus;34.9045885680;33.4844522415;167
+86504;"2023-08-16 20:18:00";17927;17927;"ANDRI CONSTANTINOU";"ANDRI CONSTANTINOU";Pyrga;Cyprus;34.9045885680;33.4844522415;167
+86508;"2023-12-14 03:35:00";13396;13396;"Pedro Pérez";"Pedro Pérez";Canarias;Spain;27.9983986828;-15.5548989840;1131
+86509;"2023-12-14 04:56:00";13396;13396;"Pedro Pérez";"Pedro Pérez";Canarias;Spain;27.9983986828;-15.5548989840;1131
+86523;"2023-12-16 19:30:00";17496;17496;"Yaser Soleimani";"Yaser Soleimani";Neyshabour;Iran;36.5478430000;58.6968220000;1875
+86534;"2023-12-14 16:10:00";115;115;"Thomas Weiland";"Thomas Weiland";"W of Ras Madrakah";Oman;19.0277777778;57.4194444444;35
+86535;"2023-12-13 19:15:00";115;115;"Thomas Weiland";"Thomas Weiland";"NW of Ras Madrakah";Oman;19.4266666667;57.2925000000;170
+86536;"2023-12-12 18:40:00";115;115;"Thomas Weiland";"Thomas Weiland";"NW of Al Khabbah";Oman;22.2730555556;59.7541666667;15
+86537;"2023-12-11 18:40:00";115;115;"Thomas Weiland";"Thomas Weiland";"NW of Al Khabbah";Oman;22.2730555556;59.7541666667;15
+86538;"2023-12-15 20:05:00";115;115;"Thomas Weiland";"Thomas Weiland";"NW of Ras Madrakah";Oman;19.4266666667;57.2925000000;170
+86539;"2023-12-14 01:40:00";8022;8022;"Pierre Martin";"Pierre Martin";"Cincinnati Dark Sky Site";"United States";38.8800000000;-83.4600000000;217
+86540;"2023-12-15 00:14:00";8022;8022;"Pierre Martin";"Pierre Martin";"Cincinnati Dark Sky Site";"United States";38.8800000000;-83.4600000000;217
+86555;"2023-05-06 06:45:00";8022;8022;"Pierre Martin";"Pierre Martin";Stewartville;Canada;45.3833333333;-76.4833333333;157
+86556;"2023-07-28 05:05:00";8022;8022;"Pierre Martin";"Pierre Martin";Stewartville;Canada;45.3833333333;-76.4833333333;157
+86557;"2023-07-30 06:20:00";8022;8022;"Pierre Martin";"Pierre Martin";"Moose Creek";Canada;45.2528000000;-75.0518000000;68
+86558;"2023-08-20 03:15:00";8022;8022;"Pierre Martin";"Pierre Martin";"Moose Creek";Canada;45.2528000000;-75.0518000000;68
+86559;"2023-12-02 23:10:00";8022;8022;"Pierre Martin";"Pierre Martin";"Pit Road";Canada;45.6166666667;-76.9416666667;150
+86565;"2023-12-15 01:14:00";17836;17836;"Serge PAUPY";"Serge PAUPY";"Colmenar Viejo";Spain;40.6440100000;-3.8314700000;910
+86567;"2023-12-15 01:14:00";;17836;"Mateo Paupy";"Serge PAUPY";"Colmenar Viejo";Spain;40.6440100000;-3.8314700000;910
+86568;"2023-12-15 01:14:00";;17836;"Marco Paupy";"Serge PAUPY";"Colmenar Viejo";Spain;40.6440100000;-3.8314700000;910
+86731;"2023-11-04 04:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+86732;"2023-11-09 11:56:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+86733;"2023-11-10 11:09:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+86734;"2023-11-11 10:56:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;292
+86735;"2023-11-12 11:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+86736;"2023-11-14 11:00:00";177;177;"Robert Lunsford";"Robert Lunsford";California;"United States";32.8368786937;-116.6612905694;887
+86737;"2023-11-20 11:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;304
+86765;"2023-11-21 11:00:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;292
+86766;"2023-12-06 06:24:00";177;177;"Robert Lunsford";"Robert Lunsford";"El Cajon";"United States";32.8624450000;-116.8600130000;292
+86899;"2023-12-14 20:23:00";17827;17827;"Richard Dekker";"Richard Dekker";"SAINT PAUL";Reunion;-21.0708333333;55.3875000000;2200
+87640;"2023-06-18 20:00:00";14393;14393;"Miloslav Macháček";"Miloslav Macháček";Býšť;Czechia;50.1587800290;15.9441535545;286
+88020;"2023-12-09 15:00:00";12272;12272;"Taipei Astronomical Museum Taiwan";"Taipei Astronomical Museum Taiwan";台北市;Taiwan;25.0958300000;121.5183300000;2
+88021;"2023-12-10 18:00:00";12272;12272;"Taipei Astronomical Museum Taiwan";"Taipei Astronomical Museum Taiwan";台北市;Taiwan;25.0958300000;121.5183300000;2
+88022;"2023-12-11 16:00:00";12272;12272;"Taipei Astronomical Museum Taiwan";"Taipei Astronomical Museum Taiwan";台北市;Taiwan;25.0958300000;121.5183300000;2
+88023;"2023-12-12 13:00:00";12272;12272;"Taipei Astronomical Museum Taiwan";"Taipei Astronomical Museum Taiwan";台北市;Taiwan;25.0958300000;121.5183300000;2
+88024;"2023-12-13 12:00:00";12272;12272;"Taipei Astronomical Museum Taiwan";"Taipei Astronomical Museum Taiwan";台北市;Taiwan;25.0958300000;121.5183300000;2
+88025;"2023-12-14 11:00:00";12272;12272;"Taipei Astronomical Museum Taiwan";"Taipei Astronomical Museum Taiwan";台北市;Taiwan;25.0958300000;121.5183300000;2
+88026;"2023-12-15 13:00:00";12272;12272;"Taipei Astronomical Museum Taiwan";"Taipei Astronomical Museum Taiwan";台北市;Taiwan;25.0958300000;121.5183300000;2
+88827;"2023-04-19 22:20:00";115;115;"Thomas Weiland";"Thomas Weiland";"Gioús Kámbos";Greece;35.2130555556;24.5716666667;795
+88828;"2023-04-23 22:15:00";115;115;"Thomas Weiland";"Thomas Weiland";"Gioús Kámbos";Greece;35.2130555556;24.5716666667;795
+88829;"2023-10-22 23:10:00";115;115;"Thomas Weiland";"Thomas Weiland";Atzelsdorf;Austria;48.5083333333;16.5530555556;220
+88830;"2023-11-17 23:40:00";115;115;"Thomas Weiland";"Thomas Weiland";Kemeten;Austria;47.2511111111;16.1361111111;370

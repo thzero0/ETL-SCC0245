@@ -10,14 +10,17 @@ from pyspark.sql.functions import col, udf, initcap, lower, regexp_replace, spli
 import pyspark.sql.functions as sf
 from pyspark.sql.types import StringType
 import unidecode
+import os 
+import glob
 
-weather_path = "../data/weather_data.csv"
-session_path = "../data/Session-IMO-VMDB-Year-2022.csv"
+session_path = "../data/Sessions/"
+rates_path = "../data/Observations/"
+magnitude_path = "../data/Magnitudes/"
+weather_path = "../data/Weather/"
+
 weather_code_path = "../data/weather_description.csv"
-rates_path = "../data/Rate-IMO-VMDB-Year-2022.csv"
 locations_path = "../data/locations.csv"
 meteor_shower_path = "../data/IMO_Working_Meteor_Shower_List.csv"
-magnitude_path = "../data/2022-Magnitude.csv"
 
 geolocator = Nominatim(user_agent="Obtain_Locations_ETL")
 
@@ -53,35 +56,49 @@ def haversine_distance(lat1, lon1, lat2, lon2):
 
 def compute_locations(path_locations: str, path_session: str):
 
+    # Conjunto de localizações já conhecidas
     known_locations = pd.read_csv(path_locations, sep=",")
 
-    to_be_discovered = pd.read_csv(path_session, sep=";")
+    known_coords = set(zip(known_locations["Latitude"], known_locations["Longitude"]))
+
+    # Lê todas as localizações a serem descobertas
+    to_be_discovered_files = glob.glob(os.path.join(path_session , "*.csv"))
+    li = []
+    for filename in to_be_discovered_files:
+        to_be_discovered = pd.read_csv(filename, index_col=None, header=0, sep=';')
+        li.append(to_be_discovered)
+    to_be_discovered = pd.concat(li, axis=0, ignore_index=True)
+
+    print(f"Total de localizações a serem descobertas: {len(to_be_discovered)}")
+
+
+    
+    # Filtra apenas Latitude e Longitude
     to_be_discovered = to_be_discovered[['Latitude', 'Longitude']]
     
     new_locations_list = []
+
+    cnt_requests = 0
 
     for index, row in to_be_discovered.iterrows():
             
         lat_atual, lon_atual = row['Latitude'], row['Longitude']
         
+        # Pula valores nulos
+        if pd.isna(lat_atual) or pd.isna(lon_atual):
+            continue
+
         # Flag para controlar se encontramos um local próximo
         found_near = False
 
         # 1. Checa contra as localizações já conhecidas no nosso csv
-        if not known_locations.empty:
-            for _, known_row in known_locations.iterrows():
-                found_near = True
-                break
-
-        # 2. Se não encontrou, checa as localizações DESCOBERTAS nessa chamada de função
-        if not found_near and new_locations_list:
-            for new_loc in new_locations_list:
-                found_near = True
-                break
+        if (lat_atual, lon_atual) in known_coords:
+            continue
 
         # 3. Se não encontrou em NENHUM lugar, usa a API
         if not found_near:
             print(f"Chamando API para lat={lat_atual} & lon={lon_atual}.")
+            cnt_requests += 1
             try:
                 location = geolocator.reverse((lat_atual, lon_atual), timeout=10, exactly_one=True, language='en', zoom=18)
                 
@@ -109,7 +126,23 @@ def compute_locations(path_locations: str, path_session: str):
 
                     
                     # Adiciona para a lista de novas localizações
+                    known_coords.add((lat_atual, lon_atual))
                     new_locations_list.append(new_location_data)
+                else:
+                    print(f"Nenhum resultado da API para ({lat_atual}, {lon_atual}).")
+                    new_location_data = {
+                        'Latitude': lat_atual,
+                        'Longitude': lon_atual,
+                        'City': 'Unknown',
+                        'Village_or_Hamlet': 'Unknown',
+                        'County': 'Unknown',
+                        'State': 'Unknown',
+                        'Country': 'Unknown',
+                        'CountryCode': 'Unknown'
+                    }
+                    known_coords.add((lat_atual, lon_atual))
+                    new_locations_list.append(new_location_data)
+
                 
             except GeocoderTimedOut:
                 print("GeocoderTimedOut: Pulando esta localização.")
@@ -121,10 +154,28 @@ def compute_locations(path_locations: str, path_session: str):
                 # limite de requisições do nominatim 
                 time.sleep(1.1)
 
+        # Escreve resultados parciais a cada 100 requisições
+        if cnt_requests > 50:
+            print("Escrevendo resultados parciais no arquivo de localizações...")
+            if new_locations_list:
+                new_locations_df = pd.DataFrame(new_locations_list)
+                final_locations = pd.concat([known_locations, new_locations_df], ignore_index=True)
+                final_locations.to_csv(locations_path, index=False)
+                print(f"Escreveu {len(new_locations_list)} novas localizações no arquivo.")
+                new_locations_list = []
+                known_locations = pd.read_csv(path_locations, sep=",")
+            cnt_requests = 0
+
     # 4. Atualiza o csv (só se teve mudança)
     if new_locations_list:
+        print("Escrevendo resultados finais no arquivo de localizações...")
         new_locations_df = pd.DataFrame(new_locations_list)
         final_locations = pd.concat([known_locations, new_locations_df], ignore_index=True)
+        # Ordena por pais, estado, cidade
+        try:
+            final_locations = final_locations.sort_values(by=['Country', 'State', 'City'])
+        except Exception as e:
+            print(f"Erro ao ordenar localizações: {e}")
         final_locations.to_csv(locations_path, index=False)
 
     return None

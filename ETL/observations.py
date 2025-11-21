@@ -26,12 +26,19 @@ def generate_local_dim(session_path: str, locations_path: str):
 
     location_columns = df_locations.columns
     
+    # Renomeia para compatibilidade na junção
     df_locations_renamed = df_locations
     for c in location_columns:
         df_locations_renamed = df_locations_renamed.withColumnRenamed(c, f"loc_{c}")
     
     df = df.join(df_locations_renamed, (df["Latitude"] == df_locations_renamed["loc_Latitude"]) & 
                           (df["Longitude"] == df_locations_renamed["loc_Longitude"]) , "left")
+    
+    # Não inclui localizações sem coordenadas
+    df = df.filter(
+        (col("Latitude").isNotNull()) &
+        (col("Longitude").isNotNull())
+    )
 
     df = df.withColumn("Latitude", col("Latitude").cast("double")) \
                         .withColumn("Longitude", col("Longitude").cast("double"))
@@ -208,7 +215,7 @@ def generate_time_dim(rates_path: str, magnitude_path: str):
         sf.second(col('Start Date')).alias('second'),
         sf.concat(sf.lpad(sf.hour(col("Start Date")).cast("string"), 2, '0'), lit(':'), 
             sf.lpad(sf.minute(col("Start Date")).cast("string"), 2, '0'), lit(':'), 
-            sf.lpad(sf.second(col("Start Date")).cast("string"), 2, '0')).alias("label"),
+            sf.lpad(sf.second(col("Start Date")).cast("string"), 2, '0')).alias("full_time"),
     )
 
     df2 =  df2.select(
@@ -217,14 +224,14 @@ def generate_time_dim(rates_path: str, magnitude_path: str):
         sf.second(col('Start Date')).alias('second'),
         sf.concat(sf.lpad(sf.hour(col("Start Date")).cast("string"), 2, '0'), lit(':'), 
             sf.lpad(sf.minute(col("Start Date")).cast("string"), 2, '0'), lit(':'), 
-            sf.lpad(sf.second(col("Start Date")).cast("string"), 2, '0')).alias("label"),
+            sf.lpad(sf.second(col("Start Date")).cast("string"), 2, '0')).alias("full_time"),
     )
 
     # create values for weather time (00:00:00, 01:00:00, ..., 23:00:00)
     weather_times = spark.createDataFrame([(i,) for i in range(24)], ["hour"]) \
         .withColumn("minute", lit(0)) \
         .withColumn("second", lit(0)) \
-        .withColumn("label", sf.concat(sf.lpad(col("hour").cast("string"), 2, '0'), lit(":00:00")))
+        .withColumn("full_time", sf.concat(sf.lpad(col("hour").cast("string"), 2, '0'), lit(":00:00")))
 
     df = df.union(df2).union(weather_times)
 
@@ -237,9 +244,9 @@ def generate_time_dim(rates_path: str, magnitude_path: str):
         .withColumn("hour", lit(-1)) \
         .withColumn("minute", lit(-1)) \
         .withColumn("second", lit(-1)) \
-        .withColumn("label", lit("Unknown"))
+        .withColumn("full_time", lit("Unknown"))
 
-    df = df.select("sk_time", "hour", "minute", "second", "label")
+    df = df.select("sk_time", "hour", "minute", "second", "full_time")
 
     df = df.unionByName(null_row)
 
@@ -436,16 +443,16 @@ def generate_fact_observation(rates_path: str, session_path: str):
         col("pk_time_start").alias("fk_start_time"),
         col("pk_date_end").alias("fk_end_date"),
         col("pk_time_end").alias("fk_end_time"),
-        col("sk_local"),
-        col("sk_shower"),
-        col("sk_junk"),
+        col("sk_local").alias("fk_local"),
+        col("sk_shower").alias("fk_shower"),
+        col("sk_junk").alias("fk_junk"),
         col("Obs Session ID").alias("id_session"),
         col("Rate ID").alias("id_observation"),
-        col("Ra").alias("right_observations/ascention"),
+        col("Ra").alias("right_ascention"),
         col("Decl").alias("declination"),
         col("Teff").alias("effective_time"),
         col("F").alias("correction_factor"),
-        col("Number").alias("meteors_counted"),
+        col("Number").alias("cnt_meteor"),
     ).dropDuplicates()
 
     df = df.orderBy("id_observation")
@@ -453,7 +460,6 @@ def generate_fact_observation(rates_path: str, session_path: str):
     df.write.parquet(fact_observations_path, mode="overwrite")
     #df.show()
     return fact_observations_path
-
 
 generate_local_dim(session_path, locations_path)
 generate_date_dim(rates_path, magnitude_path)
